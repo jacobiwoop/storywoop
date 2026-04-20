@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktif"
+   },
+   "authorDigged": {
+      "message": "Penulis Digali"
+   },
+   "buyNow": {
+      "message": "Beli sekarang"
+   },
+   "cancelSubs": {
+      "message": "Batalkan Berlangganan"
+   },
+   "canceled": {
+      "message": "Dibatalkan"
+   },
+   "chunkDownloadNote": {
+      "message": "Untuk kumpulan data besar, kami sarankan menggunakan format CSV. Data akan dipecah menjadi beberapa bagian untuk menghindari masalah pengunduhan."
+   },
+   "chunkSizeRows": {
+      "message": "Ukuran potongan (baris)"
+   },
+   "comment": {
+      "message": "Komentar"
+   },
+   "commentID": {
+      "message": "ID Komentar"
+   },
+   "commentTime": {
+      "message": "Waktu Komentar"
+   },
+   "commentsButtonNotFound": {
+      "message": "Tombol komentar tidak ditemukan. Silakan klik secara manual untuk melanjutkan."
+   },
+   "completed": {
+      "message": "Lengkap"
+   },
+   "concurrentExport": {
+      "message": "Ekspor serentak"
+   },
+   "continue": {
+      "message": "Melanjutkan"
+   },
+   "date": {
+      "message": "Tanggal"
+   },
+   "delete": {
+      "message": "Menghapus"
+   },
+   "description": {
+      "message": "Ekspor komentar TikTok ke Excel dalam CSV untuk dianalisis."
+   },
+   "diggCount": {
+      "message": "Hitung Hitungan"
+   },
+   "discount25": {
+      "message": "Diskon 25% untuk semua item! Penawaran terbatas."
+   },
+   "download": {
+      "message": "Unduh"
+   },
+   "downloadError": {
+      "message": "Kesalahan pengunduhan, coba lagi atau hubungi kami untuk bantuan."
+   },
+   "expired": {
+      "message": "Kedaluwarsa"
+   },
+   "export": {
+      "message": "Ekspor"
+   },
+   "exportDone": {
+      "message": "Ekspor berhasil"
+   },
+   "exportError": {
+      "message": "Terjadi kesalahan, silakan coba lagi"
+   },
+   "exporting": {
+      "message": "Mengekspor..."
+   },
+   "extracted": {
+      "message": "Diekstraksi"
+   },
+   "faq": {
+      "message": "Pertanyaan Umum"
+   },
+   "fetchSubsFailure": {
+      "message": "Tidak dapat memperoleh data berlangganan, silakan coba lagi atau hubungi kami untuk bantuan."
+   },
+   "findTTLink": {
+      "message": "Bagaimana cara menemukan tautan video TikTok?"
+   },
+   "free": {
+      "message": "Bebas"
+   },
+   "freePlan": {
+      "message": "Paket Gratis"
+   },
+   "goToPortal": {
+      "message": "Buka Portal Pelanggan"
+   },
+   "history": {
+      "message": "Sejarah"
+   },
+   "home": {
+      "message": "Rumah"
+   },
+   "includeReply": {
+      "message": "Sertakan balasan komentar"
+   },
+   "includeReply1": {
+      "message": "Sertakan balasan"
+   },
+   "lemonPriceNote": {
+      "message": "Harga tercantum dalam USD. PPN mungkin berlaku tergantung pada lokasi Anda."
+   },
+   "loading": {
+      "message": "Memuat..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Anda dapat mengelola langganan dan penagihan Anda di Portal Pelanggan."
+   },
+   "month": {
+      "message": "bulan"
+   },
+   "monthly": {
+      "message": "Bulanan"
+   },
+   "monthlyDesc": {
+      "message": "Cocok untuk dicoba"
+   },
+   "name": {
+      "message": "TTCommentExporter - Ekspor Komentar TikTok"
+   },
+   "needUpgrade": {
+      "message": "Batas akun gratis terlampaui, tingkatkan versi untuk melanjutkan"
+   },
+   "nickName": {
+      "message": "Nama panggilan"
+   },
+   "no": {
+      "message": "TIDAK"
+   },
+   "noComments": {
+      "message": "Tidak ada komentar yang ditemukan"
+   },
+   "noTaskFound": {
+      "message": "Tidak ada tugas yang ditemukan"
+   },
+   "numOfComments": {
+      "message": "Jumlah komentar yang diekspor"
+   },
+   "paddlePriceNote": {
+      "message": "Harga tercantum dalam USD. Anda mungkin melihat mata uang lokal saat checkout, bergantung pada lokasi Anda. PPN mungkin berlaku."
+   },
+   "pastDue": {
+      "message": "Terlambat"
+   },
+   "pause": {
+      "message": "Berhenti sebentar"
+   },
+   "permAlert": {
+      "message": "Mohon izin untuk melanjutkan"
+   },
+   "pinnedToTop": {
+      "message": "Disematkan ke Atas"
+   },
+   "postID": {
+      "message": "ID kiriman"
+   },
+   "quarterly": {
+      "message": "Triwulanan"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} ditagih setiap 3 bulan"
+   },
+   "randomInterval": {
+      "message": "Interval acak dalam hitungan detik antara permintaan pengambilan komentar."
+   },
+   "replyCount": {
+      "message": "Jumlah Balasan"
+   },
+   "replyToWhichComment": {
+      "message": "Balas Komentar Yang Mana"
+   },
+   "selectFormat": {
+      "message": "Pilih format ekspor."
+   },
+   "settings": {
+      "message": "Pengaturan"
+   },
+   "signInAccount": {
+      "message": "masuk ke akun Anda"
+   },
+   "signInFailure": {
+      "message": "Gagal masuk. Silakan coba lagi atau hubungi kami untuk bantuan."
+   },
+   "signInGoogle": {
+      "message": "Masuk dengan Google"
+   },
+   "signOut": {
+      "message": "Keluar"
+   },
+   "signedInAs": {
+      "message": "Masuk sebagai"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subsActiveHead": {
+      "message": "Langganan Anda aktif"
+   },
+   "subsActiveMsg": {
+      "message": "Langganan Anda aktif. Dijadwalkan untuk diperpanjang pada {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Langganan Anda dibatalkan"
+   },
+   "subsCanceledMsg": {
+      "message": "Langganan Anda dibatalkan. Dijadwalkan berakhir pada {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Langganan Anda sudah habis masa berlakunya"
+   },
+   "subsExpiredMsg": {
+      "message": "Langganan Anda sudah habis masa berlakunya."
+   },
+   "subsFreePlanMsg": {
+      "message": "Anda menggunakan paket gratis. Anda dapat meningkatkan ke paket berbayar kapan saja."
+   },
+   "subsPastDueHead": {
+      "message": "Faktur Anda sudah lewat jatuh tempo"
+   },
+   "subsPastDueMsg": {
+      "message": "Faktur Anda sudah lewat jatuh tempo. Harap perbarui metode pembayaran Anda."
+   },
+   "subsPausedHead": {
+      "message": "Langganan Anda dijeda"
+   },
+   "subsPausedMsg": {
+      "message": "Langganan Anda dijeda. Anda dapat melanjutkan atau membatalkannya kapan saja."
+   },
+   "subsUnpaidHead": {
+      "message": "Faktur Anda belum dibayar"
+   },
+   "subsUnpaidMsg": {
+      "message": "Faktur Anda belum dibayar. Harap perbarui metode pembayaran Anda."
+   },
+   "subscription": {
+      "message": "Berlangganan"
+   },
+   "taskLimitNote": {
+      "message": "Saat ini, hanya 20 tugas terbaru yang akan disimpan. Silakan unduh data Anda sebelum dihapus secara otomatis."
+   },
+   "ttLinkAlert": {
+      "message": "Hanya tautan video TikTok yang didukung"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Masukkan tautan video TikTok"
+   },
+   "type": {
+      "message": "Jenis"
+   },
+   "undoCancel": {
+      "message": "Batalkan Pembatalan"
+   },
+   "unexpectedError": {
+      "message": "Kesalahan tak terduga telah muncul. Silakan coba lagi atau jangan ragu untuk menghubungi kami untuk mendapatkan bantuan."
+   },
+   "unlimited": {
+      "message": "Tak terbatas"
+   },
+   "unpaid": {
+      "message": "Tidak dibayar"
+   },
+   "updatePayment": {
+      "message": "Perbarui Pembayaran"
+   },
+   "userHomepage": {
+      "message": "Beranda Pengguna"
+   },
+   "userID": {
+      "message": "identitas pengguna"
+   },
+   "username": {
+      "message": "Nama belakang"
+   },
+   "videoID": {
+      "message": "ID Video"
+   },
+   "videoNotExist": {
+      "message": "Videonya tidak ada."
+   },
+   "viewDetailedPricing": {
+      "message": "Lihat fitur dan harga terperinci"
+   },
+   "yearly": {
+      "message": "Tahunan"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} ditagih setiap tahun, hemat {{2}}"
+   },
+   "yes": {
+      "message": "Ya"
+   }
+}

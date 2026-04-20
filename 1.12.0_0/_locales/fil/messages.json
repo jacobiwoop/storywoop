@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktibo"
+   },
+   "authorDigged": {
+      "message": "Author Digged"
+   },
+   "buyNow": {
+      "message": "Bumili ka na ngayon"
+   },
+   "cancelSubs": {
+      "message": "Ikansela ang subskripsyon"
+   },
+   "canceled": {
+      "message": "Kinansela"
+   },
+   "chunkDownloadNote": {
+      "message": "Para sa malalaking dataset, inirerekomenda namin ang paggamit ng CSV format. Hahatiin ang data sa maraming tipak para maiwasan ang mga isyu sa pag-download."
+   },
+   "chunkSizeRows": {
+      "message": "Laki ng tipak (mga hilera)"
+   },
+   "comment": {
+      "message": "Magkomento"
+   },
+   "commentID": {
+      "message": "ID ng komento"
+   },
+   "commentTime": {
+      "message": "Oras ng Komento"
+   },
+   "commentsButtonNotFound": {
+      "message": "Hindi mahanap ang button ng mga komento. Paki-click ito nang manu-mano para magpatuloy."
+   },
+   "completed": {
+      "message": "Nakumpleto"
+   },
+   "concurrentExport": {
+      "message": "Kasabay na pag-export"
+   },
+   "continue": {
+      "message": "Magpatuloy"
+   },
+   "date": {
+      "message": "Petsa"
+   },
+   "delete": {
+      "message": "Tanggalin"
+   },
+   "description": {
+      "message": "I-export ang mga komento ng TikTok sa Excel sa CSV para sa pagsusuri."
+   },
+   "diggCount": {
+      "message": "Bilang ng Digg"
+   },
+   "discount25": {
+      "message": "25% diskwento sa lahat ng item! Limitadong oras na alok."
+   },
+   "download": {
+      "message": "I-download"
+   },
+   "downloadError": {
+      "message": "Error sa pag-download, pakisubukang muli o makipag-ugnayan sa amin para sa tulong."
+   },
+   "expired": {
+      "message": "Nag-expire na"
+   },
+   "export": {
+      "message": "I-export"
+   },
+   "exportDone": {
+      "message": "Matagumpay na na-export"
+   },
+   "exportError": {
+      "message": "May naganap na error, pakisubukang muli"
+   },
+   "exporting": {
+      "message": "Ini-export..."
+   },
+   "extracted": {
+      "message": "Extracted"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Hindi makakuha ng data ng subscription, pakisubukang muli o makipag-ugnayan sa amin para sa tulong."
+   },
+   "findTTLink": {
+      "message": "Paano mahahanap ang link ng TikTok video?"
+   },
+   "free": {
+      "message": "Libre"
+   },
+   "freePlan": {
+      "message": "Libreng Plano"
+   },
+   "goToPortal": {
+      "message": "Pumunta sa Customer Portal"
+   },
+   "history": {
+      "message": "Kasaysayan"
+   },
+   "home": {
+      "message": "Bahay"
+   },
+   "includeReply": {
+      "message": "Isama ang mga tugon sa komento"
+   },
+   "includeReply1": {
+      "message": "Isama ang mga tugon"
+   },
+   "lemonPriceNote": {
+      "message": "Ang mga presyo ay nakalista sa USD. Maaaring mag-apply ang VAT depende sa iyong lokasyon."
+   },
+   "loading": {
+      "message": "Naglo-load..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Maaari mong pamahalaan ang iyong subscription at pagsingil sa Customer Portal."
+   },
+   "month": {
+      "message": "buwan"
+   },
+   "monthly": {
+      "message": "Buwan-buwan"
+   },
+   "monthlyDesc": {
+      "message": "Angkop para sa pagsubok"
+   },
+   "name": {
+      "message": "TTCommentExporter - I-export ang Mga Komento sa TikTok"
+   },
+   "needUpgrade": {
+      "message": "Lumampas sa limitasyon ng libreng account, mag-upgrade para magpatuloy"
+   },
+   "nickName": {
+      "message": "Palayaw"
+   },
+   "no": {
+      "message": "Hindi"
+   },
+   "noComments": {
+      "message": "Walang nakitang komento"
+   },
+   "noTaskFound": {
+      "message": "Walang nakitang gawain"
+   },
+   "numOfComments": {
+      "message": "Bilang ng mga komentong na-export"
+   },
+   "paddlePriceNote": {
+      "message": "Ang mga presyo ay nakalista sa USD. Maaari mong makita ang iyong lokal na pera sa pag-checkout, depende sa iyong lokasyon. Maaaring mag-apply ang VAT."
+   },
+   "pastDue": {
+      "message": "Past Due"
+   },
+   "pause": {
+      "message": "I-pause"
+   },
+   "permAlert": {
+      "message": "Mangyaring payagan ang mga pahintulot na magpatuloy"
+   },
+   "pinnedToTop": {
+      "message": "Naka-pin sa Tuktok"
+   },
+   "postID": {
+      "message": "Mag-post ng ID"
+   },
+   "quarterly": {
+      "message": "quarterly"
+   },
+   "quarterlyDesc": {
+      "message": "Sinisingil ang {{}} bawat 3 buwan"
+   },
+   "randomInterval": {
+      "message": "Random na pagitan sa mga segundo sa pagitan ng mga kahilingan para sa pagkuha ng mga komento."
+   },
+   "replyCount": {
+      "message": "Bilang ng Sagot"
+   },
+   "replyToWhichComment": {
+      "message": "Tumugon sa Aling Komento"
+   },
+   "selectFormat": {
+      "message": "Piliin ang format ng pag-export."
+   },
+   "settings": {
+      "message": "Mga setting"
+   },
+   "signInAccount": {
+      "message": "Mag-sign in sa iyong account"
+   },
+   "signInFailure": {
+      "message": "Nabigo ang pag-sign in. Pakisubukang muli o makipag-ugnayan sa amin para sa tulong."
+   },
+   "signInGoogle": {
+      "message": "Mag-sign in gamit ang Google"
+   },
+   "signOut": {
+      "message": "Mag-sign out"
+   },
+   "signedInAs": {
+      "message": "Naka-sign in bilang"
+   },
+   "status": {
+      "message": "Katayuan"
+   },
+   "subsActiveHead": {
+      "message": "Aktibo ang iyong subscription"
+   },
+   "subsActiveMsg": {
+      "message": "Aktibo ang iyong subscription. Naka-iskedyul itong mag-renew sa {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Kinansela ang iyong subscription"
+   },
+   "subsCanceledMsg": {
+      "message": "Kinansela ang iyong subscription. Ito ay naka-iskedyul na magtapos sa {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Nag-expire na ang iyong subscription"
+   },
+   "subsExpiredMsg": {
+      "message": "Nag-expire na ang iyong subscription."
+   },
+   "subsFreePlanMsg": {
+      "message": "Ikaw ay nasa isang libreng plano. Maaari kang mag-upgrade sa isang bayad na plano anumang oras."
+   },
+   "subsPastDueHead": {
+      "message": "Lampas na sa takdang petsa ang iyong invoice"
+   },
+   "subsPastDueMsg": {
+      "message": "Lampas na sa takdang petsa ang iyong invoice. Paki-update ang iyong paraan ng pagbabayad."
+   },
+   "subsPausedHead": {
+      "message": "Naka-pause ang iyong subscription"
+   },
+   "subsPausedMsg": {
+      "message": "Naka-pause na ang iyong subscription. Maaari mo itong ipagpatuloy o kanselahin anumang oras."
+   },
+   "subsUnpaidHead": {
+      "message": "Ang iyong invoice ay hindi nabayaran"
+   },
+   "subsUnpaidMsg": {
+      "message": "Ang iyong invoice ay hindi nabayaran. Paki-update ang iyong paraan ng pagbabayad."
+   },
+   "subscription": {
+      "message": "Subscription"
+   },
+   "taskLimitNote": {
+      "message": "Sa kasalukuyan, tanging ang pinakabagong 20 gawain ang maiimbak. Mangyaring i-download ang iyong data bago sila awtomatikong tanggalin."
+   },
+   "ttLinkAlert": {
+      "message": "Tanging mga link ng video ng TikTok ang sinusuportahan"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Maglagay ng link ng video ng TikTok"
+   },
+   "type": {
+      "message": "Uri"
+   },
+   "undoCancel": {
+      "message": "I-undo ang Pagkansela"
+   },
+   "unexpectedError": {
+      "message": "May naganap na hindi inaasahang error. Pakisubukang muli o huwag mag-atubiling makipag-ugnayan sa amin para sa tulong."
+   },
+   "unlimited": {
+      "message": "Walang limitasyon"
+   },
+   "unpaid": {
+      "message": "Walang bayad"
+   },
+   "updatePayment": {
+      "message": "I-update ang Pagbabayad"
+   },
+   "userHomepage": {
+      "message": "Homepage ng User"
+   },
+   "userID": {
+      "message": "User ID"
+   },
+   "username": {
+      "message": "Username"
+   },
+   "videoID": {
+      "message": "Video ID"
+   },
+   "videoNotExist": {
+      "message": "Ang video ay wala."
+   },
+   "viewDetailedPricing": {
+      "message": "Tingnan ang mga detalyadong tampok at pagpepresyo"
+   },
+   "yearly": {
+      "message": "Taon-taon"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} sinisingil taun-taon, makatipid ng {{2}}"
+   },
+   "yes": {
+      "message": "Oo"
+   }
+}

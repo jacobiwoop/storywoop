@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Active"
+   },
+   "authorDigged": {
+      "message": "Author Digged"
+   },
+   "buyNow": {
+      "message": "Buy now"
+   },
+   "cancelSubs": {
+      "message": "Cancel Subscription"
+   },
+   "canceled": {
+      "message": "Canceled"
+   },
+   "chunkDownloadNote": {
+      "message": "For large datasets, we recommend using CSV format. The data will be split into multiple chunks to avoid download issues."
+   },
+   "chunkSizeRows": {
+      "message": "Chunk size (rows)"
+   },
+   "comment": {
+      "message": "Comment"
+   },
+   "commentID": {
+      "message": "Comment ID"
+   },
+   "commentTime": {
+      "message": "Comment Time"
+   },
+   "commentsButtonNotFound": {
+      "message": "Could not find the comments button. Please click it manually to continue."
+   },
+   "completed": {
+      "message": "Completed"
+   },
+   "concurrentExport": {
+      "message": "Concurrent export"
+   },
+   "continue": {
+      "message": "Continue"
+   },
+   "date": {
+      "message": "Date"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "description": {
+      "message": "Export TikTok comments to Excel in CSV for analysis."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% off all items! Limited time offer."
+   },
+   "download": {
+      "message": "Download"
+   },
+   "downloadError": {
+      "message": "Download error, please try again or contact us for help."
+   },
+   "expired": {
+      "message": "Expired"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "exportDone": {
+      "message": "Export successfully"
+   },
+   "exportError": {
+      "message": "An error occurred, please try again"
+   },
+   "exporting": {
+      "message": "Exporting..."
+   },
+   "extracted": {
+      "message": "Extracted"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Unable to get subscription data, please retry or contact us for help."
+   },
+   "findTTLink": {
+      "message": "How to find the TikTok video link?"
+   },
+   "free": {
+      "message": "Free"
+   },
+   "freePlan": {
+      "message": "Free Plan"
+   },
+   "goToPortal": {
+      "message": "Go to Customer Portal"
+   },
+   "history": {
+      "message": "History"
+   },
+   "home": {
+      "message": "Home"
+   },
+   "includeReply": {
+      "message": "Include comment replies"
+   },
+   "includeReply1": {
+      "message": "Include replies"
+   },
+   "lemonPriceNote": {
+      "message": "Prices are listed in USD. VAT may apply depending on your location."
+   },
+   "loading": {
+      "message": "Loading..."
+   },
+   "manageSubsAndBilling": {
+      "message": "You can manage your subscription and billing in the Customer Portal."
+   },
+   "month": {
+      "message": "month"
+   },
+   "monthly": {
+      "message": "Monthly"
+   },
+   "monthlyDesc": {
+      "message": "Suitable for trying out"
+   },
+   "name": {
+      "message": "TTCommentExporter - Export TikTok Comments"
+   },
+   "needUpgrade": {
+      "message": "Free account limit exceeded, upgrade to continue"
+   },
+   "nickName": {
+      "message": "Nick Name"
+   },
+   "no": {
+      "message": "No"
+   },
+   "noComments": {
+      "message": "No comments found"
+   },
+   "noTaskFound": {
+      "message": "No task found"
+   },
+   "numOfComments": {
+      "message": "Number of comments exported"
+   },
+   "paddlePriceNote": {
+      "message": "Prices are listed in USD. You may see your local currency at checkout, depending on your location. VAT may apply."
+   },
+   "pastDue": {
+      "message": "Past Due"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "permAlert": {
+      "message": "Please allow the permissions to proceed"
+   },
+   "pinnedToTop": {
+      "message": "Pinned to Top"
+   },
+   "postID": {
+      "message": "Post ID"
+   },
+   "quarterly": {
+      "message": "Quarterly"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} billed every 3 months"
+   },
+   "randomInterval": {
+      "message": "Random interval in seconds between requests for fetching comments."
+   },
+   "replyCount": {
+      "message": "Reply Count"
+   },
+   "replyToWhichComment": {
+      "message": "Reply to Which Comment"
+   },
+   "selectFormat": {
+      "message": "Select the export format."
+   },
+   "settings": {
+      "message": "Settings"
+   },
+   "signInAccount": {
+      "message": "Sign in to your account"
+   },
+   "signInFailure": {
+      "message": "Sign-in failed. Please retry or contact us for help."
+   },
+   "signInGoogle": {
+      "message": "Sign in with Google"
+   },
+   "signOut": {
+      "message": "Sign out"
+   },
+   "signedInAs": {
+      "message": "Signed in as"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subsActiveHead": {
+      "message": "Your subscription is active"
+   },
+   "subsActiveMsg": {
+      "message": "Your subscription is active. It is scheduled to renew on {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Your subscription is canceled"
+   },
+   "subsCanceledMsg": {
+      "message": "Your subscription is canceled. It is scheduled to end on {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Your subscription is expired"
+   },
+   "subsExpiredMsg": {
+      "message": "Your subscription is expired."
+   },
+   "subsFreePlanMsg": {
+      "message": "You're on a free plan. You can upgrade to a paid plan at any time."
+   },
+   "subsPastDueHead": {
+      "message": "Your invoice is past due"
+   },
+   "subsPastDueMsg": {
+      "message": "Your invoice is past due. Please update your payment method."
+   },
+   "subsPausedHead": {
+      "message": "Your subscription is paused"
+   },
+   "subsPausedMsg": {
+      "message": "Your subscription is paused. You can resume or cancel it at any time."
+   },
+   "subsUnpaidHead": {
+      "message": "Your invoice is unpaid"
+   },
+   "subsUnpaidMsg": {
+      "message": "Your invoice is unpaid. Please update your payment method."
+   },
+   "subscription": {
+      "message": "Subscription"
+   },
+   "taskLimitNote": {
+      "message": "Currently, only the latest 20 tasks will be stored. Please download your data before they are automatically deleted."
+   },
+   "ttLinkAlert": {
+      "message": "Only TikTok video links are supported"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Enter a TikTok video link"
+   },
+   "type": {
+      "message": "Type"
+   },
+   "undoCancel": {
+      "message": "Undo Cancellation"
+   },
+   "unexpectedError": {
+      "message": "An unexpected error has occurred. Please try again or feel free to contact us for assistance."
+   },
+   "unlimited": {
+      "message": "Unlimited"
+   },
+   "unpaid": {
+      "message": "Unpaid"
+   },
+   "updatePayment": {
+      "message": "Update Payment"
+   },
+   "userHomepage": {
+      "message": "User Homepage"
+   },
+   "userID": {
+      "message": "User ID"
+   },
+   "username": {
+      "message": "Username"
+   },
+   "videoID": {
+      "message": "Video ID"
+   },
+   "videoNotExist": {
+      "message": "The video does not exist."
+   },
+   "viewDetailedPricing": {
+      "message": "View detailed features and pricing"
+   },
+   "yearly": {
+      "message": "Yearly"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} billed yearly, save {{2}}"
+   },
+   "yes": {
+      "message": "Yes"
+   }
+}

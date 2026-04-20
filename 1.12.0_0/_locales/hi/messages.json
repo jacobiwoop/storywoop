@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "सक्रिय"
+   },
+   "authorDigged": {
+      "message": "लेखक खोदा"
+   },
+   "buyNow": {
+      "message": "अभी खरीदें"
+   },
+   "cancelSubs": {
+      "message": "सदस्यता रद्द"
+   },
+   "canceled": {
+      "message": "रद्द"
+   },
+   "chunkDownloadNote": {
+      "message": "बड़े डेटासेट के लिए, हम CSV फ़ॉर्मेट का उपयोग करने की सलाह देते हैं। डाउनलोड संबंधी समस्याओं से बचने के लिए डेटा को कई हिस्सों में विभाजित किया जाएगा।"
+   },
+   "chunkSizeRows": {
+      "message": "खंड आकार (पंक्तियाँ)"
+   },
+   "comment": {
+      "message": "टिप्पणी"
+   },
+   "commentID": {
+      "message": "टिप्पणी आईडी"
+   },
+   "commentTime": {
+      "message": "टिप्पणी का समय"
+   },
+   "commentsButtonNotFound": {
+      "message": "टिप्पणी बटन नहीं मिल पाया। कृपया जारी रखने के लिए इसे मैन्युअल रूप से क्लिक करें।"
+   },
+   "completed": {
+      "message": "पुरा होना।"
+   },
+   "concurrentExport": {
+      "message": "समवर्ती निर्यात"
+   },
+   "continue": {
+      "message": "जारी रखना"
+   },
+   "date": {
+      "message": "तारीख"
+   },
+   "delete": {
+      "message": "मिटाना"
+   },
+   "description": {
+      "message": "विश्लेषण के लिए सीएसवी में एक्सेल में टिकटॉक टिप्पणियाँ निर्यात करें।"
+   },
+   "diggCount": {
+      "message": "डिग गिनती"
+   },
+   "discount25": {
+      "message": "सभी वस्तुओं पर 25% की छूट! सीमित समय ऑफर।"
+   },
+   "download": {
+      "message": "डाउनलोड करना"
+   },
+   "downloadError": {
+      "message": "डाउनलोड त्रुटि, कृपया पुनः प्रयास करें या सहायता के लिए हमसे संपर्क करें।"
+   },
+   "expired": {
+      "message": "खत्म हो चुका"
+   },
+   "export": {
+      "message": "निर्यात"
+   },
+   "exportDone": {
+      "message": "सफलतापूर्वक निर्यात करें"
+   },
+   "exportError": {
+      "message": "एक त्रुटि हुई थी। कृपया दोबारा प्रयास करें"
+   },
+   "exporting": {
+      "message": "निर्यात किया जा रहा है..."
+   },
+   "extracted": {
+      "message": "निकाले"
+   },
+   "faq": {
+      "message": "सामान्य प्रश्न"
+   },
+   "fetchSubsFailure": {
+      "message": "सदस्यता डेटा प्राप्त करने में असमर्थ, कृपया पुनः प्रयास करें या सहायता के लिए हमसे संपर्क करें।"
+   },
+   "findTTLink": {
+      "message": "टिकटॉक वीडियो लिंक कैसे खोजें?"
+   },
+   "free": {
+      "message": "मुक्त"
+   },
+   "freePlan": {
+      "message": "निःशुल्क योजना"
+   },
+   "goToPortal": {
+      "message": "ग्राहक पोर्टल पर जाएं"
+   },
+   "history": {
+      "message": "इतिहास"
+   },
+   "home": {
+      "message": "घर"
+   },
+   "includeReply": {
+      "message": "टिप्पणी उत्तर शामिल करें"
+   },
+   "includeReply1": {
+      "message": "उत्तर शामिल करें"
+   },
+   "lemonPriceNote": {
+      "message": "कीमतें USD में सूचीबद्ध हैं। आपके स्थान के आधार पर वैट लागू हो सकता है।"
+   },
+   "loading": {
+      "message": "लोड हो रहा है..."
+   },
+   "manageSubsAndBilling": {
+      "message": "आप ग्राहक पोर्टल में अपनी सदस्यता और बिलिंग का प्रबंधन कर सकते हैं।"
+   },
+   "month": {
+      "message": "महीना"
+   },
+   "monthly": {
+      "message": "महीने के"
+   },
+   "monthlyDesc": {
+      "message": "आज़माने के लिए उपयुक्त"
+   },
+   "name": {
+      "message": "TTCommentExporter - टिकटॉक टिप्पणियाँ निर्यात करें"
+   },
+   "needUpgrade": {
+      "message": "मुफ़्त खाते की सीमा पार हो गई, जारी रखने के लिए अपग्रेड करें"
+   },
+   "nickName": {
+      "message": "निक नाम"
+   },
+   "no": {
+      "message": "नहीं"
+   },
+   "noComments": {
+      "message": "कोई टिप्पणी नहीं मिली"
+   },
+   "noTaskFound": {
+      "message": "कोई कार्य नहीं मिला"
+   },
+   "numOfComments": {
+      "message": "निर्यात की गई टिप्पणियों की संख्या"
+   },
+   "paddlePriceNote": {
+      "message": "कीमतें USD में सूचीबद्ध हैं। आप अपने स्थान के आधार पर चेकआउट के समय अपनी स्थानीय मुद्रा देख सकते हैं। वैट लागू हो सकता है."
+   },
+   "pastDue": {
+      "message": "पिछला बकाया"
+   },
+   "pause": {
+      "message": "विराम"
+   },
+   "permAlert": {
+      "message": "कृपया आगे बढ़ने की अनुमति दें"
+   },
+   "pinnedToTop": {
+      "message": "शीर्ष पर पिन किया गया"
+   },
+   "postID": {
+      "message": "पोस्ट आईडी"
+   },
+   "quarterly": {
+      "message": "त्रैमासिक"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} हर 3 महीने में बिल भेजा जाता है"
+   },
+   "randomInterval": {
+      "message": "टिप्पणियाँ प्राप्त करने के अनुरोधों के बीच सेकंड में यादृच्छिक अंतराल।"
+   },
+   "replyCount": {
+      "message": "उत्तर गिनती"
+   },
+   "replyToWhichComment": {
+      "message": "किस टिप्पणी का उत्तर दें"
+   },
+   "selectFormat": {
+      "message": "निर्यात प्रारूप का चयन करें."
+   },
+   "settings": {
+      "message": "समायोजन"
+   },
+   "signInAccount": {
+      "message": "अपने अकाउंट में साइन इन करें"
+   },
+   "signInFailure": {
+      "message": "भाग लेना विफल हुआ। कृपया पुनः प्रयास करें या सहायता के लिए हमसे संपर्क करें।"
+   },
+   "signInGoogle": {
+      "message": "Google से साइन इन करें"
+   },
+   "signOut": {
+      "message": "साइन आउट"
+   },
+   "signedInAs": {
+      "message": "इस रूप में साइन इन किया"
+   },
+   "status": {
+      "message": "स्थिति"
+   },
+   "subsActiveHead": {
+      "message": "आपकी सदस्यता सक्रिय है"
+   },
+   "subsActiveMsg": {
+      "message": "आपकी सदस्यता सक्रिय है. इसे {{}} पर नवीनीकृत किया जाना निर्धारित है।"
+   },
+   "subsCanceledHead": {
+      "message": "आपकी सदस्यता रद्द कर दी गई है"
+   },
+   "subsCanceledMsg": {
+      "message": "आपकी सदस्यता रद्द कर दी गई है. यह {{}} को समाप्त होने वाला है।"
+   },
+   "subsExpiredHead": {
+      "message": "आपकी सदस्यता समाप्त हो गई है"
+   },
+   "subsExpiredMsg": {
+      "message": "आपकी सदस्यता समाप्त हो गई है."
+   },
+   "subsFreePlanMsg": {
+      "message": "आप मुफ़्त योजना पर हैं. आप किसी भी समय सशुल्क योजना में अपग्रेड कर सकते हैं।"
+   },
+   "subsPastDueHead": {
+      "message": "आपका चालान बकाया हो चुका है"
+   },
+   "subsPastDueMsg": {
+      "message": "आपका चालान बकाया हो चुका है. कृपया अपनी भुगतान विधि अपडेट करें."
+   },
+   "subsPausedHead": {
+      "message": "आपकी सदस्यता रोक दी गई है।"
+   },
+   "subsPausedMsg": {
+      "message": "आपकी सदस्यता रोक दी गई है। आप इसे किसी भी समय पुनः शुरू या रद्द कर सकते हैं।"
+   },
+   "subsUnpaidHead": {
+      "message": "आपका चालान भुगतान नहीं किया गया है"
+   },
+   "subsUnpaidMsg": {
+      "message": "आपका चालान भुगतान नहीं किया गया है. कृपया अपनी भुगतान विधि अपडेट करें."
+   },
+   "subscription": {
+      "message": "अंशदान"
+   },
+   "taskLimitNote": {
+      "message": "फिलहाल, केवल नवीनतम 20 कार्य ही संग्रहीत किये जायेंगे। कृपया अपना डेटा स्वचालित रूप से हटाए जाने से पहले डाउनलोड करें।"
+   },
+   "ttLinkAlert": {
+      "message": "केवल टिकटॉक वीडियो लिंक समर्थित हैं"
+   },
+   "ttLinkPlaceholder": {
+      "message": "एक टिकटॉक वीडियो लिंक दर्ज करें"
+   },
+   "type": {
+      "message": "प्रकार"
+   },
+   "undoCancel": {
+      "message": "रद्दीकरण पूर्ववत करें"
+   },
+   "unexpectedError": {
+      "message": "एक अप्रत्याशित त्रुटि सामने आई है। कृपया पुनः प्रयास करें या सहायता के लिए बेझिझक हमसे संपर्क करें।"
+   },
+   "unlimited": {
+      "message": "असीमित"
+   },
+   "unpaid": {
+      "message": "अवैतनिक"
+   },
+   "updatePayment": {
+      "message": "भुगतान अद्यतन करें"
+   },
+   "userHomepage": {
+      "message": "उपयोगकर्ता मुखपृष्ठ"
+   },
+   "userID": {
+      "message": "उपयोगकर्ता पहचान"
+   },
+   "username": {
+      "message": "उपयोगकर्ता नाम"
+   },
+   "videoID": {
+      "message": "वीडियो आईडी"
+   },
+   "videoNotExist": {
+      "message": "वीडियो मौजूद नहीं है."
+   },
+   "viewDetailedPricing": {
+      "message": "विस्तृत विशेषताएं और मूल्य निर्धारण देखें"
+   },
+   "yearly": {
+      "message": "सालाना"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} वार्षिक बिल, बचाएं {{2}}"
+   },
+   "yes": {
+      "message": "हाँ"
+   }
+}

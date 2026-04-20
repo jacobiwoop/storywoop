@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "アクティブ"
+   },
+   "authorDigged": {
+      "message": "著者が掘り出しました"
+   },
+   "buyNow": {
+      "message": "今すぐ購入"
+   },
+   "cancelSubs": {
+      "message": "サブスクリプションをキャンセルする"
+   },
+   "canceled": {
+      "message": "キャンセル"
+   },
+   "chunkDownloadNote": {
+      "message": "大規模なデータセットの場合は、CSV形式のご利用をお勧めします。ダウンロードの問題を回避するため、データは複数のチャンクに分割されます。"
+   },
+   "chunkSizeRows": {
+      "message": "チャンクサイズ（行）"
+   },
+   "comment": {
+      "message": "コメント"
+   },
+   "commentID": {
+      "message": "コメントID"
+   },
+   "commentTime": {
+      "message": "コメントタイム"
+   },
+   "commentsButtonNotFound": {
+      "message": "コメントボタンが見つかりませんでした。続行するには、手動でクリックしてください。"
+   },
+   "completed": {
+      "message": "完了"
+   },
+   "concurrentExport": {
+      "message": "同時エクスポート"
+   },
+   "continue": {
+      "message": "続く"
+   },
+   "date": {
+      "message": "日付"
+   },
+   "delete": {
+      "message": "消去"
+   },
+   "description": {
+      "message": "TikTok コメントを分析のために CSV で Excel にエクスポートします。"
+   },
+   "diggCount": {
+      "message": "掘る回数"
+   },
+   "discount25": {
+      "message": "全商品25％オフ！期間限定のオファー。"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "downloadError": {
+      "message": "ダウンロード エラー。もう一度お試しいただくか、お問い合わせください。"
+   },
+   "expired": {
+      "message": "期限切れ"
+   },
+   "export": {
+      "message": "輸出"
+   },
+   "exportDone": {
+      "message": "エクスポートに成功しました"
+   },
+   "exportError": {
+      "message": "エラーが発生しました。もう一度やり直してください"
+   },
+   "exporting": {
+      "message": "エクスポート中..."
+   },
+   "extracted": {
+      "message": "抽出された"
+   },
+   "faq": {
+      "message": "よくある質問"
+   },
+   "fetchSubsFailure": {
+      "message": "サブスクリプション データを取得できません。再試行するか、サポートが必要な場合はお問い合わせください。"
+   },
+   "findTTLink": {
+      "message": "TikTokビデオリンクを見つけるにはどうすればよいですか?"
+   },
+   "free": {
+      "message": "無料"
+   },
+   "freePlan": {
+      "message": "無料プラン"
+   },
+   "goToPortal": {
+      "message": "カスタマーポータルに移動"
+   },
+   "history": {
+      "message": "歴史"
+   },
+   "home": {
+      "message": "家"
+   },
+   "includeReply": {
+      "message": "コメントの返信を含める"
+   },
+   "includeReply1": {
+      "message": "返信を含める"
+   },
+   "lemonPriceNote": {
+      "message": "価格は米ドルで表示されています。お住まいの地域によっては VAT が適用される場合があります。"
+   },
+   "loading": {
+      "message": "読み込み中..."
+   },
+   "manageSubsAndBilling": {
+      "message": "カスタマー ポータルでサブスクリプションと請求を管理できます。"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthly": {
+      "message": "毎月"
+   },
+   "monthlyDesc": {
+      "message": "お試しに最適"
+   },
+   "name": {
+      "message": "TTCommentExporter - TikTok コメントをエクスポート"
+   },
+   "needUpgrade": {
+      "message": "無料アカウントの制限を超えました。続行するにはアップグレードしてください"
+   },
+   "nickName": {
+      "message": "ニックネーム"
+   },
+   "no": {
+      "message": "いいえ"
+   },
+   "noComments": {
+      "message": "コメントが見つかりませんでした"
+   },
+   "noTaskFound": {
+      "message": "タスクが見つかりません"
+   },
+   "numOfComments": {
+      "message": "エクスポートされたコメントの数"
+   },
+   "paddlePriceNote": {
+      "message": "価格は米ドルで表示されています。お住まいの地域によっては、チェックアウト時に現地通貨が表示される場合があります。 VATが適用される場合があります。"
+   },
+   "pastDue": {
+      "message": "延滞"
+   },
+   "pause": {
+      "message": "一時停止"
+   },
+   "permAlert": {
+      "message": "続行するには権限を許可してください"
+   },
+   "pinnedToTop": {
+      "message": "トップに固定"
+   },
+   "postID": {
+      "message": "投稿ID"
+   },
+   "quarterly": {
+      "message": "四半期ごと"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} は 3 か月ごとに請求されます"
+   },
+   "randomInterval": {
+      "message": "コメント取得リクエスト間のランダムな秒単位の間隔。"
+   },
+   "replyCount": {
+      "message": "返信数"
+   },
+   "replyToWhichComment": {
+      "message": "どのコメントに返信するか"
+   },
+   "selectFormat": {
+      "message": "エクスポート形式を選択します。"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "signInAccount": {
+      "message": "アカウントにサインインする"
+   },
+   "signInFailure": {
+      "message": "サインインに失敗しました。再試行するか、弊社までご連絡ください。"
+   },
+   "signInGoogle": {
+      "message": "Googleでサインイン"
+   },
+   "signOut": {
+      "message": "サインアウト"
+   },
+   "signedInAs": {
+      "message": "としてサインインしました"
+   },
+   "status": {
+      "message": "状態"
+   },
+   "subsActiveHead": {
+      "message": "サブスクリプションは有効です"
+   },
+   "subsActiveMsg": {
+      "message": "サブスクリプションは有効です。 {{}} に更新される予定です。"
+   },
+   "subsCanceledHead": {
+      "message": "サブスクリプションがキャンセルされました"
+   },
+   "subsCanceledMsg": {
+      "message": "サブスクリプションがキャンセルされました。 {{}}に終了する予定です。"
+   },
+   "subsExpiredHead": {
+      "message": "サブスクリプションの有効期限が切れています"
+   },
+   "subsExpiredMsg": {
+      "message": "サブスクリプションの有効期限が切れています。"
+   },
+   "subsFreePlanMsg": {
+      "message": "無料プランをご利用中です。いつでも有料プランにアップグレードできます。"
+   },
+   "subsPastDueHead": {
+      "message": "請求書の期限が過ぎています"
+   },
+   "subsPastDueMsg": {
+      "message": "請求書の期限が過ぎています。お支払い方法を更新してください。"
+   },
+   "subsPausedHead": {
+      "message": "お客様の購読は一時停止されています"
+   },
+   "subsPausedMsg": {
+      "message": "お客様の購読は一時停止されています。いつでも再開またはキャンセルできます。"
+   },
+   "subsUnpaidHead": {
+      "message": "請求書は未払いです"
+   },
+   "subsUnpaidMsg": {
+      "message": "請求書は未払いです。お支払い方法を更新してください。"
+   },
+   "subscription": {
+      "message": "サブスクリプション"
+   },
+   "taskLimitNote": {
+      "message": "現在、最新の 20 タスクのみが保存されます。自動的に削除される前にデータをダウンロードしてください。"
+   },
+   "ttLinkAlert": {
+      "message": "TikTokビデオリンクのみがサポートされています"
+   },
+   "ttLinkPlaceholder": {
+      "message": "TikTokビデオリンクを入力してください"
+   },
+   "type": {
+      "message": "タイプ"
+   },
+   "undoCancel": {
+      "message": "キャンセルを元に戻す"
+   },
+   "unexpectedError": {
+      "message": "予期しないエラーが発生しました。もう一度お試しいただくか、お気軽にお問い合わせください。"
+   },
+   "unlimited": {
+      "message": "無制限"
+   },
+   "unpaid": {
+      "message": "未払い"
+   },
+   "updatePayment": {
+      "message": "支払いの更新"
+   },
+   "userHomepage": {
+      "message": "ユーザーホームページ"
+   },
+   "userID": {
+      "message": "ユーザーID"
+   },
+   "username": {
+      "message": "ユーザー名"
+   },
+   "videoID": {
+      "message": "ビデオID"
+   },
+   "videoNotExist": {
+      "message": "ビデオは存在しません。"
+   },
+   "viewDetailedPricing": {
+      "message": "詳細な機能と価格設定を表示します"
+   },
+   "yearly": {
+      "message": "毎年"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} は毎年請求され、{{2}} が節約できます"
+   },
+   "yes": {
+      "message": "はい"
+   }
+}

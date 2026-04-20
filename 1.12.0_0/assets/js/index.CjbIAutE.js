@@ -1,0 +1,1 @@
+import{q as e,j as o,s}from"./app.OW1GWEBj.js";import{f as n}from"./utils.18bNX1_b.js";import"./configuration.wd-0cAc3.js";const t=document.createElement("div");t.className="my-extension twp notranslate";t.style.cssText="position: fixed;top: 0px;right: 0px;z-index: 2147483647;";document.body.append(t);n(t);const r=e(t);r.render(o.jsx(s,{}));

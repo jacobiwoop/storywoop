@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktiv"
+   },
+   "authorDigged": {
+      "message": "Autor ausgegraben"
+   },
+   "buyNow": {
+      "message": "Kaufe jetzt"
+   },
+   "cancelSubs": {
+      "message": "Abonnement beenden"
+   },
+   "canceled": {
+      "message": "Abgesagt"
+   },
+   "chunkDownloadNote": {
+      "message": "Für große Datensätze empfehlen wir die Verwendung des CSV-Formats. Die Daten werden in mehrere Blöcke aufgeteilt, um Downloadprobleme zu vermeiden."
+   },
+   "chunkSizeRows": {
+      "message": "Blockgröße (Zeilen)"
+   },
+   "comment": {
+      "message": "Kommentar"
+   },
+   "commentID": {
+      "message": "Kommentar-ID"
+   },
+   "commentTime": {
+      "message": "Kommentarzeit"
+   },
+   "commentsButtonNotFound": {
+      "message": "Die Schaltfläche zum Kommentieren wurde nicht gefunden. Bitte klicken Sie manuell darauf, um fortzufahren."
+   },
+   "completed": {
+      "message": "Vollendet"
+   },
+   "concurrentExport": {
+      "message": "Gleichzeitiger Export"
+   },
+   "continue": {
+      "message": "Weitermachen"
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "description": {
+      "message": "Exportieren Sie TikTok-Kommentare zur Analyse im CSV-Format nach Excel."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25 % Rabatt auf alle Artikel! Zeitlich befristetes Angebot."
+   },
+   "download": {
+      "message": "Herunterladen"
+   },
+   "downloadError": {
+      "message": "Fehler beim Herunterladen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns für Hilfe."
+   },
+   "expired": {
+      "message": "Abgelaufen"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "exportDone": {
+      "message": "Export erfolgreich"
+   },
+   "exportError": {
+      "message": "Es ist ein Fehler aufgetreten. Versuchen Sie es erneut"
+   },
+   "exporting": {
+      "message": "Exportieren..."
+   },
+   "extracted": {
+      "message": "Extrahiert"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Die Abonnementdaten konnten nicht abgerufen werden. Bitte versuchen Sie es erneut oder kontaktieren Sie uns für Hilfe."
+   },
+   "findTTLink": {
+      "message": "Wie finde ich den TikTok-Videolink?"
+   },
+   "free": {
+      "message": "Frei"
+   },
+   "freePlan": {
+      "message": "Kostenloser Plan"
+   },
+   "goToPortal": {
+      "message": "Gehen Sie zum Kundenportal"
+   },
+   "history": {
+      "message": "Geschichte"
+   },
+   "home": {
+      "message": "Heim"
+   },
+   "includeReply": {
+      "message": "Fügen Sie Kommentarantworten hinzu"
+   },
+   "includeReply1": {
+      "message": "Fügen Sie Antworten hinzu"
+   },
+   "lemonPriceNote": {
+      "message": "Die Preise sind in USD angegeben. Abhängig von Ihrem Standort kann Mehrwertsteuer anfallen."
+   },
+   "loading": {
+      "message": "Wird geladen..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Sie können Ihr Abonnement und Ihre Abrechnung im Kundenportal verwalten."
+   },
+   "month": {
+      "message": "Monat"
+   },
+   "monthly": {
+      "message": "Monatlich"
+   },
+   "monthlyDesc": {
+      "message": "Zum Ausprobieren geeignet"
+   },
+   "name": {
+      "message": "TTCommentExporter – TikTok-Kommentare exportieren"
+   },
+   "needUpgrade": {
+      "message": "Das Limit für das kostenlose Konto wurde überschritten. Führen Sie ein Upgrade durch, um fortzufahren"
+   },
+   "nickName": {
+      "message": "Spitzname"
+   },
+   "no": {
+      "message": "NEIN"
+   },
+   "noComments": {
+      "message": "Keine Kommentare gefunden"
+   },
+   "noTaskFound": {
+      "message": "Keine Aufgabe gefunden"
+   },
+   "numOfComments": {
+      "message": "Anzahl der exportierten Kommentare"
+   },
+   "paddlePriceNote": {
+      "message": "Die Preise sind in USD angegeben. Abhängig von Ihrem Standort wird beim Bezahlvorgang möglicherweise Ihre Landeswährung angezeigt. Es kann Mehrwertsteuer anfallen."
+   },
+   "pastDue": {
+      "message": "Überfällig"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "permAlert": {
+      "message": "Bitte erlauben Sie die Berechtigungen, um fortzufahren"
+   },
+   "pinnedToTop": {
+      "message": "Oben angepinnt"
+   },
+   "postID": {
+      "message": "Beitrags-ID"
+   },
+   "quarterly": {
+      "message": "Vierteljährlich"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} wird alle 3 Monate in Rechnung gestellt"
+   },
+   "randomInterval": {
+      "message": "Zufälliges Intervall in Sekunden zwischen Anfragen zum Abrufen von Kommentaren."
+   },
+   "replyCount": {
+      "message": "Anzahl der Antworten"
+   },
+   "replyToWhichComment": {
+      "message": "Auf welchen Kommentar antworten"
+   },
+   "selectFormat": {
+      "message": "Wählen Sie das Exportformat."
+   },
+   "settings": {
+      "message": "Einstellungen"
+   },
+   "signInAccount": {
+      "message": "Melden Sie sich bei Ihrem Konto an"
+   },
+   "signInFailure": {
+      "message": "Anmeldung fehlgeschlagen. Bitte versuchen Sie es erneut oder kontaktieren Sie uns für Hilfe."
+   },
+   "signInGoogle": {
+      "message": "Anmeldung mit Google"
+   },
+   "signOut": {
+      "message": "Abmelden"
+   },
+   "signedInAs": {
+      "message": "Eingeloggt als"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subsActiveHead": {
+      "message": "Ihr Abonnement ist aktiv"
+   },
+   "subsActiveMsg": {
+      "message": "Ihr Abonnement ist aktiv. Die Verlängerung ist für den {{}} geplant."
+   },
+   "subsCanceledHead": {
+      "message": "Ihr Abonnement ist gekündigt"
+   },
+   "subsCanceledMsg": {
+      "message": "Ihr Abonnement ist gekündigt. Es endet voraussichtlich am {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Ihr Abonnement ist abgelaufen"
+   },
+   "subsExpiredMsg": {
+      "message": "Ihr Abonnement ist abgelaufen."
+   },
+   "subsFreePlanMsg": {
+      "message": "Sie haben einen kostenlosen Tarif. Sie können jederzeit auf einen kostenpflichtigen Plan upgraden."
+   },
+   "subsPastDueHead": {
+      "message": "Ihre Rechnung ist überfällig"
+   },
+   "subsPastDueMsg": {
+      "message": "Ihre Rechnung ist überfällig. Bitte aktualisieren Sie Ihre Zahlungsmethode."
+   },
+   "subsPausedHead": {
+      "message": "Ihr Abonnement ist pausiert."
+   },
+   "subsPausedMsg": {
+      "message": "Ihr Abonnement ist pausiert. Sie können es jederzeit wieder aufnehmen oder kündigen."
+   },
+   "subsUnpaidHead": {
+      "message": "Ihre Rechnung ist unbezahlt"
+   },
+   "subsUnpaidMsg": {
+      "message": "Ihre Rechnung ist unbezahlt. Bitte aktualisieren Sie Ihre Zahlungsmethode."
+   },
+   "subscription": {
+      "message": "Abonnement"
+   },
+   "taskLimitNote": {
+      "message": "Derzeit werden nur die letzten 20 Aufgaben gespeichert. Bitte laden Sie Ihre Daten herunter, bevor diese automatisch gelöscht werden."
+   },
+   "ttLinkAlert": {
+      "message": "Es werden nur TikTok-Videolinks unterstützt"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Geben Sie einen TikTok-Videolink ein"
+   },
+   "type": {
+      "message": "Typ"
+   },
+   "undoCancel": {
+      "message": "Stornierung rückgängig machen"
+   },
+   "unexpectedError": {
+      "message": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut oder kontaktieren Sie uns für Hilfe."
+   },
+   "unlimited": {
+      "message": "Unbegrenzt"
+   },
+   "unpaid": {
+      "message": "Unbezahlt"
+   },
+   "updatePayment": {
+      "message": "Zahlung aktualisieren"
+   },
+   "userHomepage": {
+      "message": "Benutzer-Homepage"
+   },
+   "userID": {
+      "message": "Benutzer-ID"
+   },
+   "username": {
+      "message": "Nutzername"
+   },
+   "videoID": {
+      "message": "Video-ID"
+   },
+   "videoNotExist": {
+      "message": "Das Video existiert nicht."
+   },
+   "viewDetailedPricing": {
+      "message": "Detaillierte Funktionen und Preisgestaltung anzeigen"
+   },
+   "yearly": {
+      "message": "Jährlich"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} wird jährlich in Rechnung gestellt, Sie sparen {{2}}"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

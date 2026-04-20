@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Actiu"
+   },
+   "authorDigged": {
+      "message": "Autor Digged"
+   },
+   "buyNow": {
+      "message": "Compra ara"
+   },
+   "cancelSubs": {
+      "message": "Cancel·la la subscripció"
+   },
+   "canceled": {
+      "message": "Cancel·lat"
+   },
+   "chunkDownloadNote": {
+      "message": "Per a conjunts de dades grans, recomanem utilitzar el format CSV. Les dades es dividiran en diversos blocs per evitar problemes de descàrrega."
+   },
+   "chunkSizeRows": {
+      "message": "Mida del tros (files)"
+   },
+   "comment": {
+      "message": "Comenta"
+   },
+   "commentID": {
+      "message": "Identificador de comentari"
+   },
+   "commentTime": {
+      "message": "Hora de comentaris"
+   },
+   "commentsButtonNotFound": {
+      "message": "No s'ha trobat el botó de comentaris. Feu-hi clic manualment per continuar."
+   },
+   "completed": {
+      "message": "Completat"
+   },
+   "concurrentExport": {
+      "message": "Exportació simultània"
+   },
+   "continue": {
+      "message": "Continua"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "delete": {
+      "message": "Suprimeix"
+   },
+   "description": {
+      "message": "Exporteu els comentaris de TikTok a Excel en CSV per analitzar-los."
+   },
+   "diggCount": {
+      "message": "Recompte de Digg"
+   },
+   "discount25": {
+      "message": "25% de descompte en tots els articles! Oferta per temps limitat."
+   },
+   "download": {
+      "message": "descarregar"
+   },
+   "downloadError": {
+      "message": "Error de baixada, torneu-ho a provar o poseu-vos en contacte amb nosaltres per obtenir ajuda."
+   },
+   "expired": {
+      "message": "Caducat"
+   },
+   "export": {
+      "message": "Exporta"
+   },
+   "exportDone": {
+      "message": "Exporta correctament"
+   },
+   "exportError": {
+      "message": "S'ha produït un error, torneu-ho a provar"
+   },
+   "exporting": {
+      "message": "S'està exportant..."
+   },
+   "extracted": {
+      "message": "Extret"
+   },
+   "faq": {
+      "message": "PMF"
+   },
+   "fetchSubsFailure": {
+      "message": "No es poden obtenir les dades de la subscripció, torneu-ho a provar o poseu-vos en contacte amb nosaltres per obtenir ajuda."
+   },
+   "findTTLink": {
+      "message": "Com trobar l'enllaç del vídeo de TikTok?"
+   },
+   "free": {
+      "message": "Gratuït"
+   },
+   "freePlan": {
+      "message": "Pla gratuït"
+   },
+   "goToPortal": {
+      "message": "Aneu al portal del client"
+   },
+   "history": {
+      "message": "Història"
+   },
+   "home": {
+      "message": "a casa"
+   },
+   "includeReply": {
+      "message": "Inclou respostes de comentaris"
+   },
+   "includeReply1": {
+      "message": "Incloeu les respostes"
+   },
+   "lemonPriceNote": {
+      "message": "Els preus es mostren en USD. L'IVA pot aplicar-se en funció de la vostra ubicació."
+   },
+   "loading": {
+      "message": "Carregant..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Pots gestionar la teva subscripció i facturació al Portal del Client."
+   },
+   "month": {
+      "message": "mes"
+   },
+   "monthly": {
+      "message": "Mensual"
+   },
+   "monthlyDesc": {
+      "message": "Apte per provar"
+   },
+   "name": {
+      "message": "TTCommentExporter - Exporta els comentaris de TikTok"
+   },
+   "needUpgrade": {
+      "message": "S'ha superat el límit del compte gratuït, actualitzeu per continuar"
+   },
+   "nickName": {
+      "message": "Pseudònim"
+   },
+   "no": {
+      "message": "No"
+   },
+   "noComments": {
+      "message": "No s'han trobat comentaris"
+   },
+   "noTaskFound": {
+      "message": "No s'ha trobat cap tasca"
+   },
+   "numOfComments": {
+      "message": "Nombre de comentaris exportats"
+   },
+   "paddlePriceNote": {
+      "message": "Els preus es mostren en USD. És possible que vegeu la vostra moneda local a l'hora de pagar, depenent de la vostra ubicació. Es pot aplicar l'IVA."
+   },
+   "pastDue": {
+      "message": "Vençuda"
+   },
+   "pause": {
+      "message": "Pausa"
+   },
+   "permAlert": {
+      "message": "Permeteu que els permisos continuïn"
+   },
+   "pinnedToTop": {
+      "message": "Fixat a dalt"
+   },
+   "postID": {
+      "message": "ID de publicació"
+   },
+   "quarterly": {
+      "message": "Trimestral"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} facturat cada 3 mesos"
+   },
+   "randomInterval": {
+      "message": "Interval aleatori en segons entre les sol·licituds per obtenir comentaris."
+   },
+   "replyCount": {
+      "message": "Recompte de respostes"
+   },
+   "replyToWhichComment": {
+      "message": "Respon a quin comentari"
+   },
+   "selectFormat": {
+      "message": "Seleccioneu el format d'exportació."
+   },
+   "settings": {
+      "message": "Configuració"
+   },
+   "signInAccount": {
+      "message": "Inicieu la sessió al vostre compte"
+   },
+   "signInFailure": {
+      "message": "No s'ha pogut iniciar la sessió. Si us plau, torneu-ho a provar o poseu-vos en contacte amb nosaltres per obtenir ajuda."
+   },
+   "signInGoogle": {
+      "message": "Inicieu la sessió amb Google"
+   },
+   "signOut": {
+      "message": "Tanca sessió"
+   },
+   "signedInAs": {
+      "message": "Inicieu sessió com a"
+   },
+   "status": {
+      "message": "Estat"
+   },
+   "subsActiveHead": {
+      "message": "La teva subscripció està activa"
+   },
+   "subsActiveMsg": {
+      "message": "La teva subscripció està activa. Està previst que es renovi el dia {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "La teva subscripció s'ha cancel·lat"
+   },
+   "subsCanceledMsg": {
+      "message": "La teva subscripció s'ha cancel·lat. Està previst que finalitzi el dia {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "La teva subscripció ha caducat"
+   },
+   "subsExpiredMsg": {
+      "message": "La teva subscripció ha caducat."
+   },
+   "subsFreePlanMsg": {
+      "message": "Tens un pla gratuït. Podeu actualitzar a un pla de pagament en qualsevol moment."
+   },
+   "subsPastDueHead": {
+      "message": "La vostra factura està vençuda"
+   },
+   "subsPastDueMsg": {
+      "message": "La vostra factura està vençuda. Actualitzeu la vostra forma de pagament."
+   },
+   "subsPausedHead": {
+      "message": "La teva subscripció està en pausa"
+   },
+   "subsPausedMsg": {
+      "message": "La teva subscripció està en pausa. Pots reprendre-la o cancel·lar-la en qualsevol moment."
+   },
+   "subsUnpaidHead": {
+      "message": "La teva factura no està pagada"
+   },
+   "subsUnpaidMsg": {
+      "message": "La teva factura no està pagada. Actualitzeu la vostra forma de pagament."
+   },
+   "subscription": {
+      "message": "Subscripció"
+   },
+   "taskLimitNote": {
+      "message": "Actualment, només s'emmagatzemaran les 20 tasques més recents. Baixeu les vostres dades abans que s'eliminin automàticament."
+   },
+   "ttLinkAlert": {
+      "message": "Només s'admeten els enllaços de vídeo de TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Introduïu un enllaç de vídeo de TikTok"
+   },
+   "type": {
+      "message": "Tipus"
+   },
+   "undoCancel": {
+      "message": "Desfer la cancel·lació"
+   },
+   "unexpectedError": {
+      "message": "S'ha produït un error inesperat. Si us plau, torneu-ho a provar o poseu-vos en contacte amb nosaltres per obtenir ajuda."
+   },
+   "unlimited": {
+      "message": "Il·limitat"
+   },
+   "unpaid": {
+      "message": "Sense pagar"
+   },
+   "updatePayment": {
+      "message": "Actualitza el pagament"
+   },
+   "userHomepage": {
+      "message": "Pàgina d'inici de l'usuari"
+   },
+   "userID": {
+      "message": "ID d'usuari"
+   },
+   "username": {
+      "message": "Nom d'usuari"
+   },
+   "videoID": {
+      "message": "Identificador de vídeo"
+   },
+   "videoNotExist": {
+      "message": "El vídeo no existeix."
+   },
+   "viewDetailedPricing": {
+      "message": "Veure funcions detallades i preus"
+   },
+   "yearly": {
+      "message": "Anualment"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} facturat anualment, estalvieu {{2}}"
+   },
+   "yes": {
+      "message": "Sí"
+   }
+}

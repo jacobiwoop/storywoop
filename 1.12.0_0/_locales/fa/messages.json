@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "فعال"
+   },
+   "authorDigged": {
+      "message": "نویسنده حفاری"
+   },
+   "buyNow": {
+      "message": "هم اکنون خریداری کنید"
+   },
+   "cancelSubs": {
+      "message": "لغو عضویت"
+   },
+   "canceled": {
+      "message": "لغو شد"
+   },
+   "chunkDownloadNote": {
+      "message": "برای مجموعه داده‌های بزرگ، توصیه می‌کنیم از فرمت CSV استفاده کنید. داده‌ها به چندین بخش تقسیم می‌شوند تا از مشکلات دانلود جلوگیری شود."
+   },
+   "chunkSizeRows": {
+      "message": "اندازه قطعه (ردیف‌ها)"
+   },
+   "comment": {
+      "message": "اظهار نظر"
+   },
+   "commentID": {
+      "message": "شناسه نظر"
+   },
+   "commentTime": {
+      "message": "زمان نظر دادن"
+   },
+   "commentsButtonNotFound": {
+      "message": "دکمه نظرات را پیدا نکردم. لطفاً برای ادامه، آن را به صورت دستی کلیک کنید."
+   },
+   "completed": {
+      "message": "تکمیل شد"
+   },
+   "concurrentExport": {
+      "message": "صادرات همزمان"
+   },
+   "continue": {
+      "message": "ادامه هید"
+   },
+   "date": {
+      "message": "تاریخ"
+   },
+   "delete": {
+      "message": "حذف"
+   },
+   "description": {
+      "message": "برای تجزیه و تحلیل، نظرات TikTok را به Excel در CSV صادر کنید."
+   },
+   "diggCount": {
+      "message": "شمارش دیگ"
+   },
+   "discount25": {
+      "message": "25% تخفیف برای تمامی اجناس پیشنهاد زمان محدود"
+   },
+   "download": {
+      "message": "دانلود"
+   },
+   "downloadError": {
+      "message": "خطای دانلود، لطفاً دوباره امتحان کنید یا برای راهنمایی با ما تماس بگیرید."
+   },
+   "expired": {
+      "message": "منقضی شده"
+   },
+   "export": {
+      "message": "صادرات"
+   },
+   "exportDone": {
+      "message": "صادرات با موفقیت"
+   },
+   "exportError": {
+      "message": "خطایی روی داد، لطفاً دوباره امتحان کنید"
+   },
+   "exporting": {
+      "message": "در حال صادرات..."
+   },
+   "extracted": {
+      "message": "استخراج شده است"
+   },
+   "faq": {
+      "message": "سوالات متداول"
+   },
+   "fetchSubsFailure": {
+      "message": "دریافت اطلاعات اشتراک امکان‌پذیر نیست، لطفاً دوباره امتحان کنید یا برای راهنمایی با ما تماس بگیرید."
+   },
+   "findTTLink": {
+      "message": "چگونه پیوند ویدیوی TikTok را پیدا کنیم؟"
+   },
+   "free": {
+      "message": "رایگان"
+   },
+   "freePlan": {
+      "message": "طرح رایگان"
+   },
+   "goToPortal": {
+      "message": "به پورتال مشتری بروید"
+   },
+   "history": {
+      "message": "تاریخ"
+   },
+   "home": {
+      "message": "صفحه اصلی"
+   },
+   "includeReply": {
+      "message": "شامل پاسخ نظرات"
+   },
+   "includeReply1": {
+      "message": "شامل پاسخ ها"
+   },
+   "lemonPriceNote": {
+      "message": "قیمت ها به دلار ذکر شده است. مالیات بر ارزش افزوده ممکن است بسته به موقعیت مکانی شما اعمال شود."
+   },
+   "loading": {
+      "message": "بارگذاری..."
+   },
+   "manageSubsAndBilling": {
+      "message": "می توانید اشتراک و صورتحساب خود را در پورتال مشتری مدیریت کنید."
+   },
+   "month": {
+      "message": "ماه"
+   },
+   "monthly": {
+      "message": "ماهانه"
+   },
+   "monthlyDesc": {
+      "message": "مناسب برای امتحان کردن"
+   },
+   "name": {
+      "message": "TTCommentExporter - نظرات TikTok را صادر کنید"
+   },
+   "needUpgrade": {
+      "message": "از حد مجاز حساب رایگان فراتر رفت، برای ادامه ارتقا دهید"
+   },
+   "nickName": {
+      "message": "نام مستعار"
+   },
+   "no": {
+      "message": "خیر"
+   },
+   "noComments": {
+      "message": "نظری یافت نشد"
+   },
+   "noTaskFound": {
+      "message": "وظیفه ای پیدا نشد"
+   },
+   "numOfComments": {
+      "message": "تعداد نظرات صادر شده"
+   },
+   "paddlePriceNote": {
+      "message": "قیمت ها به دلار ذکر شده است. بسته به موقعیت مکانی خود، ممکن است پول محلی خود را هنگام پرداخت مشاهده کنید. مالیات بر ارزش افزوده ممکن است اعمال شود."
+   },
+   "pastDue": {
+      "message": "سررسید گذشته"
+   },
+   "pause": {
+      "message": "مکث کنید"
+   },
+   "permAlert": {
+      "message": "لطفاً اجازه دهید مجوزها ادامه یابد"
+   },
+   "pinnedToTop": {
+      "message": "به بالا پین شد"
+   },
+   "postID": {
+      "message": "شناسه پست"
+   },
+   "quarterly": {
+      "message": "سه ماه یکبار"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} هر 3 ماه یکبار صورت‌حساب می‌شود"
+   },
+   "randomInterval": {
+      "message": "فاصله تصادفی در ثانیه بین درخواست‌ها برای واکشی نظرات."
+   },
+   "replyCount": {
+      "message": "تعداد پاسخ ها"
+   },
+   "replyToWhichComment": {
+      "message": "به کدام نظر پاسخ دهید"
+   },
+   "selectFormat": {
+      "message": "فرمت صادرات را انتخاب کنید."
+   },
+   "settings": {
+      "message": "تنظیمات"
+   },
+   "signInAccount": {
+      "message": "به حساب خود وارد شوید"
+   },
+   "signInFailure": {
+      "message": "ورود به سیستم انجام نشد. لطفاً دوباره امتحان کنید یا برای راهنمایی با ما تماس بگیرید."
+   },
+   "signInGoogle": {
+      "message": "با گوگل وارد شوید"
+   },
+   "signOut": {
+      "message": "خروج از سیستم"
+   },
+   "signedInAs": {
+      "message": "به عنوان وارد شده است"
+   },
+   "status": {
+      "message": "وضعیت"
+   },
+   "subsActiveHead": {
+      "message": "اشتراک شما فعال است"
+   },
+   "subsActiveMsg": {
+      "message": "اشتراک شما فعال است قرار است در {{}} تمدید شود."
+   },
+   "subsCanceledHead": {
+      "message": "اشتراک شما لغو شده است"
+   },
+   "subsCanceledMsg": {
+      "message": "اشتراک شما لغو شده است. قرار است در {{}} به پایان برسد."
+   },
+   "subsExpiredHead": {
+      "message": "اشتراک شما منقضی شده است"
+   },
+   "subsExpiredMsg": {
+      "message": "اشتراک شما منقضی شده است."
+   },
+   "subsFreePlanMsg": {
+      "message": "شما در یک طرح رایگان هستید. می‌توانید در هر زمان به یک طرح پولی ارتقا دهید."
+   },
+   "subsPastDueHead": {
+      "message": "سررسید فاکتور شما گذشته است"
+   },
+   "subsPastDueMsg": {
+      "message": "سررسید فاکتور شما گذشته است. لطفاً روش پرداخت خود را به روز کنید."
+   },
+   "subsPausedHead": {
+      "message": "اشتراک شما متوقف شده است"
+   },
+   "subsPausedMsg": {
+      "message": "اشتراک شما متوقف شده است. می‌توانید در هر زمان آن را از سر بگیرید یا لغو کنید."
+   },
+   "subsUnpaidHead": {
+      "message": "فاکتور شما پرداخت نشده است"
+   },
+   "subsUnpaidMsg": {
+      "message": "فاکتور شما پرداخت نشده است. لطفاً روش پرداخت خود را به روز کنید."
+   },
+   "subscription": {
+      "message": "اشتراک، ابونمان"
+   },
+   "taskLimitNote": {
+      "message": "در حال حاضر، فقط آخرین 20 کار ذخیره خواهد شد. لطفاً اطلاعات خود را قبل از حذف خودکار دانلود کنید."
+   },
+   "ttLinkAlert": {
+      "message": "فقط پیوندهای ویدیویی TikTok پشتیبانی می شوند"
+   },
+   "ttLinkPlaceholder": {
+      "message": "پیوند ویدیویی TikTok را وارد کنید"
+   },
+   "type": {
+      "message": "تایپ کنید"
+   },
+   "undoCancel": {
+      "message": "لغو لغو"
+   },
+   "unexpectedError": {
+      "message": "یک خطای غیر منتظره رخ داده است. لطفاً دوباره امتحان کنید یا برای کمک با ما تماس بگیرید."
+   },
+   "unlimited": {
+      "message": "نامحدود"
+   },
+   "unpaid": {
+      "message": "پرداخت نشده"
+   },
+   "updatePayment": {
+      "message": "به روز رسانی پرداخت"
+   },
+   "userHomepage": {
+      "message": "صفحه اصلی کاربر"
+   },
+   "userID": {
+      "message": "شناسه کاربر"
+   },
+   "username": {
+      "message": "نام کاربری"
+   },
+   "videoID": {
+      "message": "شناسه ویدیو"
+   },
+   "videoNotExist": {
+      "message": "ویدیو وجود ندارد."
+   },
+   "viewDetailedPricing": {
+      "message": "مشاهده ویژگی های دقیق و قیمت گذاری"
+   },
+   "yearly": {
+      "message": "سالانه"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} صورتحساب سالانه، صرفه جویی در {{2}}"
+   },
+   "yes": {
+      "message": "آره"
+   }
+}

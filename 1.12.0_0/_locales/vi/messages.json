@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Tích cực"
+   },
+   "authorDigged": {
+      "message": "tác giả đào"
+   },
+   "buyNow": {
+      "message": "Mua ngay"
+   },
+   "cancelSubs": {
+      "message": "Hủy đăng ký"
+   },
+   "canceled": {
+      "message": "Đã hủy"
+   },
+   "chunkDownloadNote": {
+      "message": "Đối với các tập dữ liệu lớn, chúng tôi khuyên bạn nên sử dụng định dạng CSV. Dữ liệu sẽ được chia thành nhiều phần để tránh sự cố tải xuống."
+   },
+   "chunkSizeRows": {
+      "message": "Kích thước khối (hàng)"
+   },
+   "comment": {
+      "message": "Bình luận"
+   },
+   "commentID": {
+      "message": "ID nhận xét"
+   },
+   "commentTime": {
+      "message": "Thời gian bình luận"
+   },
+   "commentsButtonNotFound": {
+      "message": "Không tìm thấy nút bình luận. Vui lòng nhấn vào nút đó thủ công để tiếp tục."
+   },
+   "completed": {
+      "message": "Hoàn thành"
+   },
+   "concurrentExport": {
+      "message": "Xuất đồng thời"
+   },
+   "continue": {
+      "message": "Tiếp tục"
+   },
+   "date": {
+      "message": "Ngày"
+   },
+   "delete": {
+      "message": "Xóa bỏ"
+   },
+   "description": {
+      "message": "Xuất nhận xét TikTok sang Excel ở dạng CSV để phân tích."
+   },
+   "diggCount": {
+      "message": "Số lượng đào"
+   },
+   "discount25": {
+      "message": "Giảm giá 25% cho tất cả các mặt hàng! Ưu đãi thời gian có hạn."
+   },
+   "download": {
+      "message": "Tải xuống"
+   },
+   "downloadError": {
+      "message": "Lỗi tải xuống, vui lòng thử lại hoặc liên hệ với chúng tôi để được trợ giúp."
+   },
+   "expired": {
+      "message": "Hết hạn"
+   },
+   "export": {
+      "message": "Xuất khẩu"
+   },
+   "exportDone": {
+      "message": "Xuất thành công"
+   },
+   "exportError": {
+      "message": "Có lỗi xảy ra. Vui lòng thử lại"
+   },
+   "exporting": {
+      "message": "Đang xuất..."
+   },
+   "extracted": {
+      "message": "Đã trích xuất"
+   },
+   "faq": {
+      "message": "Câu hỏi thường gặp"
+   },
+   "fetchSubsFailure": {
+      "message": "Không thể lấy dữ liệu đăng ký, vui lòng thử lại hoặc liên hệ với chúng tôi để được trợ giúp."
+   },
+   "findTTLink": {
+      "message": "Làm cách nào để tìm liên kết video TikTok?"
+   },
+   "free": {
+      "message": "Miễn phí"
+   },
+   "freePlan": {
+      "message": "Gói miễn phí"
+   },
+   "goToPortal": {
+      "message": "Đi tới Cổng thông tin khách hàng"
+   },
+   "history": {
+      "message": "Lịch sử"
+   },
+   "home": {
+      "message": "Trang chủ"
+   },
+   "includeReply": {
+      "message": "Bao gồm các câu trả lời nhận xét"
+   },
+   "includeReply1": {
+      "message": "Bao gồm các câu trả lời"
+   },
+   "lemonPriceNote": {
+      "message": "Giá được niêm yết bằng USD. VAT có thể được áp dụng tùy thuộc vào vị trí của bạn."
+   },
+   "loading": {
+      "message": "Đang tải..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Bạn có thể quản lý đăng ký và thanh toán của mình trong Cổng thông tin khách hàng."
+   },
+   "month": {
+      "message": "tháng"
+   },
+   "monthly": {
+      "message": "hàng tháng"
+   },
+   "monthlyDesc": {
+      "message": "Thích hợp để dùng thử"
+   },
+   "name": {
+      "message": "TTCommentExporter - Xuất bình luận TikTok"
+   },
+   "needUpgrade": {
+      "message": "Đã vượt quá giới hạn tài khoản miễn phí, hãy nâng cấp để tiếp tục"
+   },
+   "nickName": {
+      "message": "Tên nick"
+   },
+   "no": {
+      "message": "KHÔNG"
+   },
+   "noComments": {
+      "message": "Không tìm thấy bình luận nào"
+   },
+   "noTaskFound": {
+      "message": "Không tìm thấy nhiệm vụ nào"
+   },
+   "numOfComments": {
+      "message": "Số lượng bình luận đã xuất"
+   },
+   "paddlePriceNote": {
+      "message": "Giá được niêm yết bằng USD. Bạn có thể thấy nội tệ của mình khi thanh toán, tùy thuộc vào vị trí của bạn. VAT có thể được áp dụng."
+   },
+   "pastDue": {
+      "message": "Quá hạn"
+   },
+   "pause": {
+      "message": "Tạm ngừng"
+   },
+   "permAlert": {
+      "message": "Vui lòng cho phép quyền tiếp tục"
+   },
+   "pinnedToTop": {
+      "message": "Đã ghim lên đầu"
+   },
+   "postID": {
+      "message": "ID bài đăng"
+   },
+   "quarterly": {
+      "message": "hàng quý"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} thanh toán 3 tháng một lần"
+   },
+   "randomInterval": {
+      "message": "Khoảng thời gian ngẫu nhiên tính bằng giây giữa các yêu cầu tìm nạp nhận xét."
+   },
+   "replyCount": {
+      "message": "Số lượng trả lời"
+   },
+   "replyToWhichComment": {
+      "message": "Trả lời bình luận nào"
+   },
+   "selectFormat": {
+      "message": "Chọn định dạng xuất."
+   },
+   "settings": {
+      "message": "Cài đặt"
+   },
+   "signInAccount": {
+      "message": "đăng nhập vào tài khoản của bạn"
+   },
+   "signInFailure": {
+      "message": "Đăng nhập không thành công. Vui lòng thử lại hoặc liên hệ với chúng tôi để được trợ giúp."
+   },
+   "signInGoogle": {
+      "message": "Đăng nhập bằng Google"
+   },
+   "signOut": {
+      "message": "Đăng xuất"
+   },
+   "signedInAs": {
+      "message": "Đăng ký với tư cách là"
+   },
+   "status": {
+      "message": "Trạng thái"
+   },
+   "subsActiveHead": {
+      "message": "Đăng ký của bạn đang hoạt động"
+   },
+   "subsActiveMsg": {
+      "message": "Đăng ký của bạn đang hoạt động. Nó được lên lịch gia hạn vào {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Đăng ký của bạn đã bị hủy"
+   },
+   "subsCanceledMsg": {
+      "message": "Đăng ký của bạn đã bị hủy. Sự kiện dự kiến ​​kết thúc vào {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Đăng ký của bạn đã hết hạn"
+   },
+   "subsExpiredMsg": {
+      "message": "Đăng ký của bạn đã hết hạn."
+   },
+   "subsFreePlanMsg": {
+      "message": "Bạn đang sử dụng gói miễn phí. Bạn có thể nâng cấp lên gói trả phí bất cứ lúc nào."
+   },
+   "subsPastDueHead": {
+      "message": "Hóa đơn của bạn đã quá hạn"
+   },
+   "subsPastDueMsg": {
+      "message": "Hóa đơn của bạn đã quá hạn. Vui lòng cập nhật phương thức thanh toán của bạn."
+   },
+   "subsPausedHead": {
+      "message": "Gói đăng ký của bạn đã tạm dừng."
+   },
+   "subsPausedMsg": {
+      "message": "Gói đăng ký của bạn đã tạm dừng. Bạn có thể tiếp tục hoặc hủy bỏ bất cứ lúc nào."
+   },
+   "subsUnpaidHead": {
+      "message": "Hóa đơn của bạn chưa được thanh toán"
+   },
+   "subsUnpaidMsg": {
+      "message": "Hóa đơn của bạn chưa được thanh toán. Vui lòng cập nhật phương thức thanh toán của bạn."
+   },
+   "subscription": {
+      "message": "Đăng ký"
+   },
+   "taskLimitNote": {
+      "message": "Hiện tại, chỉ có 20 nhiệm vụ mới nhất sẽ được lưu trữ. Vui lòng tải xuống dữ liệu của bạn trước khi chúng tự động bị xóa."
+   },
+   "ttLinkAlert": {
+      "message": "Chỉ hỗ trợ liên kết video TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Nhập liên kết video TikTok"
+   },
+   "type": {
+      "message": "Kiểu"
+   },
+   "undoCancel": {
+      "message": "Hoàn tác hủy"
+   },
+   "unexpectedError": {
+      "message": "Một lỗi không mong muốn đã xảy ra. Vui lòng thử lại hoặc liên hệ với chúng tôi để được hỗ trợ."
+   },
+   "unlimited": {
+      "message": "Vô hạn"
+   },
+   "unpaid": {
+      "message": "Chưa thanh toán"
+   },
+   "updatePayment": {
+      "message": "Cập nhật thanh toán"
+   },
+   "userHomepage": {
+      "message": "Trang chủ người dùng"
+   },
+   "userID": {
+      "message": "Tên người dùng"
+   },
+   "username": {
+      "message": "tên tài khoản"
+   },
+   "videoID": {
+      "message": "Mã video"
+   },
+   "videoNotExist": {
+      "message": "Video này không tồn tại."
+   },
+   "viewDetailedPricing": {
+      "message": "Xem các tính năng chi tiết và giá cả"
+   },
+   "yearly": {
+      "message": "Hàng năm"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} thanh toán hàng năm, tiết kiệm {{2}}"
+   },
+   "yes": {
+      "message": "Đúng"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktif"
+   },
+   "authorDigged": {
+      "message": "Yazar Kazıldı"
+   },
+   "buyNow": {
+      "message": "Şimdi al"
+   },
+   "cancelSubs": {
+      "message": "Aboneliği iptal et"
+   },
+   "canceled": {
+      "message": "İptal edildi"
+   },
+   "chunkDownloadNote": {
+      "message": "Büyük veri kümeleri için CSV formatını kullanmanızı öneririz. Veriler, indirme sorunlarını önlemek için birden fazla parçaya bölünecektir."
+   },
+   "chunkSizeRows": {
+      "message": "Parça boyutu (satırlar)"
+   },
+   "comment": {
+      "message": "Yorum"
+   },
+   "commentID": {
+      "message": "Yorum kimliği"
+   },
+   "commentTime": {
+      "message": "Yorum Zamanı"
+   },
+   "commentsButtonNotFound": {
+      "message": "Yorumlar butonunu bulamadık. Devam etmek için lütfen manuel olarak tıklayın."
+   },
+   "completed": {
+      "message": "Tamamlanmış"
+   },
+   "concurrentExport": {
+      "message": "Eşzamanlı dışa aktarma"
+   },
+   "continue": {
+      "message": "Devam etmek"
+   },
+   "date": {
+      "message": "Tarih"
+   },
+   "delete": {
+      "message": "Silmek"
+   },
+   "description": {
+      "message": "Analiz için TikTok yorumlarını CSV formatında Excel'e aktarın."
+   },
+   "diggCount": {
+      "message": "Kazma Sayısı"
+   },
+   "discount25": {
+      "message": "Tüm ürünlerde %25 indirim! Sınırlı zaman teklif."
+   },
+   "download": {
+      "message": "İndirmek"
+   },
+   "downloadError": {
+      "message": "İndirme hatası, lütfen tekrar deneyin veya yardım için bizimle iletişime geçin."
+   },
+   "expired": {
+      "message": "Günü geçmiş"
+   },
+   "export": {
+      "message": "İhracat"
+   },
+   "exportDone": {
+      "message": "Başarıyla dışa aktar"
+   },
+   "exportError": {
+      "message": "Bir hata oluştu. Lütfen tekrar deneyin"
+   },
+   "exporting": {
+      "message": "Dışa aktarılıyor..."
+   },
+   "extracted": {
+      "message": "Çıkarıldı"
+   },
+   "faq": {
+      "message": "SSS"
+   },
+   "fetchSubsFailure": {
+      "message": "Abonelik verileri alınamıyor. Lütfen yeniden deneyin veya yardım için bizimle iletişime geçin."
+   },
+   "findTTLink": {
+      "message": "TikTok video bağlantısını nasıl bulabilirim?"
+   },
+   "free": {
+      "message": "Özgür"
+   },
+   "freePlan": {
+      "message": "Ücretsiz Plan"
+   },
+   "goToPortal": {
+      "message": "Müşteri Portalına Git"
+   },
+   "history": {
+      "message": "Tarih"
+   },
+   "home": {
+      "message": "Ev"
+   },
+   "includeReply": {
+      "message": "Yorum yanıtlarını dahil et"
+   },
+   "includeReply1": {
+      "message": "Yanıtları dahil et"
+   },
+   "lemonPriceNote": {
+      "message": "Fiyatlar USD cinsinden listelenmiştir. Bulunduğunuz yere bağlı olarak KDV geçerli olabilir."
+   },
+   "loading": {
+      "message": "Yükleniyor..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Aboneliğinizi ve faturalandırmanızı Müşteri Portalında yönetebilirsiniz."
+   },
+   "month": {
+      "message": "ay"
+   },
+   "monthly": {
+      "message": "Aylık"
+   },
+   "monthlyDesc": {
+      "message": "Denemek için uygun"
+   },
+   "name": {
+      "message": "TTCommentExporter - TikTok Yorumlarını Dışa Aktar"
+   },
+   "needUpgrade": {
+      "message": "Ücretsiz hesap limiti aşıldı, devam etmek için yükseltme yapın"
+   },
+   "nickName": {
+      "message": "Takma ad"
+   },
+   "no": {
+      "message": "HAYIR"
+   },
+   "noComments": {
+      "message": "Yorum bulunamadı"
+   },
+   "noTaskFound": {
+      "message": "Görev bulunamadı"
+   },
+   "numOfComments": {
+      "message": "Dışa aktarılan yorumların sayısı"
+   },
+   "paddlePriceNote": {
+      "message": "Fiyatlar USD cinsinden listelenmiştir. Bulunduğunuz yere bağlı olarak ödeme sırasında yerel para biriminizi görebilirsiniz. KDV geçerli olabilir."
+   },
+   "pastDue": {
+      "message": "Vadesi Geçmiş"
+   },
+   "pause": {
+      "message": "Duraklat"
+   },
+   "permAlert": {
+      "message": "Lütfen izinlerin devam etmesine izin verin"
+   },
+   "pinnedToTop": {
+      "message": "En Üste Sabitlendi"
+   },
+   "postID": {
+      "message": "Gönderi kimliği"
+   },
+   "quarterly": {
+      "message": "Üç ayda bir"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} her 3 ayda bir faturalandırılır"
+   },
+   "randomInterval": {
+      "message": "Yorum alma istekleri arasındaki saniye cinsinden rastgele aralık."
+   },
+   "replyCount": {
+      "message": "Yanıt Sayısı"
+   },
+   "replyToWhichComment": {
+      "message": "Hangi Yoruma Cevap Ver"
+   },
+   "selectFormat": {
+      "message": "Dışa aktarma biçimini seçin."
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "signInAccount": {
+      "message": "hesabınıza giriş yapın"
+   },
+   "signInFailure": {
+      "message": "Oturum açma başarısız. Lütfen tekrar deneyin veya yardım için bizimle iletişime geçin."
+   },
+   "signInGoogle": {
+      "message": "Google ile giriş yap"
+   },
+   "signOut": {
+      "message": "oturumu Kapat"
+   },
+   "signedInAs": {
+      "message": "Olarak giriş yapıldı"
+   },
+   "status": {
+      "message": "Durum"
+   },
+   "subsActiveHead": {
+      "message": "Aboneliğiniz aktif"
+   },
+   "subsActiveMsg": {
+      "message": "Aboneliğiniz aktif. {{}} tarihinde yenilenmesi planlanıyor."
+   },
+   "subsCanceledHead": {
+      "message": "Aboneliğiniz iptal edildi"
+   },
+   "subsCanceledMsg": {
+      "message": "Aboneliğiniz iptal edildi. {{}} tarihinde bitmesi planlanıyor."
+   },
+   "subsExpiredHead": {
+      "message": "Aboneliğinizin süresi doldu"
+   },
+   "subsExpiredMsg": {
+      "message": "Aboneliğiniz sona erdi."
+   },
+   "subsFreePlanMsg": {
+      "message": "Ücretsiz bir plan kullanıyorsunuz. Dilediğiniz zaman ücretli bir plana yükseltebilirsiniz."
+   },
+   "subsPastDueHead": {
+      "message": "Faturanızın vadesi geçmiş"
+   },
+   "subsPastDueMsg": {
+      "message": "Faturanızın vadesi geçmiş. Lütfen ödeme yönteminizi güncelleyin."
+   },
+   "subsPausedHead": {
+      "message": "Aboneliğiniz duraklatıldı."
+   },
+   "subsPausedMsg": {
+      "message": "Aboneliğiniz geçici olarak durduruldu. İstediğiniz zaman devam ettirebilir veya iptal edebilirsiniz."
+   },
+   "subsUnpaidHead": {
+      "message": "Faturanız ödenmedi"
+   },
+   "subsUnpaidMsg": {
+      "message": "Faturanız ödenmedi. Lütfen ödeme yönteminizi güncelleyin."
+   },
+   "subscription": {
+      "message": "Abonelik"
+   },
+   "taskLimitNote": {
+      "message": "Şu anda yalnızca en son 20 görev saklanacak. Lütfen verilerinizi otomatik olarak silinmeden indirin."
+   },
+   "ttLinkAlert": {
+      "message": "Yalnızca TikTok video bağlantıları desteklenir"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Bir TikTok video bağlantısı girin"
+   },
+   "type": {
+      "message": "Tip"
+   },
+   "undoCancel": {
+      "message": "İptali Geri Al"
+   },
+   "unexpectedError": {
+      "message": "Beklenmeyen bir hata oluştu. Lütfen tekrar deneyin veya yardım için bizimle iletişime geçmekten çekinmeyin."
+   },
+   "unlimited": {
+      "message": "Sınırsız"
+   },
+   "unpaid": {
+      "message": "ödenmemiş"
+   },
+   "updatePayment": {
+      "message": "Ödemeyi Güncelle"
+   },
+   "userHomepage": {
+      "message": "Kullanıcı Ana Sayfası"
+   },
+   "userID": {
+      "message": "Kullanıcı kimliği"
+   },
+   "username": {
+      "message": "Kullanıcı adı"
+   },
+   "videoID": {
+      "message": "Video kimliği"
+   },
+   "videoNotExist": {
+      "message": "Video mevcut değil."
+   },
+   "viewDetailedPricing": {
+      "message": "Ayrıntılı özellikleri ve fiyatlandırmayı görüntüleyin"
+   },
+   "yearly": {
+      "message": "Yıllık"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} yıllık olarak faturalandırılır, {{2}} tasarruf edilir"
+   },
+   "yes": {
+      "message": "Evet"
+   }
+}

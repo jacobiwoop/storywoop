@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "활동적인"
+   },
+   "authorDigged": {
+      "message": "작성자 Digged"
+   },
+   "buyNow": {
+      "message": "지금 구매"
+   },
+   "cancelSubs": {
+      "message": "구독 취소"
+   },
+   "canceled": {
+      "message": "취소 된"
+   },
+   "chunkDownloadNote": {
+      "message": "대용량 데이터 세트의 경우 CSV 형식을 사용하는 것이 좋습니다. 다운로드 문제를 방지하기 위해 데이터가 여러 개의 청크로 분할됩니다."
+   },
+   "chunkSizeRows": {
+      "message": "청크 크기(행)"
+   },
+   "comment": {
+      "message": "논평"
+   },
+   "commentID": {
+      "message": "댓글ID"
+   },
+   "commentTime": {
+      "message": "댓글 시간"
+   },
+   "commentsButtonNotFound": {
+      "message": "댓글 버튼을 찾을 수 없습니다. 계속하려면 직접 클릭해 주세요."
+   },
+   "completed": {
+      "message": "완전한"
+   },
+   "concurrentExport": {
+      "message": "동시 내보내기"
+   },
+   "continue": {
+      "message": "계속하다"
+   },
+   "date": {
+      "message": "날짜"
+   },
+   "delete": {
+      "message": "삭제"
+   },
+   "description": {
+      "message": "분석을 위해 TikTok 댓글을 CSV 형식으로 Excel로 내보냅니다."
+   },
+   "diggCount": {
+      "message": "디그 카운트"
+   },
+   "discount25": {
+      "message": "전 품목 25% 할인! 제한된 시간 제공."
+   },
+   "download": {
+      "message": "다운로드"
+   },
+   "downloadError": {
+      "message": "다운로드 오류가 발생했습니다. 다시 시도하거나 도움이 필요하면 문의해 주세요."
+   },
+   "expired": {
+      "message": "만료됨"
+   },
+   "export": {
+      "message": "내보내다"
+   },
+   "exportDone": {
+      "message": "성공적으로 내보내기"
+   },
+   "exportError": {
+      "message": "에러가 발생했습니다 .. 다시 시도 해주세요"
+   },
+   "exporting": {
+      "message": "내보내는 중..."
+   },
+   "extracted": {
+      "message": "추출됨"
+   },
+   "faq": {
+      "message": "자주하는 질문"
+   },
+   "fetchSubsFailure": {
+      "message": "구독 데이터를 가져올 수 없습니다. 다시 시도하거나 문의하여 도움을 받으세요."
+   },
+   "findTTLink": {
+      "message": "TikTok 비디오 링크를 찾는 방법은 무엇입니까?"
+   },
+   "free": {
+      "message": "무료"
+   },
+   "freePlan": {
+      "message": "무료 플랜"
+   },
+   "goToPortal": {
+      "message": "고객포털 바로가기"
+   },
+   "history": {
+      "message": "역사"
+   },
+   "home": {
+      "message": "집"
+   },
+   "includeReply": {
+      "message": "댓글 답글 포함"
+   },
+   "includeReply1": {
+      "message": "답글 포함"
+   },
+   "lemonPriceNote": {
+      "message": "가격은 USD로 표시됩니다. 귀하의 지역에 따라 VAT가 적용될 수 있습니다."
+   },
+   "loading": {
+      "message": "로드 중..."
+   },
+   "manageSubsAndBilling": {
+      "message": "고객 포털에서 구독 및 청구를 관리할 수 있습니다."
+   },
+   "month": {
+      "message": "월"
+   },
+   "monthly": {
+      "message": "월간 간행물"
+   },
+   "monthlyDesc": {
+      "message": "시험해보기에 적합"
+   },
+   "name": {
+      "message": "TTCommentExporter - TikTok 댓글 내보내기"
+   },
+   "needUpgrade": {
+      "message": "무료 계정 한도를 초과했습니다. 계속하려면 업그레이드하세요."
+   },
+   "nickName": {
+      "message": "닉네임"
+   },
+   "no": {
+      "message": "아니요"
+   },
+   "noComments": {
+      "message": "댓글이 없습니다."
+   },
+   "noTaskFound": {
+      "message": "작업을 찾을 수 없습니다."
+   },
+   "numOfComments": {
+      "message": "내보낸 댓글 수"
+   },
+   "paddlePriceNote": {
+      "message": "가격은 USD로 표시됩니다. 위치에 따라 결제 시 현지 통화가 표시될 수 있습니다. VAT가 적용될 수 있습니다."
+   },
+   "pastDue": {
+      "message": "연체"
+   },
+   "pause": {
+      "message": "정지시키다"
+   },
+   "permAlert": {
+      "message": "계속하려면 권한을 허용해 주세요."
+   },
+   "pinnedToTop": {
+      "message": "상단에 고정됨"
+   },
+   "postID": {
+      "message": "게시물 ID"
+   },
+   "quarterly": {
+      "message": "계간지"
+   },
+   "quarterlyDesc": {
+      "message": "3개월마다 {{}} 청구"
+   },
+   "randomInterval": {
+      "message": "댓글 가져오기 요청 사이의 임의 간격(초)입니다."
+   },
+   "replyCount": {
+      "message": "응답 횟수"
+   },
+   "replyToWhichComment": {
+      "message": "어느 댓글에 답장을 보내나요?"
+   },
+   "selectFormat": {
+      "message": "내보내기 형식을 선택합니다."
+   },
+   "settings": {
+      "message": "설정"
+   },
+   "signInAccount": {
+      "message": "귀하의 계정에 로그인하세요"
+   },
+   "signInFailure": {
+      "message": "로그인에 실패했습니다. 다시 시도하거나 도움이 필요하면 문의해 주세요."
+   },
+   "signInGoogle": {
+      "message": "Google로 로그인"
+   },
+   "signOut": {
+      "message": "로그아웃"
+   },
+   "signedInAs": {
+      "message": "다음 계정으로 로그인됨"
+   },
+   "status": {
+      "message": "상태"
+   },
+   "subsActiveHead": {
+      "message": "구독이 활성화되었습니다"
+   },
+   "subsActiveMsg": {
+      "message": "구독이 활성화되었습니다. {{}}에 갱신될 예정입니다."
+   },
+   "subsCanceledHead": {
+      "message": "구독이 취소되었습니다"
+   },
+   "subsCanceledMsg": {
+      "message": "구독이 취소되었습니다. {{}}에 종료될 예정입니다."
+   },
+   "subsExpiredHead": {
+      "message": "구독이 만료되었습니다"
+   },
+   "subsExpiredMsg": {
+      "message": "구독이 만료되었습니다."
+   },
+   "subsFreePlanMsg": {
+      "message": "무료 요금제를 사용 중입니다. 언제든지 유료 플랜으로 업그레이드할 수 있습니다."
+   },
+   "subsPastDueHead": {
+      "message": "귀하의 송장이 기한이 지났습니다"
+   },
+   "subsPastDueMsg": {
+      "message": "귀하의 청구서 기한이 지났습니다. 결제 수단을 업데이트하세요."
+   },
+   "subsPausedHead": {
+      "message": "구독이 일시 중지되었습니다."
+   },
+   "subsPausedMsg": {
+      "message": "구독이 일시 중지되었습니다. 언제든지 다시 시작하거나 취소할 수 있습니다."
+   },
+   "subsUnpaidHead": {
+      "message": "귀하의 송장이 지불되지 않았습니다"
+   },
+   "subsUnpaidMsg": {
+      "message": "귀하의 청구서가 미결제되었습니다. 결제 수단을 업데이트하세요."
+   },
+   "subscription": {
+      "message": "신청"
+   },
+   "taskLimitNote": {
+      "message": "현재는 최근 20개의 작업만 저장됩니다. 데이터가 자동으로 삭제되기 전에 다운로드하십시오."
+   },
+   "ttLinkAlert": {
+      "message": "TikTok 비디오 링크만 지원됩니다"
+   },
+   "ttLinkPlaceholder": {
+      "message": "TikTok 비디오 링크를 입력하세요"
+   },
+   "type": {
+      "message": "유형"
+   },
+   "undoCancel": {
+      "message": "취소 취소"
+   },
+   "unexpectedError": {
+      "message": "예상치 못한 오류가 발생했습니다. 다시 시도하거나 도움이 필요하면 언제든지 문의해 주세요."
+   },
+   "unlimited": {
+      "message": "제한 없는"
+   },
+   "unpaid": {
+      "message": "미지급"
+   },
+   "updatePayment": {
+      "message": "결제 업데이트"
+   },
+   "userHomepage": {
+      "message": "사용자 홈페이지"
+   },
+   "userID": {
+      "message": "사용자 ID"
+   },
+   "username": {
+      "message": "사용자 이름"
+   },
+   "videoID": {
+      "message": "비디오 ID"
+   },
+   "videoNotExist": {
+      "message": "영상이 존재하지 않습니다."
+   },
+   "viewDetailedPricing": {
+      "message": "자세한 기능과 가격을보십시오"
+   },
+   "yearly": {
+      "message": "매년"
+   },
+   "yearlyDesc": {
+      "message": "{{1}}은(는) 매년 청구되며 {{2}} 절약됩니다."
+   },
+   "yes": {
+      "message": "예"
+   }
+}

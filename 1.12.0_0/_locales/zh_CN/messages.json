@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "积极的"
+   },
+   "authorDigged": {
+      "message": "作者挖了"
+   },
+   "buyNow": {
+      "message": "立即购买"
+   },
+   "cancelSubs": {
+      "message": "取消订阅"
+   },
+   "canceled": {
+      "message": "取消"
+   },
+   "chunkDownloadNote": {
+      "message": "对于大型数据集，我们建议使用 CSV 格式。数据将被拆分成多个块，以避免下载问题。"
+   },
+   "chunkSizeRows": {
+      "message": "块大小（行）"
+   },
+   "comment": {
+      "message": "评论"
+   },
+   "commentID": {
+      "message": "评论ID"
+   },
+   "commentTime": {
+      "message": "评论时间"
+   },
+   "commentsButtonNotFound": {
+      "message": "找不到评论按钮。请手动点击继续。"
+   },
+   "completed": {
+      "message": "完全的"
+   },
+   "concurrentExport": {
+      "message": "并发导出"
+   },
+   "continue": {
+      "message": "继续"
+   },
+   "date": {
+      "message": "日期"
+   },
+   "delete": {
+      "message": "删除"
+   },
+   "description": {
+      "message": "将 TikTok 评论导出到 CSV 格式的 Excel 中进行分析。"
+   },
+   "diggCount": {
+      "message": "挖掘计数"
+   },
+   "discount25": {
+      "message": "所有商品 25% 折扣！限时优惠。"
+   },
+   "download": {
+      "message": "下载"
+   },
+   "downloadError": {
+      "message": "下载错误，请重试或联系我们寻求帮助。"
+   },
+   "expired": {
+      "message": "已到期"
+   },
+   "export": {
+      "message": "出口"
+   },
+   "exportDone": {
+      "message": "导出成功"
+   },
+   "exportError": {
+      "message": "发生错误，请重试"
+   },
+   "exporting": {
+      "message": "出口..."
+   },
+   "extracted": {
+      "message": "提取的"
+   },
+   "faq": {
+      "message": "常问问题"
+   },
+   "fetchSubsFailure": {
+      "message": "无法获取订阅数据，请重试或联系我们寻求帮助。"
+   },
+   "findTTLink": {
+      "message": "如何找到TikTok视频链接？"
+   },
+   "free": {
+      "message": "自由的"
+   },
+   "freePlan": {
+      "message": "免费计划"
+   },
+   "goToPortal": {
+      "message": "前往客户门户"
+   },
+   "history": {
+      "message": "历史"
+   },
+   "home": {
+      "message": "家"
+   },
+   "includeReply": {
+      "message": "包括评论回复"
+   },
+   "includeReply1": {
+      "message": "包括回复"
+   },
+   "lemonPriceNote": {
+      "message": "价格以美元列出。增值税可能适用，具体取决于您所在的位置。"
+   },
+   "loading": {
+      "message": "加载中..."
+   },
+   "manageSubsAndBilling": {
+      "message": "您可以在客户门户中管理您的订阅和计费。"
+   },
+   "month": {
+      "message": "月"
+   },
+   "monthly": {
+      "message": "每月"
+   },
+   "monthlyDesc": {
+      "message": "适合尝试一下"
+   },
+   "name": {
+      "message": "TTCommentExporter - 导出 TikTok 评论"
+   },
+   "needUpgrade": {
+      "message": "超出免费帐户限制，升级以继续"
+   },
+   "nickName": {
+      "message": "昵称"
+   },
+   "no": {
+      "message": "不"
+   },
+   "noComments": {
+      "message": "没有找到评论"
+   },
+   "noTaskFound": {
+      "message": "没有找到任务"
+   },
+   "numOfComments": {
+      "message": "导出评论数"
+   },
+   "paddlePriceNote": {
+      "message": "价格以美元列出。您可能会在结账时看到您的当地货币，具体取决于您所在的位置。可能需要缴纳增值税。"
+   },
+   "pastDue": {
+      "message": "逾期"
+   },
+   "pause": {
+      "message": "暂停"
+   },
+   "permAlert": {
+      "message": "请授予权限才能继续"
+   },
+   "pinnedToTop": {
+      "message": "固定到顶部"
+   },
+   "postID": {
+      "message": "帖子ID"
+   },
+   "quarterly": {
+      "message": "季刊"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} 每 3 个月计费一次"
+   },
+   "randomInterval": {
+      "message": "获取评论请求之间的随机间隔（以秒为单位）。"
+   },
+   "replyCount": {
+      "message": "回复数"
+   },
+   "replyToWhichComment": {
+      "message": "回复哪个评论"
+   },
+   "selectFormat": {
+      "message": "选择导出格式。"
+   },
+   "settings": {
+      "message": "设置"
+   },
+   "signInAccount": {
+      "message": "登录到您的帐户"
+   },
+   "signInFailure": {
+      "message": "登录失败。请重试或联系我们寻求帮助。"
+   },
+   "signInGoogle": {
+      "message": "使用 Google 登录"
+   },
+   "signOut": {
+      "message": "登出"
+   },
+   "signedInAs": {
+      "message": "登录身份"
+   },
+   "status": {
+      "message": "地位"
+   },
+   "subsActiveHead": {
+      "message": "您的订阅已激活"
+   },
+   "subsActiveMsg": {
+      "message": "您的订阅已激活。计划于 {{}} 续订。"
+   },
+   "subsCanceledHead": {
+      "message": "您的订阅已取消"
+   },
+   "subsCanceledMsg": {
+      "message": "您的订阅已取消。预计于 {{}} 结束。"
+   },
+   "subsExpiredHead": {
+      "message": "您的订阅已过期"
+   },
+   "subsExpiredMsg": {
+      "message": "您的订阅已过期。"
+   },
+   "subsFreePlanMsg": {
+      "message": "您采用的是免费计划。您可以随时升级到付费计划。"
+   },
+   "subsPastDueHead": {
+      "message": "您的发票已逾期"
+   },
+   "subsPastDueMsg": {
+      "message": "您的发票已逾期。请更新您的付款方式。"
+   },
+   "subsPausedHead": {
+      "message": "您的订阅已暂停。"
+   },
+   "subsPausedMsg": {
+      "message": "您的订阅已暂停。您可以随时恢复或取消订阅。"
+   },
+   "subsUnpaidHead": {
+      "message": "您的发票未支付"
+   },
+   "subsUnpaidMsg": {
+      "message": "您的发票尚未支付。请更新您的付款方式。"
+   },
+   "subscription": {
+      "message": "订阅"
+   },
+   "taskLimitNote": {
+      "message": "目前，仅存储最新的 20 个任务。请在数据被自动删除之前下载您的数据。"
+   },
+   "ttLinkAlert": {
+      "message": "仅支持 TikTok 视频链接"
+   },
+   "ttLinkPlaceholder": {
+      "message": "输入 TikTok 视频链接"
+   },
+   "type": {
+      "message": "类型"
+   },
+   "undoCancel": {
+      "message": "撤消取消"
+   },
+   "unexpectedError": {
+      "message": "发生意外的错误。请重试或随时联系我们寻求帮助。"
+   },
+   "unlimited": {
+      "message": "无限"
+   },
+   "unpaid": {
+      "message": "未付"
+   },
+   "updatePayment": {
+      "message": "更新付款方式"
+   },
+   "userHomepage": {
+      "message": "用户主页"
+   },
+   "userID": {
+      "message": "用户身份"
+   },
+   "username": {
+      "message": "用户名"
+   },
+   "videoID": {
+      "message": "视频ID"
+   },
+   "videoNotExist": {
+      "message": "该视频不存在。"
+   },
+   "viewDetailedPricing": {
+      "message": "查看详细的功能和定价"
+   },
+   "yearly": {
+      "message": "每年"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} 按年计费，节省 {{2}}"
+   },
+   "yes": {
+      "message": "是的"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktīvs"
+   },
+   "authorDigged": {
+      "message": "Autors Digged"
+   },
+   "buyNow": {
+      "message": "Pērc tagad"
+   },
+   "cancelSubs": {
+      "message": "Anulēt abonementu"
+   },
+   "canceled": {
+      "message": "Atcelts"
+   },
+   "chunkDownloadNote": {
+      "message": "Lieliem datu kopumiem iesakām izmantot CSV formātu. Dati tiks sadalīti vairākās daļās, lai izvairītos no lejupielādes problēmām."
+   },
+   "chunkSizeRows": {
+      "message": "Daļas lielums (rindās)"
+   },
+   "comment": {
+      "message": "komentēt"
+   },
+   "commentID": {
+      "message": "Komentāra ID"
+   },
+   "commentTime": {
+      "message": "Komentāru laiks"
+   },
+   "commentsButtonNotFound": {
+      "message": "Nevarēja atrast komentāru pogu. Lūdzu, noklikšķiniet uz tās manuāli, lai turpinātu."
+   },
+   "completed": {
+      "message": "Pabeigts"
+   },
+   "concurrentExport": {
+      "message": "Vienlaicīga eksportēšana"
+   },
+   "continue": {
+      "message": "Turpināt"
+   },
+   "date": {
+      "message": "Datums"
+   },
+   "delete": {
+      "message": "Dzēst"
+   },
+   "description": {
+      "message": "Eksportējiet TikTok komentārus uz Excel CSV formātā analīzei."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% atlaide visām precēm! Ierobežota laika piedāvājums."
+   },
+   "download": {
+      "message": "Lejupielādēt"
+   },
+   "downloadError": {
+      "message": "Lejupielādes kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar mums, lai saņemtu palīdzību."
+   },
+   "expired": {
+      "message": "Beidzies derīguma termiņš"
+   },
+   "export": {
+      "message": "Eksportēt"
+   },
+   "exportDone": {
+      "message": "Eksportēt veiksmīgi"
+   },
+   "exportError": {
+      "message": "Radās kļūda. Lūdzu, mēģiniet vēlreiz"
+   },
+   "exporting": {
+      "message": "Notiek eksportēšana..."
+   },
+   "extracted": {
+      "message": "Ekstrahēts"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Nevar iegūt abonementa datus. Lūdzu, mēģiniet vēlreiz vai sazinieties ar mums, lai saņemtu palīdzību."
+   },
+   "findTTLink": {
+      "message": "Kā atrast TikTok video saiti?"
+   },
+   "free": {
+      "message": "Bezmaksas"
+   },
+   "freePlan": {
+      "message": "Bezmaksas plāns"
+   },
+   "goToPortal": {
+      "message": "Dodieties uz klientu portālu"
+   },
+   "history": {
+      "message": "Vēsture"
+   },
+   "home": {
+      "message": "Mājas"
+   },
+   "includeReply": {
+      "message": "Iekļaut atbildes uz komentāriem"
+   },
+   "includeReply1": {
+      "message": "Iekļaut atbildes"
+   },
+   "lemonPriceNote": {
+      "message": "Cenas norādītas USD. Atkarībā no jūsu atrašanās vietas var tikt piemērots PVN."
+   },
+   "loading": {
+      "message": "Notiek ielāde..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Jūs varat pārvaldīt savu abonementu un norēķinus Klientu portālā."
+   },
+   "month": {
+      "message": "mēnesis"
+   },
+   "monthly": {
+      "message": "Ikmēneša"
+   },
+   "monthlyDesc": {
+      "message": "Piemērots izmēģināšanai"
+   },
+   "name": {
+      "message": "TTCommentExporter — eksportējiet TikTok komentārus"
+   },
+   "needUpgrade": {
+      "message": "Pārsniegts bezmaksas konta ierobežojums. Jauniniet, lai turpinātu"
+   },
+   "nickName": {
+      "message": "Niks Vārds"
+   },
+   "no": {
+      "message": "Nē"
+   },
+   "noComments": {
+      "message": "Komentāri nav atrasti"
+   },
+   "noTaskFound": {
+      "message": "Nav atrasts neviens uzdevums"
+   },
+   "numOfComments": {
+      "message": "Eksportēto komentāru skaits"
+   },
+   "paddlePriceNote": {
+      "message": "Cenas norādītas USD. Atkarībā no jūsu atrašanās vietas norēķināšanās laikā varat redzēt savu vietējo valūtu. Var tikt piemērots PVN."
+   },
+   "pastDue": {
+      "message": "Nokavēts termiņš"
+   },
+   "pause": {
+      "message": "Pauze"
+   },
+   "permAlert": {
+      "message": "Lūdzu, atļaujiet atļaujām turpināt"
+   },
+   "pinnedToTop": {
+      "message": "Piesprausts augšpusē"
+   },
+   "postID": {
+      "message": "Ziņas ID"
+   },
+   "quarterly": {
+      "message": "Reizi ceturksnī"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} tiek iekasēta ik pēc 3 mēnešiem"
+   },
+   "randomInterval": {
+      "message": "Nejaušs intervāls sekundēs starp komentāru iegūšanas pieprasījumiem."
+   },
+   "replyCount": {
+      "message": "Atbilžu skaits"
+   },
+   "replyToWhichComment": {
+      "message": "Atbildēt uz kuru komentāru"
+   },
+   "selectFormat": {
+      "message": "Izvēlieties eksporta formātu."
+   },
+   "settings": {
+      "message": "Iestatījumi"
+   },
+   "signInAccount": {
+      "message": "Pierakstieties savā kontā"
+   },
+   "signInFailure": {
+      "message": "Pierakstīšanās neizdevās. Lūdzu, mēģiniet vēlreiz vai sazinieties ar mums, lai saņemtu palīdzību."
+   },
+   "signInGoogle": {
+      "message": "Pierakstieties ar Google"
+   },
+   "signOut": {
+      "message": "Izrakstīties"
+   },
+   "signedInAs": {
+      "message": "Pierakstījies kā"
+   },
+   "status": {
+      "message": "Statuss"
+   },
+   "subsActiveHead": {
+      "message": "Jūsu abonements ir aktīvs"
+   },
+   "subsActiveMsg": {
+      "message": "Jūsu abonements ir aktīvs. To ir paredzēts atjaunot {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Jūsu abonements ir atcelts"
+   },
+   "subsCanceledMsg": {
+      "message": "Jūsu abonements ir atcelts. Plānots, ka tas beigsies {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Jūsu abonementam ir beidzies derīguma termiņš"
+   },
+   "subsExpiredMsg": {
+      "message": "Jūsu abonementam ir beidzies derīguma termiņš."
+   },
+   "subsFreePlanMsg": {
+      "message": "Jūs izmantojat bezmaksas plānu. Jebkurā laikā varat jaunināt uz maksas plānu."
+   },
+   "subsPastDueHead": {
+      "message": "Jūsu rēķins ir nokavēts"
+   },
+   "subsPastDueMsg": {
+      "message": "Jūsu rēķins ir nokavēts. Lūdzu, atjauniniet maksājuma veidu."
+   },
+   "subsPausedHead": {
+      "message": "Jūsu abonements ir apturēts"
+   },
+   "subsPausedMsg": {
+      "message": "Jūsu abonements ir apturēts. Varat to atsākt vai atcelt jebkurā laikā."
+   },
+   "subsUnpaidHead": {
+      "message": "Jūsu rēķins nav apmaksāts"
+   },
+   "subsUnpaidMsg": {
+      "message": "Jūsu rēķins nav apmaksāts. Lūdzu, atjauniniet maksājuma veidu."
+   },
+   "subscription": {
+      "message": "Abonēšana"
+   },
+   "taskLimitNote": {
+      "message": "Pašlaik tiks saglabāti tikai jaunākie 20 uzdevumi. Lūdzu, lejupielādējiet savus datus, pirms tie tiek automātiski dzēsti."
+   },
+   "ttLinkAlert": {
+      "message": "Tiek atbalstītas tikai TikTok video saites"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Ievadiet TikTok video saiti"
+   },
+   "type": {
+      "message": "Tips"
+   },
+   "undoCancel": {
+      "message": "Atsaukt atcelšanu"
+   },
+   "unexpectedError": {
+      "message": "Radās neparedzēta kļūda. Lūdzu, mēģiniet vēlreiz vai sazinieties ar mums, lai saņemtu palīdzību."
+   },
+   "unlimited": {
+      "message": "Neierobežots"
+   },
+   "unpaid": {
+      "message": "Neapmaksāts"
+   },
+   "updatePayment": {
+      "message": "Atjaunināt maksājumu"
+   },
+   "userHomepage": {
+      "message": "Lietotāja mājas lapa"
+   },
+   "userID": {
+      "message": "Lietotāja ID"
+   },
+   "username": {
+      "message": "Lietotājvārds"
+   },
+   "videoID": {
+      "message": "Video ID"
+   },
+   "videoNotExist": {
+      "message": "Video neeksistē."
+   },
+   "viewDetailedPricing": {
+      "message": "Skatīt detalizētas funkcijas un cenas"
+   },
+   "yearly": {
+      "message": "Ik gadu"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} maksā katru gadu, ietaupiet {{2}}"
+   },
+   "yes": {
+      "message": "Jā"
+   }
+}

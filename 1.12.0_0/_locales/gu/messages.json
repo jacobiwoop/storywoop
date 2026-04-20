@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "સક્રિય"
+   },
+   "authorDigged": {
+      "message": "લેખક ખોદ્યો"
+   },
+   "buyNow": {
+      "message": "હમણાં જ ખરીદો"
+   },
+   "cancelSubs": {
+      "message": "ઉમેદવારી રદ કરો"
+   },
+   "canceled": {
+      "message": "રદ કરેલ"
+   },
+   "chunkDownloadNote": {
+      "message": "મોટા ડેટાસેટ્સ માટે, અમે CSV ફોર્મેટનો ઉપયોગ કરવાની ભલામણ કરીએ છીએ. ડાઉનલોડ સમસ્યાઓ ટાળવા માટે ડેટાને બહુવિધ ભાગોમાં વિભાજિત કરવામાં આવશે."
+   },
+   "chunkSizeRows": {
+      "message": "ભાગનું કદ (પંક્તિઓ)"
+   },
+   "comment": {
+      "message": "ટિપ્પણી"
+   },
+   "commentID": {
+      "message": "ટિપ્પણી ID"
+   },
+   "commentTime": {
+      "message": "ટિપ્પણી સમય"
+   },
+   "commentsButtonNotFound": {
+      "message": "ટિપ્પણીઓ બટન શોધી શકાયું નથી. ચાલુ રાખવા માટે કૃપા કરીને તેને મેન્યુઅલી ક્લિક કરો."
+   },
+   "completed": {
+      "message": "પૂર્ણ થયું"
+   },
+   "concurrentExport": {
+      "message": "સમવર્તી નિકાસ"
+   },
+   "continue": {
+      "message": "ચાલુ રાખો"
+   },
+   "date": {
+      "message": "તારીખ"
+   },
+   "delete": {
+      "message": "કાઢી નાખો"
+   },
+   "description": {
+      "message": "વિશ્લેષણ માટે TikTok ટિપ્પણીઓને CSV માં Excel પર નિકાસ કરો."
+   },
+   "diggCount": {
+      "message": "ડિગ કાઉન્ટ"
+   },
+   "discount25": {
+      "message": "બધી વસ્તુઓ પર 25% છૂટ! મર્યાદિત સમય ઓફર."
+   },
+   "download": {
+      "message": "ડાઉનલોડ કરો"
+   },
+   "downloadError": {
+      "message": "ડાઉનલોડ ભૂલ, કૃપા કરીને ફરી પ્રયાસ કરો અથવા મદદ માટે અમારો સંપર્ક કરો."
+   },
+   "expired": {
+      "message": "સમાપ્ત"
+   },
+   "export": {
+      "message": "નિકાસ કરો"
+   },
+   "exportDone": {
+      "message": "સફળતાપૂર્વક નિકાસ કરો"
+   },
+   "exportError": {
+      "message": "એક ભૂલ આવી, કૃપા કરીને ફરી પ્રયાસ કરો"
+   },
+   "exporting": {
+      "message": "નિકાસ કરી રહ્યું છે..."
+   },
+   "extracted": {
+      "message": "કાઢવામાં આવેલ"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "સબ્સ્ક્રિપ્શન ડેટા મેળવવામાં અસમર્થ, કૃપા કરીને ફરી પ્રયાસ કરો અથવા મદદ માટે અમારો સંપર્ક કરો."
+   },
+   "findTTLink": {
+      "message": "TikTok વિડિઓ લિંક કેવી રીતે શોધવી?"
+   },
+   "free": {
+      "message": "મફત"
+   },
+   "freePlan": {
+      "message": "મફત યોજના"
+   },
+   "goToPortal": {
+      "message": "ગ્રાહક પોર્ટલ પર જાઓ"
+   },
+   "history": {
+      "message": "ઇતિહાસ"
+   },
+   "home": {
+      "message": "ઘર"
+   },
+   "includeReply": {
+      "message": "ટિપ્પણી જવાબો શામેલ કરો"
+   },
+   "includeReply1": {
+      "message": "જવાબો શામેલ કરો"
+   },
+   "lemonPriceNote": {
+      "message": "કિંમતો USD માં સૂચિબદ્ધ છે. તમારા સ્થાનના આધારે VAT લાગુ થઈ શકે છે."
+   },
+   "loading": {
+      "message": "લોડ કરી રહ્યું છે..."
+   },
+   "manageSubsAndBilling": {
+      "message": "તમે ગ્રાહક પોર્ટલમાં તમારું સબ્સ્ક્રિપ્શન અને બિલિંગ મેનેજ કરી શકો છો."
+   },
+   "month": {
+      "message": "માસ"
+   },
+   "monthly": {
+      "message": "માસિક"
+   },
+   "monthlyDesc": {
+      "message": "અજમાવવા માટે યોગ્ય"
+   },
+   "name": {
+      "message": "TTC CommentExporter - TikTok ટિપ્પણીઓ નિકાસ કરો"
+   },
+   "needUpgrade": {
+      "message": "મફત એકાઉન્ટ મર્યાદા ઓળંગાઈ, ચાલુ રાખવા માટે અપગ્રેડ કરો"
+   },
+   "nickName": {
+      "message": "ઉપનામ"
+   },
+   "no": {
+      "message": "ના"
+   },
+   "noComments": {
+      "message": "કોઈ ટિપ્પણીઓ મળી નથી"
+   },
+   "noTaskFound": {
+      "message": "કોઈ કાર્ય મળ્યું નથી"
+   },
+   "numOfComments": {
+      "message": "નિકાસ કરેલી ટિપ્પણીઓની સંખ્યા"
+   },
+   "paddlePriceNote": {
+      "message": "કિંમતો USD માં સૂચિબદ્ધ છે. તમારા સ્થાનના આધારે તમે ચેકઆઉટ વખતે તમારી સ્થાનિક ચલણ જોઈ શકો છો. VAT લાગુ થઈ શકે છે."
+   },
+   "pastDue": {
+      "message": "કારણે ભૂતકાળમાં"
+   },
+   "pause": {
+      "message": "વિરામ"
+   },
+   "permAlert": {
+      "message": "કૃપા કરીને પરવાનગીઓને આગળ વધવાની મંજૂરી આપો"
+   },
+   "pinnedToTop": {
+      "message": "ટોચ પર પિન કરેલ"
+   },
+   "postID": {
+      "message": "પોસ્ટ આઈડી"
+   },
+   "quarterly": {
+      "message": "ત્રિમાસિક"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} દર 3 મહિને બિલ કરવામાં આવે છે"
+   },
+   "randomInterval": {
+      "message": "ટિપ્પણીઓ લાવવા માટેની વિનંતીઓ વચ્ચે સેકન્ડોમાં રેન્ડમ અંતરાલ."
+   },
+   "replyCount": {
+      "message": "જવાબ ગણતરી"
+   },
+   "replyToWhichComment": {
+      "message": "કઈ કોમેન્ટનો જવાબ આપો"
+   },
+   "selectFormat": {
+      "message": "નિકાસ ફોર્મેટ પસંદ કરો."
+   },
+   "settings": {
+      "message": "સેટિંગ્સ"
+   },
+   "signInAccount": {
+      "message": "તમારા એકાઉન્ટમાં સાઇન ઇન કરો"
+   },
+   "signInFailure": {
+      "message": "સાઇન-ઇન નિષ્ફળ થયું. કૃપા કરીને ફરી પ્રયાસ કરો અથવા મદદ માટે અમારો સંપર્ક કરો."
+   },
+   "signInGoogle": {
+      "message": "Google સાથે સાઇન ઇન કરો"
+   },
+   "signOut": {
+      "message": "સાઇન આઉટ કરો"
+   },
+   "signedInAs": {
+      "message": "તરીકે સાઇન ઇન કર્યું"
+   },
+   "status": {
+      "message": "સ્થિતિ"
+   },
+   "subsActiveHead": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન સક્રિય છે"
+   },
+   "subsActiveMsg": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન સક્રિય છે. તે {{}} ના રોજ રીન્યુ કરવા માટે સુનિશ્ચિત થયેલ છે."
+   },
+   "subsCanceledHead": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન રદ કરવામાં આવ્યું છે"
+   },
+   "subsCanceledMsg": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન રદ કરવામાં આવ્યું છે. તે {{}} ના રોજ સમાપ્ત થવાનું સુનિશ્ચિત થયેલ છે."
+   },
+   "subsExpiredHead": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન સમાપ્ત થઈ ગયું છે"
+   },
+   "subsExpiredMsg": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન સમાપ્ત થઈ ગયું છે."
+   },
+   "subsFreePlanMsg": {
+      "message": "તમે મફત યોજના પર છો. તમે કોઈપણ સમયે પેઇડ પ્લાનમાં અપગ્રેડ કરી શકો છો."
+   },
+   "subsPastDueHead": {
+      "message": "તમારું ઇન્વૉઇસ બાકી છે"
+   },
+   "subsPastDueMsg": {
+      "message": "તમારું ઇન્વૉઇસ બાકી છે. કૃપા કરીને તમારી ચુકવણી પદ્ધતિ અપડેટ કરો."
+   },
+   "subsPausedHead": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન થોભાવવામાં આવ્યું છે"
+   },
+   "subsPausedMsg": {
+      "message": "તમારું સબ્સ્ક્રિપ્શન થોભાવવામાં આવ્યું છે. તમે તેને ગમે ત્યારે ફરી શરૂ અથવા રદ કરી શકો છો."
+   },
+   "subsUnpaidHead": {
+      "message": "તમારું ઇન્વૉઇસ અવેતન છે"
+   },
+   "subsUnpaidMsg": {
+      "message": "તમારું ઇન્વૉઇસ અવેતન છે. કૃપા કરીને તમારી ચુકવણી પદ્ધતિ અપડેટ કરો."
+   },
+   "subscription": {
+      "message": "સબ્સ્ક્રિપ્શન"
+   },
+   "taskLimitNote": {
+      "message": "હાલમાં, ફક્ત નવીનતમ 20 કાર્યો સંગ્રહિત કરવામાં આવશે. કૃપા કરીને તમારો ડેટા આપમેળે કાઢી નાખવામાં આવે તે પહેલાં તેને ડાઉનલોડ કરો."
+   },
+   "ttLinkAlert": {
+      "message": "ફક્ત TikTok વિડિયો લિંક્સ સપોર્ટેડ છે"
+   },
+   "ttLinkPlaceholder": {
+      "message": "TikTok વિડિયો લિંક દાખલ કરો"
+   },
+   "type": {
+      "message": "પ્રકાર"
+   },
+   "undoCancel": {
+      "message": "રદ કરવાનું પૂર્વવત્ કરો"
+   },
+   "unexpectedError": {
+      "message": "એક અનપેક્ષિત ભૂલ આવી છે. કૃપા કરીને ફરી પ્રયાસ કરો અથવા સહાય માટે અમારો સંપર્ક કરો."
+   },
+   "unlimited": {
+      "message": "અમર્યાદિત"
+   },
+   "unpaid": {
+      "message": "અવેતન"
+   },
+   "updatePayment": {
+      "message": "ચુકવણી અપડેટ કરો"
+   },
+   "userHomepage": {
+      "message": "વપરાશકર્તા હોમપેજ"
+   },
+   "userID": {
+      "message": "વપરાશકર્તા ID"
+   },
+   "username": {
+      "message": "વપરાશકર્તા નામ"
+   },
+   "videoID": {
+      "message": "વિડિઓ ID"
+   },
+   "videoNotExist": {
+      "message": "વિડિઓ અસ્તિત્વમાં નથી."
+   },
+   "viewDetailedPricing": {
+      "message": "વિગતવાર સુવિધાઓ અને ભાવો જુઓ"
+   },
+   "yearly": {
+      "message": "વાર્ષિક"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} વાર્ષિક બિલ, બચત {{2}}"
+   },
+   "yes": {
+      "message": "હા"
+   }
+}

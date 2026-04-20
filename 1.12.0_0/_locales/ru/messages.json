@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Активный"
+   },
+   "authorDigged": {
+      "message": "Автор"
+   },
+   "buyNow": {
+      "message": "Купить сейчас"
+   },
+   "cancelSubs": {
+      "message": "Отменить подписку"
+   },
+   "canceled": {
+      "message": "Отменено"
+   },
+   "chunkDownloadNote": {
+      "message": "Для больших наборов данных мы рекомендуем использовать формат CSV. Данные будут разделены на несколько фрагментов, чтобы избежать проблем при загрузке."
+   },
+   "chunkSizeRows": {
+      "message": "Размер фрагмента (строки)"
+   },
+   "comment": {
+      "message": "Комментарий"
+   },
+   "commentID": {
+      "message": "Идентификатор комментария"
+   },
+   "commentTime": {
+      "message": "Время комментариев"
+   },
+   "commentsButtonNotFound": {
+      "message": "Кнопка комментариев не найдена. Пожалуйста, нажмите на нее вручную, чтобы продолжить."
+   },
+   "completed": {
+      "message": "Завершенный"
+   },
+   "concurrentExport": {
+      "message": "Параллельный экспорт"
+   },
+   "continue": {
+      "message": "Продолжать"
+   },
+   "date": {
+      "message": "Дата"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "description": {
+      "message": "Экспортируйте комментарии TikTok в Excel в формате CSV для анализа."
+   },
+   "diggCount": {
+      "message": "Количество Digg"
+   },
+   "discount25": {
+      "message": "Скидка 25% на все товары! Ограниченное по времени предложение."
+   },
+   "download": {
+      "message": "Скачать"
+   },
+   "downloadError": {
+      "message": "Ошибка загрузки. Повторите попытку или свяжитесь с нами для помощи."
+   },
+   "expired": {
+      "message": "Истекший"
+   },
+   "export": {
+      "message": "Экспорт"
+   },
+   "exportDone": {
+      "message": "Экспорт успешно выполнен"
+   },
+   "exportError": {
+      "message": "Произошла ошибка. Пожалуйста, попробуйте еще раз"
+   },
+   "exporting": {
+      "message": "Экспорт..."
+   },
+   "extracted": {
+      "message": "Извлечено"
+   },
+   "faq": {
+      "message": "Часто задаваемые вопросы"
+   },
+   "fetchSubsFailure": {
+      "message": "Не удалось получить данные о подписке. Повторите попытку или обратитесь к нам за помощью."
+   },
+   "findTTLink": {
+      "message": "Как найти ссылку на видео TikTok?"
+   },
+   "free": {
+      "message": "Бесплатно"
+   },
+   "freePlan": {
+      "message": "Бесплатный план"
+   },
+   "goToPortal": {
+      "message": "Перейти на клиентский портал"
+   },
+   "history": {
+      "message": "История"
+   },
+   "home": {
+      "message": "Дом"
+   },
+   "includeReply": {
+      "message": "Включить ответы на комментарии"
+   },
+   "includeReply1": {
+      "message": "Включить ответы"
+   },
+   "lemonPriceNote": {
+      "message": "Цены указаны в долларах США. НДС может взиматься в зависимости от вашего местоположения."
+   },
+   "loading": {
+      "message": "Загрузка..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Вы можете управлять своей подпиской и выставлением счетов на Клиентском портале."
+   },
+   "month": {
+      "message": "месяц"
+   },
+   "monthly": {
+      "message": "Ежемесячно"
+   },
+   "monthlyDesc": {
+      "message": "Подходит для опробования"
+   },
+   "name": {
+      "message": "TTCommentExporter - Экспорт комментариев TikTok"
+   },
+   "needUpgrade": {
+      "message": "Превышен лимит бесплатного аккаунта. Обновите его, чтобы продолжить."
+   },
+   "nickName": {
+      "message": "Ник Имя"
+   },
+   "no": {
+      "message": "Нет"
+   },
+   "noComments": {
+      "message": "Комментарии не найдены"
+   },
+   "noTaskFound": {
+      "message": "Задача не найдена"
+   },
+   "numOfComments": {
+      "message": "Количество экспортированных комментариев"
+   },
+   "paddlePriceNote": {
+      "message": "Цены указаны в долларах США. В зависимости от вашего местоположения вы можете увидеть местную валюту при оформлении заказа. НДС может взиматься."
+   },
+   "pastDue": {
+      "message": "Просроченный"
+   },
+   "pause": {
+      "message": "Пауза"
+   },
+   "permAlert": {
+      "message": "Пожалуйста, дайте разрешения продолжить"
+   },
+   "pinnedToTop": {
+      "message": "Закреплено вверху"
+   },
+   "postID": {
+      "message": "Идентификатор сообщения"
+   },
+   "quarterly": {
+      "message": "Ежеквартальный"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} выставляется каждые 3 месяца."
+   },
+   "randomInterval": {
+      "message": "Случайный интервал в секундах между запросами на получение комментариев."
+   },
+   "replyCount": {
+      "message": "Количество ответов"
+   },
+   "replyToWhichComment": {
+      "message": "Ответить на какой комментарий"
+   },
+   "selectFormat": {
+      "message": "Выберите формат экспорта."
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "signInAccount": {
+      "message": "Войдите в свой аккаунт"
+   },
+   "signInFailure": {
+      "message": "Ошибка входа. Пожалуйста, повторите попытку или свяжитесь с нами для помощи."
+   },
+   "signInGoogle": {
+      "message": "Войти через Google"
+   },
+   "signOut": {
+      "message": "выход"
+   },
+   "signedInAs": {
+      "message": "Вошёл как"
+   },
+   "status": {
+      "message": "Положение дел"
+   },
+   "subsActiveHead": {
+      "message": "Ваша подписка активна"
+   },
+   "subsActiveMsg": {
+      "message": "Ваша подписка активна. Его планируется продлить {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Ваша подписка отменена"
+   },
+   "subsCanceledMsg": {
+      "message": "Ваша подписка отменена. Планируется, что оно завершится {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Срок действия вашей подписки истек"
+   },
+   "subsExpiredMsg": {
+      "message": "Срок действия вашей подписки истек."
+   },
+   "subsFreePlanMsg": {
+      "message": "У вас бесплатный план. Вы можете перейти на платный план в любое время."
+   },
+   "subsPastDueHead": {
+      "message": "Ваш счет просрочен"
+   },
+   "subsPastDueMsg": {
+      "message": "Ваш счет просрочен. Пожалуйста, обновите способ оплаты."
+   },
+   "subsPausedHead": {
+      "message": "Ваша подписка приостановлена"
+   },
+   "subsPausedMsg": {
+      "message": "Ваша подписка приостановлена. Вы можете возобновить или отменить её в любое время."
+   },
+   "subsUnpaidHead": {
+      "message": "Ваш счет не оплачен"
+   },
+   "subsUnpaidMsg": {
+      "message": "Ваш счет неоплачен. Пожалуйста, обновите способ оплаты."
+   },
+   "subscription": {
+      "message": "Подписка"
+   },
+   "taskLimitNote": {
+      "message": "В настоящее время будут сохранены только последние 20 задач. Пожалуйста, загрузите свои данные, прежде чем они будут автоматически удалены."
+   },
+   "ttLinkAlert": {
+      "message": "Поддерживаются только ссылки на видео TikTok."
+   },
+   "ttLinkPlaceholder": {
+      "message": "Введите ссылку на видео TikTok"
+   },
+   "type": {
+      "message": "Тип"
+   },
+   "undoCancel": {
+      "message": "Отменить отмену"
+   },
+   "unexpectedError": {
+      "message": "Произошла неожиданная ошибка. Пожалуйста, попробуйте еще раз или свяжитесь с нами для помощи."
+   },
+   "unlimited": {
+      "message": "Безлимитный"
+   },
+   "unpaid": {
+      "message": "Неоплачиваемый"
+   },
+   "updatePayment": {
+      "message": "Обновить платеж"
+   },
+   "userHomepage": {
+      "message": "Домашняя страница пользователя"
+   },
+   "userID": {
+      "message": "ID пользователя"
+   },
+   "username": {
+      "message": "Имя пользователя"
+   },
+   "videoID": {
+      "message": "Идентификатор видео"
+   },
+   "videoNotExist": {
+      "message": "Видео не существует."
+   },
+   "viewDetailedPricing": {
+      "message": "Просмотреть подробные функции и цены"
+   },
+   "yearly": {
+      "message": "Ежегодно"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} оплачивается ежегодно, сэкономьте {{2}}"
+   },
+   "yes": {
+      "message": "Да"
+   }
+}

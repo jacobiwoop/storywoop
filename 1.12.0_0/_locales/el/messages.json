@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Ενεργός"
+   },
+   "authorDigged": {
+      "message": "Συγγραφέας Digged"
+   },
+   "buyNow": {
+      "message": "Αγορασε τωρα"
+   },
+   "cancelSubs": {
+      "message": "Ακύρωση συνδρομής"
+   },
+   "canceled": {
+      "message": "Ακυρώθηκε"
+   },
+   "chunkDownloadNote": {
+      "message": "Για μεγάλα σύνολα δεδομένων, συνιστούμε τη χρήση μορφής CSV. Τα δεδομένα θα χωριστούν σε πολλά τμήματα για την αποφυγή προβλημάτων λήψης."
+   },
+   "chunkSizeRows": {
+      "message": "Μέγεθος κομματιού (σειρές)"
+   },
+   "comment": {
+      "message": "Σχόλιο"
+   },
+   "commentID": {
+      "message": "Αναγνωριστικό σχολίου"
+   },
+   "commentTime": {
+      "message": "Ώρα σχολίων"
+   },
+   "commentsButtonNotFound": {
+      "message": "Δεν ήταν δυνατή η εύρεση του κουμπιού σχολίων. Κάντε κλικ σε αυτό χειροκίνητα για να συνεχίσετε."
+   },
+   "completed": {
+      "message": "Ολοκληρώθηκε το"
+   },
+   "concurrentExport": {
+      "message": "Ταυτόχρονη εξαγωγή"
+   },
+   "continue": {
+      "message": "Να συνεχίσει"
+   },
+   "date": {
+      "message": "Ημερομηνία"
+   },
+   "delete": {
+      "message": "Διαγράφω"
+   },
+   "description": {
+      "message": "Εξαγωγή σχολίων TikTok στο Excel σε CSV για ανάλυση."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "Έκπτωση 25% σε όλα τα είδη! Προσφορά περιορισμένου χρόνου."
+   },
+   "download": {
+      "message": "Κατεβάστε"
+   },
+   "downloadError": {
+      "message": "Σφάλμα λήψης, δοκιμάστε ξανά ή επικοινωνήστε μαζί μας για βοήθεια."
+   },
+   "expired": {
+      "message": "έχει λήξει"
+   },
+   "export": {
+      "message": "Εξαγωγή"
+   },
+   "exportDone": {
+      "message": "Επιτυχής εξαγωγή"
+   },
+   "exportError": {
+      "message": "Παρουσιάστηκε σφάλμα. Παρακαλώ προσπαθήστε ξανά"
+   },
+   "exporting": {
+      "message": "Εξαγωγή..."
+   },
+   "extracted": {
+      "message": "Εξήχθη"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Δεν είναι δυνατή η λήψη δεδομένων συνδρομής, δοκιμάστε ξανά ή επικοινωνήστε μαζί μας για βοήθεια."
+   },
+   "findTTLink": {
+      "message": "Πώς να βρείτε τον σύνδεσμο βίντεο TikTok;"
+   },
+   "free": {
+      "message": "Ελεύθερος"
+   },
+   "freePlan": {
+      "message": "Δωρεάν σχέδιο"
+   },
+   "goToPortal": {
+      "message": "Μεταβείτε στην Πύλη πελατών"
+   },
+   "history": {
+      "message": "Ιστορία"
+   },
+   "home": {
+      "message": "Σπίτι"
+   },
+   "includeReply": {
+      "message": "Συμπεριλάβετε απαντήσεις σχολίων"
+   },
+   "includeReply1": {
+      "message": "Συμπεριλάβετε απαντήσεις"
+   },
+   "lemonPriceNote": {
+      "message": "Οι τιμές αναφέρονται σε USD. Μπορεί να ισχύει ΦΠΑ ανάλογα με την τοποθεσία σας."
+   },
+   "loading": {
+      "message": "Φόρτωση..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Μπορείτε να διαχειριστείτε τη συνδρομή και τη χρέωσή σας στην Πύλη πελατών."
+   },
+   "month": {
+      "message": "μήνας"
+   },
+   "monthly": {
+      "message": "Μηνιαίο"
+   },
+   "monthlyDesc": {
+      "message": "Κατάλληλο για δοκιμή"
+   },
+   "name": {
+      "message": "TTCommentExporter - Εξαγωγή σχολίων TikTok"
+   },
+   "needUpgrade": {
+      "message": "Υπέρβαση του δωρεάν ορίου λογαριασμού. Κάντε αναβάθμιση για να συνεχίσετε"
+   },
+   "nickName": {
+      "message": "Παρατσούκλι"
+   },
+   "no": {
+      "message": "Οχι"
+   },
+   "noComments": {
+      "message": "Δεν βρέθηκαν σχόλια"
+   },
+   "noTaskFound": {
+      "message": "Δεν βρέθηκε εργασία"
+   },
+   "numOfComments": {
+      "message": "Αριθμός σχολίων που εξήχθησαν"
+   },
+   "paddlePriceNote": {
+      "message": "Οι τιμές αναφέρονται σε USD. Μπορεί να δείτε το τοπικό σας νόμισμα στο ταμείο, ανάλογα με την τοποθεσία σας. Μπορεί να ισχύει ΦΠΑ."
+   },
+   "pastDue": {
+      "message": "Παρελθούσα"
+   },
+   "pause": {
+      "message": "Παύση"
+   },
+   "permAlert": {
+      "message": "Επιτρέψτε στις άδειες να προχωρήσουν"
+   },
+   "pinnedToTop": {
+      "message": "Καρφιτσωμένο στην κορυφή"
+   },
+   "postID": {
+      "message": "Ταυτότητα ανάρτησης"
+   },
+   "quarterly": {
+      "message": "Τριμηνιαίος"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} χρεώνεται κάθε 3 μήνες"
+   },
+   "randomInterval": {
+      "message": "Τυχαίο διάστημα σε δευτερόλεπτα μεταξύ των αιτημάτων για λήψη σχολίων."
+   },
+   "replyCount": {
+      "message": "Πλήθος απαντήσεων"
+   },
+   "replyToWhichComment": {
+      "message": "Απάντηση σε Ποιο Σχόλιο"
+   },
+   "selectFormat": {
+      "message": "Επιλέξτε τη μορφή εξαγωγής."
+   },
+   "settings": {
+      "message": "Ρυθμίσεις"
+   },
+   "signInAccount": {
+      "message": "Συνδεθείτε στο λογαριασμό σας"
+   },
+   "signInFailure": {
+      "message": "Η σύνδεση απέτυχε. Δοκιμάστε ξανά ή επικοινωνήστε μαζί μας για βοήθεια."
+   },
+   "signInGoogle": {
+      "message": "Συνδεθείτε με το Google"
+   },
+   "signOut": {
+      "message": "Αποσύνδεση"
+   },
+   "signedInAs": {
+      "message": "Συνδεθήκατε ως"
+   },
+   "status": {
+      "message": "Κατάσταση"
+   },
+   "subsActiveHead": {
+      "message": "Η συνδρομή σας είναι ενεργή"
+   },
+   "subsActiveMsg": {
+      "message": "Η συνδρομή σας είναι ενεργή. Έχει προγραμματιστεί να ανανεωθεί στις {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Η συνδρομή σας ακυρώθηκε"
+   },
+   "subsCanceledMsg": {
+      "message": "Η συνδρομή σας ακυρώθηκε. Έχει προγραμματιστεί να λήξει στις {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Η συνδρομή σας έχει λήξει"
+   },
+   "subsExpiredMsg": {
+      "message": "Η συνδρομή σας έχει λήξει."
+   },
+   "subsFreePlanMsg": {
+      "message": "Είστε σε ένα δωρεάν πρόγραμμα. Μπορείτε να κάνετε αναβάθμιση σε πρόγραμμα επί πληρωμή ανά πάσα στιγμή."
+   },
+   "subsPastDueHead": {
+      "message": "Το τιμολόγιό σας είναι ληξιπρόθεσμο"
+   },
+   "subsPastDueMsg": {
+      "message": "Το τιμολόγιό σας είναι ληξιπρόθεσμο. Ενημερώστε τον τρόπο πληρωμής σας."
+   },
+   "subsPausedHead": {
+      "message": "Η συνδρομή σας έχει τεθεί σε παύση"
+   },
+   "subsPausedMsg": {
+      "message": "Η συνδρομή σας έχει τεθεί σε παύση. Μπορείτε να την συνεχίσετε ή να την ακυρώσετε ανά πάσα στιγμή."
+   },
+   "subsUnpaidHead": {
+      "message": "Το τιμολόγιό σας είναι απλήρωτο"
+   },
+   "subsUnpaidMsg": {
+      "message": "Το τιμολόγιό σας είναι απλήρωτο. Ενημερώστε τον τρόπο πληρωμής σας."
+   },
+   "subscription": {
+      "message": "Συνδρομή"
+   },
+   "taskLimitNote": {
+      "message": "Προς το παρόν, θα αποθηκευτούν μόνο οι τελευταίες 20 εργασίες. Κάντε λήψη των δεδομένων σας προτού διαγραφούν αυτόματα."
+   },
+   "ttLinkAlert": {
+      "message": "Υποστηρίζονται μόνο σύνδεσμοι βίντεο TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Εισαγάγετε έναν σύνδεσμο βίντεο TikTok"
+   },
+   "type": {
+      "message": "Τύπος"
+   },
+   "undoCancel": {
+      "message": "Αναίρεση ακύρωσης"
+   },
+   "unexpectedError": {
+      "message": "Παρουσιάστηκε μη αναμενόμενο σφάλμα. Δοκιμάστε ξανά ή μη διστάσετε να επικοινωνήσετε μαζί μας για βοήθεια."
+   },
+   "unlimited": {
+      "message": "Απεριόριστος"
+   },
+   "unpaid": {
+      "message": "Απλήρωτος"
+   },
+   "updatePayment": {
+      "message": "Ενημέρωση πληρωμής"
+   },
+   "userHomepage": {
+      "message": "Αρχική σελίδα χρήστη"
+   },
+   "userID": {
+      "message": "ταυτότητα χρήστη"
+   },
+   "username": {
+      "message": "Όνομα χρήστη"
+   },
+   "videoID": {
+      "message": "Αναγνωριστικό βίντεο"
+   },
+   "videoNotExist": {
+      "message": "Το βίντεο δεν υπάρχει."
+   },
+   "viewDetailedPricing": {
+      "message": "Προβολή λεπτομερών χαρακτηριστικών και τιμολόγησης"
+   },
+   "yearly": {
+      "message": "Ετήσια"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} χρεώνεται ετησίως, εξοικονομήστε {{2}}"
+   },
+   "yes": {
+      "message": "Ναί"
+   }
+}

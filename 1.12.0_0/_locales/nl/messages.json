@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Actief"
+   },
+   "authorDigged": {
+      "message": "Auteur gegraven"
+   },
+   "buyNow": {
+      "message": "Koop nu"
+   },
+   "cancelSubs": {
+      "message": "Annuleer abonnement"
+   },
+   "canceled": {
+      "message": "Geannuleerd"
+   },
+   "chunkDownloadNote": {
+      "message": "Voor grote datasets raden we het CSV-formaat aan. De data wordt in meerdere delen gesplitst om downloadproblemen te voorkomen."
+   },
+   "chunkSizeRows": {
+      "message": "Brokgrootte (rijen)"
+   },
+   "comment": {
+      "message": "Opmerking"
+   },
+   "commentID": {
+      "message": "Reactie-ID"
+   },
+   "commentTime": {
+      "message": "Commentaartijd"
+   },
+   "commentsButtonNotFound": {
+      "message": "De knop voor reacties kon niet worden gevonden. Klik er handmatig op om verder te gaan."
+   },
+   "completed": {
+      "message": "Voltooid"
+   },
+   "concurrentExport": {
+      "message": "Gelijktijdige export"
+   },
+   "continue": {
+      "message": "Doorgaan"
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "delete": {
+      "message": "Verwijderen"
+   },
+   "description": {
+      "message": "Exporteer TikTok-opmerkingen naar Excel in CSV voor analyse."
+   },
+   "diggCount": {
+      "message": "Graaf telling"
+   },
+   "discount25": {
+      "message": "25% korting op alle artikelen! Tijdelijke aanbieding."
+   },
+   "download": {
+      "message": "Downloaden"
+   },
+   "downloadError": {
+      "message": "Downloadfout. Probeer het opnieuw of neem contact met ons op voor hulp."
+   },
+   "expired": {
+      "message": "Verlopen"
+   },
+   "export": {
+      "message": "Exporteren"
+   },
+   "exportDone": {
+      "message": "Succesvol exporteren"
+   },
+   "exportError": {
+      "message": "Er is een fout opgetreden. Probeer het opnieuw"
+   },
+   "exporting": {
+      "message": "Exporteren..."
+   },
+   "extracted": {
+      "message": "Geëxtraheerd"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Kan geen abonnementsgegevens verkrijgen. Probeer het opnieuw of neem contact met ons op voor hulp."
+   },
+   "findTTLink": {
+      "message": "Hoe vind je de TikTok-videolink?"
+   },
+   "free": {
+      "message": "Vrij"
+   },
+   "freePlan": {
+      "message": "Gratis abonnement"
+   },
+   "goToPortal": {
+      "message": "Ga naar Klantportaal"
+   },
+   "history": {
+      "message": "Geschiedenis"
+   },
+   "home": {
+      "message": "Thuis"
+   },
+   "includeReply": {
+      "message": "Voeg commentaarantwoorden toe"
+   },
+   "includeReply1": {
+      "message": "Inclusief antwoorden"
+   },
+   "lemonPriceNote": {
+      "message": "Prijzen zijn vermeld in USD. Afhankelijk van uw locatie kan er BTW van toepassing zijn."
+   },
+   "loading": {
+      "message": "Bezig met laden..."
+   },
+   "manageSubsAndBilling": {
+      "message": "U kunt uw abonnement en facturering beheren in het Klantportaal."
+   },
+   "month": {
+      "message": "maand"
+   },
+   "monthly": {
+      "message": "Maandelijks"
+   },
+   "monthlyDesc": {
+      "message": "Geschikt om uit te proberen"
+   },
+   "name": {
+      "message": "TTCommentExporter - TikTok-reacties exporteren"
+   },
+   "needUpgrade": {
+      "message": "Gratis accountlimiet overschreden. Upgrade om door te gaan"
+   },
+   "nickName": {
+      "message": "Bijnaam"
+   },
+   "no": {
+      "message": "Nee"
+   },
+   "noComments": {
+      "message": "Geen opmerkingen gevonden"
+   },
+   "noTaskFound": {
+      "message": "Geen taak gevonden"
+   },
+   "numOfComments": {
+      "message": "Aantal geëxporteerde opmerkingen"
+   },
+   "paddlePriceNote": {
+      "message": "Prijzen zijn vermeld in USD. Afhankelijk van uw locatie ziet u mogelijk uw lokale valuta bij het afrekenen. Er kan BTW van toepassing zijn."
+   },
+   "pastDue": {
+      "message": "Verlopen"
+   },
+   "pause": {
+      "message": "Pauze"
+   },
+   "permAlert": {
+      "message": "Geef toestemming om door te gaan"
+   },
+   "pinnedToTop": {
+      "message": "Vastgemaakt aan de bovenkant"
+   },
+   "postID": {
+      "message": "Bericht-ID"
+   },
+   "quarterly": {
+      "message": "Per kwartaal"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} wordt elke drie maanden gefactureerd"
+   },
+   "randomInterval": {
+      "message": "Willekeurig interval in seconden tussen verzoeken voor het ophalen van opmerkingen."
+   },
+   "replyCount": {
+      "message": "Aantal antwoorden"
+   },
+   "replyToWhichComment": {
+      "message": "Reageer op welke reactie"
+   },
+   "selectFormat": {
+      "message": "Selecteer het exportformaat."
+   },
+   "settings": {
+      "message": "Instellingen"
+   },
+   "signInAccount": {
+      "message": "Log in op uw account"
+   },
+   "signInFailure": {
+      "message": "Inloggen mislukt. Probeer het opnieuw of neem contact met ons op voor hulp."
+   },
+   "signInGoogle": {
+      "message": "Log in met Google"
+   },
+   "signOut": {
+      "message": "Afmelden"
+   },
+   "signedInAs": {
+      "message": "Aangemeld als"
+   },
+   "status": {
+      "message": "Toestand"
+   },
+   "subsActiveHead": {
+      "message": "Uw abonnement is actief"
+   },
+   "subsActiveMsg": {
+      "message": "Uw abonnement is actief. De verlenging is gepland op {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Uw abonnement is opgezegd"
+   },
+   "subsCanceledMsg": {
+      "message": "Uw abonnement is opgezegd. Het einde is gepland op {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Uw abonnement is verlopen"
+   },
+   "subsExpiredMsg": {
+      "message": "Uw abonnement is verlopen."
+   },
+   "subsFreePlanMsg": {
+      "message": "Je hebt een gratis abonnement. U kunt op elk gewenst moment upgraden naar een betaald abonnement."
+   },
+   "subsPastDueHead": {
+      "message": "Uw factuur is te laat betaald"
+   },
+   "subsPastDueMsg": {
+      "message": "Uw factuur is te laat betaald. Update uw betaalmethode."
+   },
+   "subsPausedHead": {
+      "message": "Je abonnement is gepauzeerd."
+   },
+   "subsPausedMsg": {
+      "message": "Je abonnement is gepauzeerd. Je kunt het op elk gewenst moment hervatten of annuleren."
+   },
+   "subsUnpaidHead": {
+      "message": "Uw factuur is onbetaald"
+   },
+   "subsUnpaidMsg": {
+      "message": "Uw factuur is onbetaald. Update uw betaalmethode."
+   },
+   "subscription": {
+      "message": "Abonnement"
+   },
+   "taskLimitNote": {
+      "message": "Momenteel worden alleen de laatste 20 taken opgeslagen. Download uw gegevens voordat ze automatisch worden verwijderd."
+   },
+   "ttLinkAlert": {
+      "message": "Alleen TikTok-videolinks worden ondersteund"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Voer een TikTok-videolink in"
+   },
+   "type": {
+      "message": "Type"
+   },
+   "undoCancel": {
+      "message": "Annulering ongedaan maken"
+   },
+   "unexpectedError": {
+      "message": "Er is een onverwachte fout opgetreden. Probeer het opnieuw of neem gerust contact met ons op voor hulp."
+   },
+   "unlimited": {
+      "message": "Onbeperkt"
+   },
+   "unpaid": {
+      "message": "Onbetaald"
+   },
+   "updatePayment": {
+      "message": "Betaling bijwerken"
+   },
+   "userHomepage": {
+      "message": "Startpagina van gebruiker"
+   },
+   "userID": {
+      "message": "gebruikersnaam"
+   },
+   "username": {
+      "message": "Gebruikersnaam"
+   },
+   "videoID": {
+      "message": "Video-ID"
+   },
+   "videoNotExist": {
+      "message": "Het filmpje bestaat niet."
+   },
+   "viewDetailedPricing": {
+      "message": "Bekijk gedetailleerde functies en prijzen"
+   },
+   "yearly": {
+      "message": "Jaarlijks"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} jaarlijks gefactureerd, bespaar {{2}}"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

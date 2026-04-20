@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktív"
+   },
+   "authorDigged": {
+      "message": "Szerző Digged"
+   },
+   "buyNow": {
+      "message": "Vásárolj most"
+   },
+   "cancelSubs": {
+      "message": "Feliratkozás visszavonása"
+   },
+   "canceled": {
+      "message": "Törölve"
+   },
+   "chunkDownloadNote": {
+      "message": "Nagy adathalmazok esetén a CSV formátum használatát javasoljuk. Az adatokat több részre osztjuk a letöltési problémák elkerülése érdekében."
+   },
+   "chunkSizeRows": {
+      "message": "Csomóméret (sorok)"
+   },
+   "comment": {
+      "message": "Megjegyzés"
+   },
+   "commentID": {
+      "message": "Megjegyzés azonosítója"
+   },
+   "commentTime": {
+      "message": "Hozzászólás ideje"
+   },
+   "commentsButtonNotFound": {
+      "message": "Nem található a hozzászólások gomb. Kattintson rá manuálisan a folytatáshoz."
+   },
+   "completed": {
+      "message": "Befejezve"
+   },
+   "concurrentExport": {
+      "message": "Egyidejű export"
+   },
+   "continue": {
+      "message": "Folytatni"
+   },
+   "date": {
+      "message": "Dátum"
+   },
+   "delete": {
+      "message": "Töröl"
+   },
+   "description": {
+      "message": "Exportálja a TikTok megjegyzéseit Excelbe CSV-fájlba elemzés céljából."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% kedvezmény minden termékre! Korlátozott időre szóló ajánlat."
+   },
+   "download": {
+      "message": "Letöltés"
+   },
+   "downloadError": {
+      "message": "Letöltési hiba, próbálkozzon újra, vagy forduljon hozzánk segítségért."
+   },
+   "expired": {
+      "message": "Lejárt"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "exportDone": {
+      "message": "Sikeres exportálás"
+   },
+   "exportError": {
+      "message": "Hiba történt. Kérjük, próbálja újra"
+   },
+   "exporting": {
+      "message": "Exportálás..."
+   },
+   "extracted": {
+      "message": "Kivont"
+   },
+   "faq": {
+      "message": "GYIK"
+   },
+   "fetchSubsFailure": {
+      "message": "Nem sikerült megszerezni az előfizetési adatokat. Kérjük, próbálja újra, vagy forduljon hozzánk segítségért."
+   },
+   "findTTLink": {
+      "message": "Hogyan találhatom meg a TikTok videó linkjét?"
+   },
+   "free": {
+      "message": "Ingyenes"
+   },
+   "freePlan": {
+      "message": "Ingyenes terv"
+   },
+   "goToPortal": {
+      "message": "Lépjen az Ügyfélportálra"
+   },
+   "history": {
+      "message": "Történelem"
+   },
+   "home": {
+      "message": "itthon"
+   },
+   "includeReply": {
+      "message": "Tartalmazza a megjegyzésekre adott válaszokat"
+   },
+   "includeReply1": {
+      "message": "Tartalmazza a válaszokat"
+   },
+   "lemonPriceNote": {
+      "message": "Az árak USD-ben vannak feltüntetve. Az Ön tartózkodási helyétől függően áfa vonatkozhat."
+   },
+   "loading": {
+      "message": "Betöltés..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Előfizetését és számlázását az Ügyfélkapun kezelheti."
+   },
+   "month": {
+      "message": "hónap"
+   },
+   "monthly": {
+      "message": "Havi"
+   },
+   "monthlyDesc": {
+      "message": "Kipróbálásra alkalmas"
+   },
+   "name": {
+      "message": "TTCommentExporter – TikTok megjegyzések exportálása"
+   },
+   "needUpgrade": {
+      "message": "Az ingyenes fiókok korlátja túllépve, a folytatáshoz frissítsen"
+   },
+   "nickName": {
+      "message": "Nick Név"
+   },
+   "no": {
+      "message": "Nem"
+   },
+   "noComments": {
+      "message": "Nem találhatók megjegyzések"
+   },
+   "noTaskFound": {
+      "message": "Nem található feladat"
+   },
+   "numOfComments": {
+      "message": "Exportált megjegyzések száma"
+   },
+   "paddlePriceNote": {
+      "message": "Az árak USD-ben vannak feltüntetve. Helyétől függően előfordulhat, hogy fizetéskor láthatja a helyi pénznemet. ÁFA vonatkozhat rá."
+   },
+   "pastDue": {
+      "message": "Határidőn túl"
+   },
+   "pause": {
+      "message": "Szünet"
+   },
+   "permAlert": {
+      "message": "Kérjük, engedélyezze az engedélyeket a folytatáshoz"
+   },
+   "pinnedToTop": {
+      "message": "A tetejére rögzítve"
+   },
+   "postID": {
+      "message": "Hozzászólás azonosítója"
+   },
+   "quarterly": {
+      "message": "Negyedévenként"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} 3 havonta számláz"
+   },
+   "randomInterval": {
+      "message": "Véletlenszerű időköz másodpercben a megjegyzések lekérése között."
+   },
+   "replyCount": {
+      "message": "Válasz Szám"
+   },
+   "replyToWhichComment": {
+      "message": "Válasz a Melyik megjegyzésre"
+   },
+   "selectFormat": {
+      "message": "Válassza ki az exportálási formátumot."
+   },
+   "settings": {
+      "message": "Beállítások"
+   },
+   "signInAccount": {
+      "message": "Jelentkezz be a fiókodba"
+   },
+   "signInFailure": {
+      "message": "Sikertelen bejelentkezés. Kérjük, próbálja újra, vagy forduljon hozzánk segítségért."
+   },
+   "signInGoogle": {
+      "message": "Jelentkezzen be a Google-lal"
+   },
+   "signOut": {
+      "message": "Kijelentkezés"
+   },
+   "signedInAs": {
+      "message": "Bejelentkezve mint"
+   },
+   "status": {
+      "message": "Állapot"
+   },
+   "subsActiveHead": {
+      "message": "Az előfizetésed aktív"
+   },
+   "subsActiveMsg": {
+      "message": "Az előfizetésed aktív. Megújítása a következő napon várható: {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Az előfizetését törölték"
+   },
+   "subsCanceledMsg": {
+      "message": "Az előfizetését törölték. A tervek szerint a következő napon ér véget: {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Előfizetése lejárt"
+   },
+   "subsExpiredMsg": {
+      "message": "Előfizetése lejárt."
+   },
+   "subsFreePlanMsg": {
+      "message": "Ön egy ingyenes csomagban van. Bármikor frissíthet fizetős csomagra."
+   },
+   "subsPastDueHead": {
+      "message": "A számlája lejárt"
+   },
+   "subsPastDueMsg": {
+      "message": "A számlája lejárt. Kérjük, frissítse fizetési módját."
+   },
+   "subsPausedHead": {
+      "message": "Az előfizetésed szünetel"
+   },
+   "subsPausedMsg": {
+      "message": "Az előfizetésed szünetel. Bármikor folytathatod vagy lemondhatod."
+   },
+   "subsUnpaidHead": {
+      "message": "A számlája nincs kifizetve"
+   },
+   "subsUnpaidMsg": {
+      "message": "A számlája nincs kifizetve. Kérjük, frissítse fizetési módját."
+   },
+   "subscription": {
+      "message": "Feliratkozás"
+   },
+   "taskLimitNote": {
+      "message": "Jelenleg csak a legutóbbi 20 feladat kerül tárolásra. Kérjük, töltse le adatait, mielőtt azok automatikusan törlődnek."
+   },
+   "ttLinkAlert": {
+      "message": "Csak a TikTok videolinkek támogatottak"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Adjon meg egy TikTok-videó hivatkozást"
+   },
+   "type": {
+      "message": "típus"
+   },
+   "undoCancel": {
+      "message": "Törlés visszavonása"
+   },
+   "unexpectedError": {
+      "message": "Váratlan hiba történt. Kérjük, próbálja újra, vagy forduljon hozzánk bizalommal segítségért."
+   },
+   "unlimited": {
+      "message": "Korlátlan"
+   },
+   "unpaid": {
+      "message": "Kifizetetlen"
+   },
+   "updatePayment": {
+      "message": "Frissítse a fizetést"
+   },
+   "userHomepage": {
+      "message": "Felhasználói kezdőlap"
+   },
+   "userID": {
+      "message": "Felhasználói azonosító"
+   },
+   "username": {
+      "message": "Felhasználónév"
+   },
+   "videoID": {
+      "message": "Videóazonosító"
+   },
+   "videoNotExist": {
+      "message": "A videó nem létezik."
+   },
+   "viewDetailedPricing": {
+      "message": "A részletes jellemzők és az árak megtekintése"
+   },
+   "yearly": {
+      "message": "Évi"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} éves számlázás, {{2}} megtakarítás"
+   },
+   "yes": {
+      "message": "Igen"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktiivne"
+   },
+   "authorDigged": {
+      "message": "Autor Digged"
+   },
+   "buyNow": {
+      "message": "Osta kohe"
+   },
+   "cancelSubs": {
+      "message": "Tühista tellimus"
+   },
+   "canceled": {
+      "message": "Tühistatud"
+   },
+   "chunkDownloadNote": {
+      "message": "Suurte andmekogumite puhul soovitame kasutada CSV-vormingut. Andmed jagatakse allalaadimisprobleemide vältimiseks mitmeks osaks."
+   },
+   "chunkSizeRows": {
+      "message": "Tüki suurus (read)"
+   },
+   "comment": {
+      "message": "kommenteerida"
+   },
+   "commentID": {
+      "message": "Kommentaari ID"
+   },
+   "commentTime": {
+      "message": "Kommentaari aeg"
+   },
+   "commentsButtonNotFound": {
+      "message": "Kommentaaride nuppu ei leitud. Jätkamiseks klõpsake seda käsitsi."
+   },
+   "completed": {
+      "message": "Lõpetatud"
+   },
+   "concurrentExport": {
+      "message": "Samaaegne eksport"
+   },
+   "continue": {
+      "message": "Jätka"
+   },
+   "date": {
+      "message": "Kuupäev"
+   },
+   "delete": {
+      "message": "Kustuta"
+   },
+   "description": {
+      "message": "Eksportige TikToki kommentaarid analüüsimiseks Excelisse CSV-vormingus."
+   },
+   "diggCount": {
+      "message": "Diggi arv"
+   },
+   "discount25": {
+      "message": "25% kõik kaubad! Piiratud ajaga pakkumine."
+   },
+   "download": {
+      "message": "Lae alla"
+   },
+   "downloadError": {
+      "message": "Allalaadimise viga, proovige uuesti või võtke meiega abi saamiseks ühendust."
+   },
+   "expired": {
+      "message": "Aegunud"
+   },
+   "export": {
+      "message": "Ekspordi"
+   },
+   "exportDone": {
+      "message": "Eksportimine õnnestus"
+   },
+   "exportError": {
+      "message": "Ilmnes viga, proovige uuesti"
+   },
+   "exporting": {
+      "message": "Eksportimine..."
+   },
+   "extracted": {
+      "message": "Ekstraheeritud"
+   },
+   "faq": {
+      "message": "KKK"
+   },
+   "fetchSubsFailure": {
+      "message": "Tellimuse andmeid ei saa hankida, proovige uuesti või võtke meiega abi saamiseks ühendust."
+   },
+   "findTTLink": {
+      "message": "Kuidas leida TikToki video link?"
+   },
+   "free": {
+      "message": "Tasuta"
+   },
+   "freePlan": {
+      "message": "Tasuta plaan"
+   },
+   "goToPortal": {
+      "message": "Minge kliendiportaali"
+   },
+   "history": {
+      "message": "Ajalugu"
+   },
+   "home": {
+      "message": "Kodu"
+   },
+   "includeReply": {
+      "message": "Kaasa kommentaaride vastused"
+   },
+   "includeReply1": {
+      "message": "Kaasa vastused"
+   },
+   "lemonPriceNote": {
+      "message": "Hinnad on toodud USD-des. Olenevalt teie asukohast võib rakenduda käibemaks."
+   },
+   "loading": {
+      "message": "Laadimine..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Tellimust ja arveldust saate hallata kliendiportaalis."
+   },
+   "month": {
+      "message": "kuu"
+   },
+   "monthly": {
+      "message": "Igakuine"
+   },
+   "monthlyDesc": {
+      "message": "Sobib proovimiseks"
+   },
+   "name": {
+      "message": "TTCommentExporter – TikToki kommentaaride eksportimine"
+   },
+   "needUpgrade": {
+      "message": "Tasuta konto limiit on ületatud, jätkamiseks täiendage"
+   },
+   "nickName": {
+      "message": "Hüüdnimi"
+   },
+   "no": {
+      "message": "Ei"
+   },
+   "noComments": {
+      "message": "Kommentaare ei leitud"
+   },
+   "noTaskFound": {
+      "message": "Ülesannet ei leitud"
+   },
+   "numOfComments": {
+      "message": "Eksporditud kommentaaride arv"
+   },
+   "paddlePriceNote": {
+      "message": "Hinnad on toodud USD-des. Sõltuvalt teie asukohast võite kassas näha oma kohalikku valuutat. Rakenduda võib käibemaks."
+   },
+   "pastDue": {
+      "message": "Tähtaeg ületatud"
+   },
+   "pause": {
+      "message": "Paus"
+   },
+   "permAlert": {
+      "message": "Jätkamiseks lubage luba"
+   },
+   "pinnedToTop": {
+      "message": "Kinnitatud ülaossa"
+   },
+   "postID": {
+      "message": "Postituse ID"
+   },
+   "quarterly": {
+      "message": "Kord kvartalis"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} arveldatakse iga 3 kuu tagant"
+   },
+   "randomInterval": {
+      "message": "Juhuslik intervall sekundites kommentaaride toomise taotluste vahel."
+   },
+   "replyCount": {
+      "message": "Vastuste arv"
+   },
+   "replyToWhichComment": {
+      "message": "Vasta millisele kommentaarile"
+   },
+   "selectFormat": {
+      "message": "Valige ekspordivorming."
+   },
+   "settings": {
+      "message": "Seaded"
+   },
+   "signInAccount": {
+      "message": "Logige oma kontole sisse"
+   },
+   "signInFailure": {
+      "message": "Sisselogimine ebaõnnestus. Palun proovige uuesti või võtke meiega abi saamiseks ühendust."
+   },
+   "signInGoogle": {
+      "message": "Logige sisse Google'iga"
+   },
+   "signOut": {
+      "message": "Logi välja"
+   },
+   "signedInAs": {
+      "message": "Sisse logitud kui"
+   },
+   "status": {
+      "message": "Olek"
+   },
+   "subsActiveHead": {
+      "message": "Teie tellimus on aktiivne"
+   },
+   "subsActiveMsg": {
+      "message": "Teie tellimus on aktiivne. See on plaanitud uuendada {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Teie tellimus on tühistatud"
+   },
+   "subsCanceledMsg": {
+      "message": "Teie tellimus on tühistatud. See on kavandatud lõppema {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Teie tellimus on aegunud"
+   },
+   "subsExpiredMsg": {
+      "message": "Teie tellimus on aegunud."
+   },
+   "subsFreePlanMsg": {
+      "message": "Teil on tasuta plaan. Saate igal ajal tasulisele plaanile üle minna."
+   },
+   "subsPastDueHead": {
+      "message": "Teie arve tähtaeg on hilinenud"
+   },
+   "subsPastDueMsg": {
+      "message": "Teie arve tähtaeg on hilinenud. Värskendage oma makseviisi."
+   },
+   "subsPausedHead": {
+      "message": "Teie tellimus on peatatud"
+   },
+   "subsPausedMsg": {
+      "message": "Teie tellimus on peatatud. Saate seda igal ajal jätkata või tühistada."
+   },
+   "subsUnpaidHead": {
+      "message": "Teie arve on tasumata"
+   },
+   "subsUnpaidMsg": {
+      "message": "Teie arve on tasumata. Värskendage oma makseviisi."
+   },
+   "subscription": {
+      "message": "Tellimus"
+   },
+   "taskLimitNote": {
+      "message": "Praegu salvestatakse ainult 20 viimast ülesannet. Palun laadige oma andmed alla, enne kui need automaatselt kustutatakse."
+   },
+   "ttLinkAlert": {
+      "message": "Toetatakse ainult TikToki videolinke"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Sisestage TikToki video link"
+   },
+   "type": {
+      "message": "Tüüp"
+   },
+   "undoCancel": {
+      "message": "Tühista tühistamine"
+   },
+   "unexpectedError": {
+      "message": "Tekkis ootamatu viga. Proovige uuesti või võtke meiega abi saamiseks ühendust."
+   },
+   "unlimited": {
+      "message": "Piiramatu"
+   },
+   "unpaid": {
+      "message": "Tasumata"
+   },
+   "updatePayment": {
+      "message": "Värskenda makset"
+   },
+   "userHomepage": {
+      "message": "Kasutaja koduleht"
+   },
+   "userID": {
+      "message": "kasutaja ID"
+   },
+   "username": {
+      "message": "Kasutajanimi"
+   },
+   "videoID": {
+      "message": "Video ID"
+   },
+   "videoNotExist": {
+      "message": "Videot pole olemas."
+   },
+   "viewDetailedPricing": {
+      "message": "Vaadake üksikasjalikke funktsioone ja hinnakujundust"
+   },
+   "yearly": {
+      "message": "Aastane"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} arveldatakse aastas, säästa {{2}}"
+   },
+   "yes": {
+      "message": "Jah"
+   }
+}

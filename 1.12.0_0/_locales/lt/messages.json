@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktyvus"
+   },
+   "authorDigged": {
+      "message": "Autorius Digged"
+   },
+   "buyNow": {
+      "message": "Pirkti dabar"
+   },
+   "cancelSubs": {
+      "message": "Atšaukti prenumeratą"
+   },
+   "canceled": {
+      "message": "Atšauktas"
+   },
+   "chunkDownloadNote": {
+      "message": "Dideliems duomenų rinkiniams rekomenduojame naudoti CSV formatą. Duomenys bus padalinti į kelias dalis, kad būtų išvengta atsisiuntimo problemų."
+   },
+   "chunkSizeRows": {
+      "message": "Dalies dydis (eilutės)"
+   },
+   "comment": {
+      "message": "komentuoti"
+   },
+   "commentID": {
+      "message": "Komentaro ID"
+   },
+   "commentTime": {
+      "message": "Komentarų laikas"
+   },
+   "commentsButtonNotFound": {
+      "message": "Nepavyko rasti komentarų mygtuko. Norėdami tęsti, spustelėkite jį rankiniu būdu."
+   },
+   "completed": {
+      "message": "Užbaigta"
+   },
+   "concurrentExport": {
+      "message": "Vienu metu vykdomas eksportas"
+   },
+   "continue": {
+      "message": "Tęsti"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "delete": {
+      "message": "Ištrinti"
+   },
+   "description": {
+      "message": "Eksportuokite „TikTok“ komentarus į „Excel“ CSV formatu analizei."
+   },
+   "diggCount": {
+      "message": "Digg skaičius"
+   },
+   "discount25": {
+      "message": "25% nuolaida visoms prekėms! Riboto laiko pasiūlymas."
+   },
+   "download": {
+      "message": "parsisiųsti"
+   },
+   "downloadError": {
+      "message": "Atsisiuntimo klaida, bandykite dar kartą arba susisiekite su mumis dėl pagalbos."
+   },
+   "expired": {
+      "message": "Baigėsi galiojimo laikas"
+   },
+   "export": {
+      "message": "Eksportuoti"
+   },
+   "exportDone": {
+      "message": "Sėkmingai eksportuoti"
+   },
+   "exportError": {
+      "message": "Įvyko klaida, bandykite dar kartą"
+   },
+   "exporting": {
+      "message": "Eksportuojama..."
+   },
+   "extracted": {
+      "message": "Išgauta"
+   },
+   "faq": {
+      "message": "DUK"
+   },
+   "fetchSubsFailure": {
+      "message": "Nepavyko gauti prenumeratos duomenų, bandykite dar kartą arba susisiekite su mumis dėl pagalbos."
+   },
+   "findTTLink": {
+      "message": "Kaip rasti „TikTok“ vaizdo įrašo nuorodą?"
+   },
+   "free": {
+      "message": "Laisvas"
+   },
+   "freePlan": {
+      "message": "Nemokamas planas"
+   },
+   "goToPortal": {
+      "message": "Eikite į klientų portalą"
+   },
+   "history": {
+      "message": "Istorija"
+   },
+   "home": {
+      "message": "Namai"
+   },
+   "includeReply": {
+      "message": "Įtraukti komentarų atsakymus"
+   },
+   "includeReply1": {
+      "message": "Įtraukti atsakymus"
+   },
+   "lemonPriceNote": {
+      "message": "Kainos nurodytos USD. PVM gali būti taikomas priklausomai nuo jūsų buvimo vietos."
+   },
+   "loading": {
+      "message": "Įkeliama..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Savo prenumeratą ir atsiskaitymą galite tvarkyti Klientų portale."
+   },
+   "month": {
+      "message": "mėnuo"
+   },
+   "monthly": {
+      "message": "Kas mėnesį"
+   },
+   "monthlyDesc": {
+      "message": "Tinka išbandymui"
+   },
+   "name": {
+      "message": "„TTCommentExporter“ – eksportuokite „TikTok“ komentarus"
+   },
+   "needUpgrade": {
+      "message": "Viršytas nemokamos paskyros limitas, atnaujinkite, kad galėtumėte tęsti"
+   },
+   "nickName": {
+      "message": "Niko vardas"
+   },
+   "no": {
+      "message": "Nr"
+   },
+   "noComments": {
+      "message": "Komentarų nerasta"
+   },
+   "noTaskFound": {
+      "message": "Užduotis nerasta"
+   },
+   "numOfComments": {
+      "message": "Eksportuotų komentarų skaičius"
+   },
+   "paddlePriceNote": {
+      "message": "Kainos nurodytos USD. Atsiskaitydami galite matyti savo vietinę valiutą, atsižvelgiant į jūsų vietą. Gali būti taikomas PVM."
+   },
+   "pastDue": {
+      "message": "Pradelsta"
+   },
+   "pause": {
+      "message": "Pauzė"
+   },
+   "permAlert": {
+      "message": "Leiskite leidimams tęsti"
+   },
+   "pinnedToTop": {
+      "message": "Prisegta viršuje"
+   },
+   "postID": {
+      "message": "Pašto ID"
+   },
+   "quarterly": {
+      "message": "Kas ketvirtį"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} apmokestinama kas 3 mėnesius"
+   },
+   "randomInterval": {
+      "message": "Atsitiktinis intervalas sekundėmis tarp užklausų gauti komentarus."
+   },
+   "replyCount": {
+      "message": "Atsakyti Count"
+   },
+   "replyToWhichComment": {
+      "message": "Atsakyti į kurį komentarą"
+   },
+   "selectFormat": {
+      "message": "Pasirinkite eksporto formatą."
+   },
+   "settings": {
+      "message": "Nustatymai"
+   },
+   "signInAccount": {
+      "message": "Prisijunkite prie savo paskyros"
+   },
+   "signInFailure": {
+      "message": "Nepavyko prisijungti. Bandykite dar kartą arba susisiekite su mumis dėl pagalbos."
+   },
+   "signInGoogle": {
+      "message": "Prisijunkite naudodami „Google“."
+   },
+   "signOut": {
+      "message": "Atsijungti"
+   },
+   "signedInAs": {
+      "message": "Prisijungęs kaip"
+   },
+   "status": {
+      "message": "Būsena"
+   },
+   "subsActiveHead": {
+      "message": "Jūsų prenumerata aktyvi"
+   },
+   "subsActiveMsg": {
+      "message": "Jūsų prenumerata aktyvi. Jį planuojama atnaujinti {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Jūsų prenumerata atšaukta"
+   },
+   "subsCanceledMsg": {
+      "message": "Jūsų prenumerata atšaukta. Numatyta, kad jis baigsis {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Jūsų prenumerata baigėsi"
+   },
+   "subsExpiredMsg": {
+      "message": "Jūsų prenumerata baigėsi."
+   },
+   "subsFreePlanMsg": {
+      "message": "Naudojate nemokamą planą. Galite bet kada atnaujinti į mokamą planą."
+   },
+   "subsPastDueHead": {
+      "message": "Jūsų sąskaita faktūra apmokėta"
+   },
+   "subsPastDueMsg": {
+      "message": "Jūsų sąskaita faktūra apmokėta. Atnaujinkite mokėjimo metodą."
+   },
+   "subsPausedHead": {
+      "message": "Jūsų prenumerata pristabdyta"
+   },
+   "subsPausedMsg": {
+      "message": "Jūsų prenumerata pristabdyta. Galite ją bet kada atnaujinti arba atšaukti."
+   },
+   "subsUnpaidHead": {
+      "message": "Jūsų sąskaita faktūra neapmokėta"
+   },
+   "subsUnpaidMsg": {
+      "message": "Jūsų sąskaita neapmokėta. Atnaujinkite mokėjimo metodą."
+   },
+   "subscription": {
+      "message": "Prenumerata"
+   },
+   "taskLimitNote": {
+      "message": "Šiuo metu bus saugoma tik 20 naujausių užduočių. Atsisiųskite savo duomenis, kol jie nebus automatiškai ištrinti."
+   },
+   "ttLinkAlert": {
+      "message": "Palaikomos tik „TikTok“ vaizdo įrašų nuorodos"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Įveskite „TikTok“ vaizdo įrašo nuorodą"
+   },
+   "type": {
+      "message": "Tipas"
+   },
+   "undoCancel": {
+      "message": "Anuliuoti atšaukimą"
+   },
+   "unexpectedError": {
+      "message": "Įvyko netikėta klaida. Bandykite dar kartą arba susisiekite su mumis dėl pagalbos."
+   },
+   "unlimited": {
+      "message": "Neribota"
+   },
+   "unpaid": {
+      "message": "Neapmokėta"
+   },
+   "updatePayment": {
+      "message": "Atnaujinti mokėjimą"
+   },
+   "userHomepage": {
+      "message": "Vartotojo pagrindinis puslapis"
+   },
+   "userID": {
+      "message": "Vartotojo ID"
+   },
+   "username": {
+      "message": "Vartotojo vardas"
+   },
+   "videoID": {
+      "message": "Vaizdo įrašo ID"
+   },
+   "videoNotExist": {
+      "message": "Vaizdo įrašas neegzistuoja."
+   },
+   "viewDetailedPricing": {
+      "message": "Peržiūrėkite išsamias funkcijas ir kainų nustatymą"
+   },
+   "yearly": {
+      "message": "Kasmet"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} mokama kasmet, sutaupykite {{2}}"
+   },
+   "yes": {
+      "message": "Taip"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Ацтиве"
+   },
+   "authorDigged": {
+      "message": "Аутор Диггед"
+   },
+   "buyNow": {
+      "message": "Купите сада"
+   },
+   "cancelSubs": {
+      "message": "Отказати претплату"
+   },
+   "canceled": {
+      "message": "Отказано"
+   },
+   "chunkDownloadNote": {
+      "message": "За велике скупове података, препоручујемо коришћење CSV формата. Подаци ће бити подељени на више делова како би се избегли проблеми са преузимањем."
+   },
+   "chunkSizeRows": {
+      "message": "Величина блока (редови)"
+   },
+   "comment": {
+      "message": "Коментар"
+   },
+   "commentID": {
+      "message": "ИД коментара"
+   },
+   "commentTime": {
+      "message": "Цоммент Тиме"
+   },
+   "commentsButtonNotFound": {
+      "message": "Нисам могао/могла да пронађем дугме за коментаре. Кликните на њега ручно да бисте наставили."
+   },
+   "completed": {
+      "message": "Завршено"
+   },
+   "concurrentExport": {
+      "message": "Истовремени извоз"
+   },
+   "continue": {
+      "message": "Настави"
+   },
+   "date": {
+      "message": "Датум"
+   },
+   "delete": {
+      "message": "Избриши"
+   },
+   "description": {
+      "message": "Извезите ТикТок коментаре у Екцел у ЦСВ за анализу."
+   },
+   "diggCount": {
+      "message": "Дигг Цоунт"
+   },
+   "discount25": {
+      "message": "25% попуста на све артикле! Ограничено време понуда."
+   },
+   "download": {
+      "message": "Преузимање"
+   },
+   "downloadError": {
+      "message": "Грешка при преузимању, покушајте поново или нас контактирајте за помоћ."
+   },
+   "expired": {
+      "message": "Истекао"
+   },
+   "export": {
+      "message": "Извоз"
+   },
+   "exportDone": {
+      "message": "Извези успешно"
+   },
+   "exportError": {
+      "message": "Дошло је до грешке. Молим вас, покушајте поново"
+   },
+   "exporting": {
+      "message": "Извоз..."
+   },
+   "extracted": {
+      "message": "Извучено"
+   },
+   "faq": {
+      "message": "ФАК"
+   },
+   "fetchSubsFailure": {
+      "message": "Није могуће добити податке о претплати, покушајте поново или нас контактирајте за помоћ."
+   },
+   "findTTLink": {
+      "message": "Како пронаћи ТикТок видео везу?"
+   },
+   "free": {
+      "message": "бесплатно"
+   },
+   "freePlan": {
+      "message": "Бесплатни план"
+   },
+   "goToPortal": {
+      "message": "Идите на кориснички портал"
+   },
+   "history": {
+      "message": "Историја"
+   },
+   "home": {
+      "message": "Кућа"
+   },
+   "includeReply": {
+      "message": "Укључите одговоре на коментаре"
+   },
+   "includeReply1": {
+      "message": "Укључи одговоре"
+   },
+   "lemonPriceNote": {
+      "message": "Цене су наведене у УСД. ПДВ може да се примењује у зависности од ваше локације."
+   },
+   "loading": {
+      "message": "Учитавање..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Својом претплатом и наплатом можете управљати на корисничком порталу."
+   },
+   "month": {
+      "message": "месец дана"
+   },
+   "monthly": {
+      "message": "Месечно"
+   },
+   "monthlyDesc": {
+      "message": "Погодно за испробавање"
+   },
+   "name": {
+      "message": "ТТЦомментЕкпортер - Извези ТикТок коментаре"
+   },
+   "needUpgrade": {
+      "message": "Прекорачено је ограничење бесплатног налога, надоградите да бисте наставили"
+   },
+   "nickName": {
+      "message": "Ницк Наме"
+   },
+   "no": {
+      "message": "Не"
+   },
+   "noComments": {
+      "message": "Нема пронађених коментара"
+   },
+   "noTaskFound": {
+      "message": "Није пронађен ниједан задатак"
+   },
+   "numOfComments": {
+      "message": "Број извезених коментара"
+   },
+   "paddlePriceNote": {
+      "message": "Цене су наведене у УСД. Можда ћете видети своју локалну валуту при плаћању, у зависности од ваше локације. ПДВ се може применити."
+   },
+   "pastDue": {
+      "message": "Паст Дуе"
+   },
+   "pause": {
+      "message": "Пауза"
+   },
+   "permAlert": {
+      "message": "Дозволите да се дозволе за наставак"
+   },
+   "pinnedToTop": {
+      "message": "Закачено на врх"
+   },
+   "postID": {
+      "message": "Пост ИД"
+   },
+   "quarterly": {
+      "message": "квартално"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} се наплаћује свака 3 месеца"
+   },
+   "randomInterval": {
+      "message": "Насумични интервал у секундама између захтева за преузимање коментара."
+   },
+   "replyCount": {
+      "message": "Репли Цоунт"
+   },
+   "replyToWhichComment": {
+      "message": "Одговорите на који коментар"
+   },
+   "selectFormat": {
+      "message": "Изаберите формат за извоз."
+   },
+   "settings": {
+      "message": "Подешавања"
+   },
+   "signInAccount": {
+      "message": "Пријавите се на свој налог"
+   },
+   "signInFailure": {
+      "message": "Пријављивање није успело. Покушајте поново или нас контактирајте за помоћ."
+   },
+   "signInGoogle": {
+      "message": "Пријавите се помоћу Гоогле-а"
+   },
+   "signOut": {
+      "message": "Одјава"
+   },
+   "signedInAs": {
+      "message": "Пријављен као"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "subsActiveHead": {
+      "message": "Ваша претплата је активна"
+   },
+   "subsActiveMsg": {
+      "message": "Ваша претплата је активна. Планирано је да се обнови {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Ваша претплата је отказана"
+   },
+   "subsCanceledMsg": {
+      "message": "Ваша претплата је отказана. Планирано је да се заврши {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Ваша претплата је истекла"
+   },
+   "subsExpiredMsg": {
+      "message": "Ваша претплата је истекла."
+   },
+   "subsFreePlanMsg": {
+      "message": "Ви сте на бесплатном плану. У било ком тренутку можете надоградити на плаћени план."
+   },
+   "subsPastDueHead": {
+      "message": "Ваша фактура је каснила"
+   },
+   "subsPastDueMsg": {
+      "message": "Ваша фактура је каснила. Ажурирајте начин плаћања."
+   },
+   "subsPausedHead": {
+      "message": "Ваша претплата је паузирана"
+   },
+   "subsPausedMsg": {
+      "message": "Ваша претплата је паузирана. Можете је наставити или отказати у било ком тренутку."
+   },
+   "subsUnpaidHead": {
+      "message": "Ваша фактура није плаћена"
+   },
+   "subsUnpaidMsg": {
+      "message": "Ваша фактура није плаћена. Ажурирајте начин плаћања."
+   },
+   "subscription": {
+      "message": "Претплата"
+   },
+   "taskLimitNote": {
+      "message": "Тренутно ће бити сачувано само последњих 20 задатака. Преузмите своје податке пре него што се аутоматски избришу."
+   },
+   "ttLinkAlert": {
+      "message": "Подржане су само ТикТок видео везе"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Унесите ТикТок видео везу"
+   },
+   "type": {
+      "message": "Тип"
+   },
+   "undoCancel": {
+      "message": "Поништи отказивање"
+   },
+   "unexpectedError": {
+      "message": "Дошло је до неочекиване грешке. Покушајте поново или нас слободно контактирајте за помоћ."
+   },
+   "unlimited": {
+      "message": "Неограничено"
+   },
+   "unpaid": {
+      "message": "Неплаћено"
+   },
+   "updatePayment": {
+      "message": "Ажурирајте плаћање"
+   },
+   "userHomepage": {
+      "message": "Почетна страница корисника"
+   },
+   "userID": {
+      "message": "ИД корисник"
+   },
+   "username": {
+      "message": "Корисничко име"
+   },
+   "videoID": {
+      "message": "ИД видеа"
+   },
+   "videoNotExist": {
+      "message": "Видео не постоји."
+   },
+   "viewDetailedPricing": {
+      "message": "Погледајте детаљне карактеристике и цене"
+   },
+   "yearly": {
+      "message": "Годишње"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} се наплаћује годишње, уштедите {{2}}"
+   },
+   "yes": {
+      "message": "да"
+   }
+}

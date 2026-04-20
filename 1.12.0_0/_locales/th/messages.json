@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "คล่องแคล่ว"
+   },
+   "authorDigged": {
+      "message": "ผู้เขียน ขุด"
+   },
+   "buyNow": {
+      "message": "ซื้อตอนนี้"
+   },
+   "cancelSubs": {
+      "message": "ยกเลิกการสมัครสมาชิก"
+   },
+   "canceled": {
+      "message": "ยกเลิก"
+   },
+   "chunkDownloadNote": {
+      "message": "สำหรับชุดข้อมูลขนาดใหญ่ เราขอแนะนำให้ใช้รูปแบบ CSV ข้อมูลจะถูกแบ่งออกเป็นหลายส่วนเพื่อหลีกเลี่ยงปัญหาในการดาวน์โหลด"
+   },
+   "chunkSizeRows": {
+      "message": "ขนาดชิ้น (แถว)"
+   },
+   "comment": {
+      "message": "ความคิดเห็น"
+   },
+   "commentID": {
+      "message": "รหัสความคิดเห็น"
+   },
+   "commentTime": {
+      "message": "เวลาแสดงความคิดเห็น"
+   },
+   "commentsButtonNotFound": {
+      "message": "ไม่พบปุ่มแสดงความคิดเห็น โปรดคลิกด้วยตนเองเพื่อดำเนินการต่อ"
+   },
+   "completed": {
+      "message": "สมบูรณ์"
+   },
+   "concurrentExport": {
+      "message": "การส่งออกพร้อมกัน"
+   },
+   "continue": {
+      "message": "ดำเนินการต่อ"
+   },
+   "date": {
+      "message": "วันที่"
+   },
+   "delete": {
+      "message": "ลบ"
+   },
+   "description": {
+      "message": "ส่งออกความคิดเห็นของ TikTok ไปยัง Excel ในรูปแบบ CSV เพื่อการวิเคราะห์"
+   },
+   "diggCount": {
+      "message": "ดิ๊กนับ"
+   },
+   "discount25": {
+      "message": "ลด 25% ทุกรายการ! ข้อเสนอมีเวลาจำกัด"
+   },
+   "download": {
+      "message": "ดาวน์โหลด"
+   },
+   "downloadError": {
+      "message": "ดาวน์โหลดข้อผิดพลาด โปรดลองอีกครั้งหรือติดต่อเราเพื่อขอความช่วยเหลือ"
+   },
+   "expired": {
+      "message": "หมดอายุแล้ว"
+   },
+   "export": {
+      "message": "ส่งออก"
+   },
+   "exportDone": {
+      "message": "ส่งออกสำเร็จ"
+   },
+   "exportError": {
+      "message": "เกิดข้อผิดพลาด โปรดลองอีกครั้ง"
+   },
+   "exporting": {
+      "message": "กำลังส่งออก..."
+   },
+   "extracted": {
+      "message": "สกัดแล้ว"
+   },
+   "faq": {
+      "message": "คำถามที่พบบ่อย"
+   },
+   "fetchSubsFailure": {
+      "message": "ไม่สามารถรับข้อมูลการสมัครสมาชิกได้ โปรดลองอีกครั้งหรือติดต่อเราเพื่อขอความช่วยเหลือ"
+   },
+   "findTTLink": {
+      "message": "จะหาลิงค์วิดีโอ TikTok ได้อย่างไร?"
+   },
+   "free": {
+      "message": "ฟรี"
+   },
+   "freePlan": {
+      "message": "แผนฟรี"
+   },
+   "goToPortal": {
+      "message": "ไปที่พอร์ทัลลูกค้า"
+   },
+   "history": {
+      "message": "ประวัติศาสตร์"
+   },
+   "home": {
+      "message": "บ้าน"
+   },
+   "includeReply": {
+      "message": "รวมการตอบกลับความคิดเห็น"
+   },
+   "includeReply1": {
+      "message": "รวมการตอบกลับ"
+   },
+   "lemonPriceNote": {
+      "message": "ราคาแสดงเป็น USD อาจมีการเรียกเก็บภาษีมูลค่าเพิ่มโดยขึ้นอยู่กับสถานที่ตั้งของคุณ"
+   },
+   "loading": {
+      "message": "กำลังโหลด..."
+   },
+   "manageSubsAndBilling": {
+      "message": "คุณสามารถจัดการการสมัครและการเรียกเก็บเงินของคุณได้ในพอร์ทัลลูกค้า"
+   },
+   "month": {
+      "message": "เดือน"
+   },
+   "monthly": {
+      "message": "รายเดือน"
+   },
+   "monthlyDesc": {
+      "message": "เหมาะแก่การลองครับ"
+   },
+   "name": {
+      "message": "TTCommentExporter - ส่งออกความคิดเห็น TikTok"
+   },
+   "needUpgrade": {
+      "message": "เกินขีดจำกัดบัญชีฟรีแล้ว อัปเกรดเพื่อดำเนินการต่อ"
+   },
+   "nickName": {
+      "message": "ชื่อนิค"
+   },
+   "no": {
+      "message": "เลขที่"
+   },
+   "noComments": {
+      "message": "ไม่พบความคิดเห็น"
+   },
+   "noTaskFound": {
+      "message": "ไม่พบงาน"
+   },
+   "numOfComments": {
+      "message": "จำนวนความคิดเห็นที่ส่งออก"
+   },
+   "paddlePriceNote": {
+      "message": "ราคาแสดงเป็น USD คุณอาจเห็นสกุลเงินท้องถิ่นของคุณเมื่อชำระเงิน ขึ้นอยู่กับสถานที่ตั้งของคุณ อาจมีการคิดภาษีมูลค่าเพิ่ม"
+   },
+   "pastDue": {
+      "message": "เลยกำหนดชำระแล้ว"
+   },
+   "pause": {
+      "message": "หยุดชั่วคราว"
+   },
+   "permAlert": {
+      "message": "โปรดให้สิทธิ์ดำเนินการต่อไป"
+   },
+   "pinnedToTop": {
+      "message": "ปักหมุดไว้ด้านบนแล้ว"
+   },
+   "postID": {
+      "message": "โพสต์ไอดี"
+   },
+   "quarterly": {
+      "message": "รายไตรมาส"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} เรียกเก็บเงินทุก 3 เดือน"
+   },
+   "randomInterval": {
+      "message": "ช่วงเวลาสุ่มเป็นวินาทีระหว่างคำขอดึงความคิดเห็น"
+   },
+   "replyCount": {
+      "message": "ตอบนับ"
+   },
+   "replyToWhichComment": {
+      "message": "ตอบกลับความคิดเห็นใด"
+   },
+   "selectFormat": {
+      "message": "เลือกรูปแบบการส่งออก"
+   },
+   "settings": {
+      "message": "การตั้งค่า"
+   },
+   "signInAccount": {
+      "message": "ลงชื่อเข้าใช้บัญชีของคุณ"
+   },
+   "signInFailure": {
+      "message": "การลงชื่อเข้าใช้ล้มเหลว โปรดลองอีกครั้งหรือติดต่อเราเพื่อขอความช่วยเหลือ"
+   },
+   "signInGoogle": {
+      "message": "ลงชื่อเข้าใช้งานด้วย Google"
+   },
+   "signOut": {
+      "message": "ออกจากระบบ"
+   },
+   "signedInAs": {
+      "message": "ลงชื่อเข้าใช้เป็น"
+   },
+   "status": {
+      "message": "สถานะ"
+   },
+   "subsActiveHead": {
+      "message": "การสมัครของคุณเปิดใช้งานอยู่"
+   },
+   "subsActiveMsg": {
+      "message": "การสมัครของคุณเปิดใช้งานอยู่ มีกำหนดต่ออายุในวันที่ {{}}"
+   },
+   "subsCanceledHead": {
+      "message": "การสมัครของคุณถูกยกเลิก"
+   },
+   "subsCanceledMsg": {
+      "message": "การสมัครของคุณถูกยกเลิก มีกำหนดสิ้นสุดในวันที่ {{}}"
+   },
+   "subsExpiredHead": {
+      "message": "การสมัครของคุณหมดอายุแล้ว"
+   },
+   "subsExpiredMsg": {
+      "message": "การสมัครของคุณหมดอายุแล้ว"
+   },
+   "subsFreePlanMsg": {
+      "message": "คุณใช้แผนบริการฟรี คุณสามารถอัปเกรดเป็นแผนแบบชำระเงินได้ตลอดเวลา"
+   },
+   "subsPastDueHead": {
+      "message": "ใบแจ้งหนี้ของคุณเลยกำหนดชำระแล้ว"
+   },
+   "subsPastDueMsg": {
+      "message": "ใบแจ้งหนี้ของคุณเลยกำหนดชำระแล้ว โปรดอัปเดตวิธีการชำระเงินของคุณ"
+   },
+   "subsPausedHead": {
+      "message": "การสมัครสมาชิกของคุณถูกระงับชั่วคราว"
+   },
+   "subsPausedMsg": {
+      "message": "การสมัครสมาชิกของคุณถูกระงับชั่วคราว คุณสามารถกลับมาใช้งานต่อหรือยกเลิกได้ทุกเมื่อ"
+   },
+   "subsUnpaidHead": {
+      "message": "ใบแจ้งหนี้ของคุณยังไม่ได้ชำระ"
+   },
+   "subsUnpaidMsg": {
+      "message": "ใบแจ้งหนี้ของคุณยังไม่ได้ชำระ โปรดอัปเดตวิธีการชำระเงินของคุณ"
+   },
+   "subscription": {
+      "message": "สมัครสมาชิก"
+   },
+   "taskLimitNote": {
+      "message": "ขณะนี้ระบบจะจัดเก็บเฉพาะ 20 งานล่าสุดเท่านั้น โปรดดาวน์โหลดข้อมูลของคุณก่อนที่จะถูกลบโดยอัตโนมัติ"
+   },
+   "ttLinkAlert": {
+      "message": "รองรับเฉพาะลิงก์วิดีโอ TikTok เท่านั้น"
+   },
+   "ttLinkPlaceholder": {
+      "message": "ป้อนลิงก์วิดีโอ TikTok"
+   },
+   "type": {
+      "message": "พิมพ์"
+   },
+   "undoCancel": {
+      "message": "เลิกทำการยกเลิก"
+   },
+   "unexpectedError": {
+      "message": "ข้อผิดพลาดที่ไม่คาดคิดได้เกิดขึ้น. โปรดลองอีกครั้งหรือติดต่อเราเพื่อขอความช่วยเหลือ"
+   },
+   "unlimited": {
+      "message": "ไม่ จำกัด"
+   },
+   "unpaid": {
+      "message": "ค้างชำระ"
+   },
+   "updatePayment": {
+      "message": "อัพเดทการชำระเงิน"
+   },
+   "userHomepage": {
+      "message": "หน้าแรกของผู้ใช้"
+   },
+   "userID": {
+      "message": "รหัสผู้ใช้"
+   },
+   "username": {
+      "message": "ชื่อผู้ใช้"
+   },
+   "videoID": {
+      "message": "รหัสวิดีโอ"
+   },
+   "videoNotExist": {
+      "message": "ไม่มีวิดีโอนี้"
+   },
+   "viewDetailedPricing": {
+      "message": "ดูคุณสมบัติโดยละเอียดและราคา"
+   },
+   "yearly": {
+      "message": "เป็นประจำทุกปี"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} เรียกเก็บเงินเป็นรายปี ประหยัด {{2}}"
+   },
+   "yes": {
+      "message": "ใช่"
+   }
+}

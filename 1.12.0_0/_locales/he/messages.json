@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "פָּעִיל"
+   },
+   "authorDigged": {
+      "message": "מחבר חפר"
+   },
+   "buyNow": {
+      "message": "קנה עכשיו"
+   },
+   "cancelSubs": {
+      "message": "בטל רישום"
+   },
+   "canceled": {
+      "message": "מבוטל"
+   },
+   "chunkDownloadNote": {
+      "message": "עבור מערכי נתונים גדולים, אנו ממליצים להשתמש בפורמט CSV. הנתונים יפוצלו למספר חלקים כדי למנוע בעיות הורדה."
+   },
+   "chunkSizeRows": {
+      "message": "גודל קטע (בשורות)"
+   },
+   "comment": {
+      "message": "תגובה"
+   },
+   "commentID": {
+      "message": "מזהה תגובה"
+   },
+   "commentTime": {
+      "message": "זמן תגובה"
+   },
+   "commentsButtonNotFound": {
+      "message": "לא ניתן למצוא את כפתור התגובות. אנא לחץ עליו ידנית כדי להמשיך."
+   },
+   "completed": {
+      "message": "הושלם"
+   },
+   "concurrentExport": {
+      "message": "ייצוא במקביל"
+   },
+   "continue": {
+      "message": "לְהַמשִׁיך"
+   },
+   "date": {
+      "message": "תַאֲרִיך"
+   },
+   "delete": {
+      "message": "לִמְחוֹק"
+   },
+   "description": {
+      "message": "ייצא הערות TikTok ל-Excel ב-CSV לניתוח."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% הנחה על כל הפריטים! הצעה לזמן מוגבל."
+   },
+   "download": {
+      "message": "הורד"
+   },
+   "downloadError": {
+      "message": "שגיאת הורדה, אנא נסה שוב או פנה אלינו לקבלת עזרה."
+   },
+   "expired": {
+      "message": "לא בתוקף"
+   },
+   "export": {
+      "message": "יְצוּא"
+   },
+   "exportDone": {
+      "message": "ייצוא בהצלחה"
+   },
+   "exportError": {
+      "message": "אירעה שגיאה, אנא נסה שוב"
+   },
+   "exporting": {
+      "message": "מייצא..."
+   },
+   "extracted": {
+      "message": "מחולץ"
+   },
+   "faq": {
+      "message": "שאלות נפוצות"
+   },
+   "fetchSubsFailure": {
+      "message": "לא ניתן לקבל נתוני מנוי, אנא נסה שוב או פנה אלינו לקבלת עזרה."
+   },
+   "findTTLink": {
+      "message": "כיצד למצוא את הקישור לסרטון TikTok?"
+   },
+   "free": {
+      "message": "חינם"
+   },
+   "freePlan": {
+      "message": "תוכנית חינם"
+   },
+   "goToPortal": {
+      "message": "עבור לפורטל לקוחות"
+   },
+   "history": {
+      "message": "הִיסטוֹרִיָה"
+   },
+   "home": {
+      "message": "בית"
+   },
+   "includeReply": {
+      "message": "כלול תשובות להערות"
+   },
+   "includeReply1": {
+      "message": "כלול תשובות"
+   },
+   "lemonPriceNote": {
+      "message": "המחירים מפורטים בדולר ארה\"ב. עשוי לחול מע\"מ בהתאם למיקומך."
+   },
+   "loading": {
+      "message": "טוען..."
+   },
+   "manageSubsAndBilling": {
+      "message": "אתה יכול לנהל את המנוי והחיוב שלך בפורטל הלקוחות."
+   },
+   "month": {
+      "message": "חוֹדֶשׁ"
+   },
+   "monthly": {
+      "message": "יַרחוֹן"
+   },
+   "monthlyDesc": {
+      "message": "מתאים להתנסות"
+   },
+   "name": {
+      "message": "TTCommentExporter - ייצא הערות TikTok"
+   },
+   "needUpgrade": {
+      "message": "חרגת ממגבלת החשבון בחינם, שדרג כדי להמשיך"
+   },
+   "nickName": {
+      "message": "כינוי"
+   },
+   "no": {
+      "message": "לא"
+   },
+   "noComments": {
+      "message": "לא נמצאו הערות"
+   },
+   "noTaskFound": {
+      "message": "לא נמצאה משימה"
+   },
+   "numOfComments": {
+      "message": "מספר ההערות שיוצאו"
+   },
+   "paddlePriceNote": {
+      "message": "המחירים מפורטים בדולר ארה\"ב. ייתכן שתראה את המטבע המקומי שלך בקופה, בהתאם למיקום שלך. עשוי לחול מע\"מ."
+   },
+   "pastDue": {
+      "message": "עבר מועד"
+   },
+   "pause": {
+      "message": "הַפסָקָה"
+   },
+   "permAlert": {
+      "message": "אנא אפשר להרשאות להמשיך"
+   },
+   "pinnedToTop": {
+      "message": "מוצמד למעלה"
+   },
+   "postID": {
+      "message": "מזהה פוסט"
+   },
+   "quarterly": {
+      "message": "רִבעוֹן"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} מחויב כל 3 חודשים"
+   },
+   "randomInterval": {
+      "message": "מרווח אקראי בשניות בין בקשות לאחזור הערות."
+   },
+   "replyCount": {
+      "message": "תשובה ספירה"
+   },
+   "replyToWhichComment": {
+      "message": "השב לאיזו תגובה"
+   },
+   "selectFormat": {
+      "message": "בחר את פורמט הייצוא."
+   },
+   "settings": {
+      "message": "הגדרות"
+   },
+   "signInAccount": {
+      "message": "תתחבר לחשבון שלך"
+   },
+   "signInFailure": {
+      "message": "ההרשמה נכשלה. אנא נסה שוב או פנה אלינו לקבלת עזרה."
+   },
+   "signInGoogle": {
+      "message": "היכנס באמצעות גוגל"
+   },
+   "signOut": {
+      "message": "התנתק"
+   },
+   "signedInAs": {
+      "message": "מחובר בתור"
+   },
+   "status": {
+      "message": "סטָטוּס"
+   },
+   "subsActiveHead": {
+      "message": "המנוי שלך פעיל"
+   },
+   "subsActiveMsg": {
+      "message": "המנוי שלך פעיל. הוא מתוכנן להתחדש ב-{{}}."
+   },
+   "subsCanceledHead": {
+      "message": "המנוי שלך בוטל"
+   },
+   "subsCanceledMsg": {
+      "message": "המנוי שלך בוטל. זה מתוכנן להסתיים ב-{{}}."
+   },
+   "subsExpiredHead": {
+      "message": "פג תוקף המנוי שלך"
+   },
+   "subsExpiredMsg": {
+      "message": "פג תוקף המנוי שלך."
+   },
+   "subsFreePlanMsg": {
+      "message": "אתה בתוכנית בחינם. אתה יכול לשדרג לתוכנית בתשלום בכל עת."
+   },
+   "subsPastDueHead": {
+      "message": "החשבונית שלך עברה את המועד"
+   },
+   "subsPastDueMsg": {
+      "message": "החשבונית שלך עברה את המועד. עדכן את אמצעי התשלום שלך."
+   },
+   "subsPausedHead": {
+      "message": "המנוי שלך מושהה"
+   },
+   "subsPausedMsg": {
+      "message": "המנוי שלך מושהה. באפשרותך לחדש או לבטל אותו בכל עת."
+   },
+   "subsUnpaidHead": {
+      "message": "החשבונית שלך לא שולמה"
+   },
+   "subsUnpaidMsg": {
+      "message": "החשבונית שלך לא שולמה. עדכן את אמצעי התשלום שלך."
+   },
+   "subscription": {
+      "message": "מִנוּי"
+   },
+   "taskLimitNote": {
+      "message": "נכון לעכשיו, רק 20 המשימות האחרונות יאוחסנו. הורד את הנתונים שלך לפני שהם יימחקו אוטומטית."
+   },
+   "ttLinkAlert": {
+      "message": "רק קישורי וידאו של TikTok נתמכים"
+   },
+   "ttLinkPlaceholder": {
+      "message": "הזן קישור לסרטון TikTok"
+   },
+   "type": {
+      "message": "סוּג"
+   },
+   "undoCancel": {
+      "message": "בטל ביטול"
+   },
+   "unexpectedError": {
+      "message": "שגיאה בלתי צפויה התרחשה. אנא נסה שוב או אל תהסס לפנות אלינו לקבלת סיוע."
+   },
+   "unlimited": {
+      "message": "ללא הגבלה"
+   },
+   "unpaid": {
+      "message": "ללא תשלום"
+   },
+   "updatePayment": {
+      "message": "עדכן תשלום"
+   },
+   "userHomepage": {
+      "message": "דף הבית של המשתמש"
+   },
+   "userID": {
+      "message": "זהות המשתמש"
+   },
+   "username": {
+      "message": "שם משתמש"
+   },
+   "videoID": {
+      "message": "מזהה וידאו"
+   },
+   "videoNotExist": {
+      "message": "הסרטון לא קיים."
+   },
+   "viewDetailedPricing": {
+      "message": "צפה בתכונות ותמחור מפורטות"
+   },
+   "yearly": {
+      "message": "שְׁנָתִי"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} מחויב בשנה, חסוך {{2}}"
+   },
+   "yes": {
+      "message": "כן"
+   }
+}

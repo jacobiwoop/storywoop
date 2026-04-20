@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "ንቁ"
+   },
+   "authorDigged": {
+      "message": "ደራሲ ተቆፍሯል።"
+   },
+   "buyNow": {
+      "message": "አሁን ግዛ"
+   },
+   "cancelSubs": {
+      "message": "የደንበኝነት ምዝገባን ሰርዝ"
+   },
+   "canceled": {
+      "message": "ተሰርዟል።"
+   },
+   "chunkDownloadNote": {
+      "message": "ለትልቅ የውሂብ ስብስቦች፣ የCSV ቅርጸት እንዲጠቀሙ እንመክራለን። የማውረድ ችግሮችን ለማስወገድ ውሂቡ በበርካታ ክፍሎች ይከፈላል."
+   },
+   "chunkSizeRows": {
+      "message": "ቁራጭ መጠን (ረድፎች)"
+   },
+   "comment": {
+      "message": "አስተያየት"
+   },
+   "commentID": {
+      "message": "የአስተያየት መታወቂያ"
+   },
+   "commentTime": {
+      "message": "የአስተያየት ጊዜ"
+   },
+   "commentsButtonNotFound": {
+      "message": "የአስተያየቶች አዝራሩን ማግኘት አልተቻለም። ለመቀጠል እባክዎ በእጅ ጠቅ ያድርጉት።"
+   },
+   "completed": {
+      "message": "ተጠናቀቀ"
+   },
+   "concurrentExport": {
+      "message": "በተመሳሳይ ወደ ውጭ መላክ"
+   },
+   "continue": {
+      "message": "ቀጥል"
+   },
+   "date": {
+      "message": "ቀን"
+   },
+   "delete": {
+      "message": "ሰርዝ"
+   },
+   "description": {
+      "message": "TikTok አስተያየቶችን ለመተንተን በCSV ወደ Excel ይላኩ።"
+   },
+   "diggCount": {
+      "message": "የዲግ ቆጠራ"
+   },
+   "discount25": {
+      "message": "ከሁሉም እቃዎች 25% ቅናሽ! የተወሰነ ጊዜ ቅናሽ።"
+   },
+   "download": {
+      "message": "አውርድ"
+   },
+   "downloadError": {
+      "message": "የማውረድ ስህተት፣ እባክዎ እንደገና ይሞክሩ ወይም ለእርዳታ ያነጋግሩን።"
+   },
+   "expired": {
+      "message": "ጊዜው አልፎበታል።"
+   },
+   "export": {
+      "message": "ወደ ውጪ ላክ"
+   },
+   "exportDone": {
+      "message": "በተሳካ ሁኔታ ወደ ውጭ ላክ"
+   },
+   "exportError": {
+      "message": "ስህተት ተከስቷል፣ እባክዎ እንደገና ይሞክሩ"
+   },
+   "exporting": {
+      "message": "ወደ ውጭ በመላክ ላይ..."
+   },
+   "extracted": {
+      "message": "የተወሰደ"
+   },
+   "faq": {
+      "message": "በየጥ"
+   },
+   "fetchSubsFailure": {
+      "message": "የደንበኝነት ምዝገባ ውሂብ ማግኘት አልተቻለም፣ እባክዎ እንደገና ይሞክሩ ወይም ለእርዳታ ያነጋግሩን።"
+   },
+   "findTTLink": {
+      "message": "የቲኪክ ቪዲዮ ማገናኛን እንዴት ማግኘት ይቻላል?"
+   },
+   "free": {
+      "message": "ፍርይ"
+   },
+   "freePlan": {
+      "message": "ነፃ እቅድ"
+   },
+   "goToPortal": {
+      "message": "ወደ ደንበኛ ፖርታል ይሂዱ"
+   },
+   "history": {
+      "message": "ታሪክ"
+   },
+   "home": {
+      "message": "ቤት"
+   },
+   "includeReply": {
+      "message": "የአስተያየት ምላሾችን ያካትቱ"
+   },
+   "includeReply1": {
+      "message": "ምላሾችን ያካትቱ"
+   },
+   "lemonPriceNote": {
+      "message": "ዋጋዎች በUSD ውስጥ ተዘርዝረዋል። በእርስዎ አካባቢ ላይ በመመስረት ተ.እ.ታ ሊተገበር ይችላል።"
+   },
+   "loading": {
+      "message": "በመጫን ላይ..."
+   },
+   "manageSubsAndBilling": {
+      "message": "የደንበኝነት ምዝገባዎን እና የሂሳብ አከፋፈልዎን በደንበኛ ፖርታል ውስጥ ማስተዳደር ይችላሉ።"
+   },
+   "month": {
+      "message": "ወር"
+   },
+   "monthly": {
+      "message": "ወርሃዊ"
+   },
+   "monthlyDesc": {
+      "message": "ለመሞከር ተስማሚ"
+   },
+   "name": {
+      "message": "TTCommentExporter - የቲክ ቶክ አስተያየቶችን ወደ ውጪ ላክ"
+   },
+   "needUpgrade": {
+      "message": "ነፃ የመለያ ገደብ ታልፏል፣ ለመቀጠል አሻሽል።"
+   },
+   "nickName": {
+      "message": "የኒክ ስም"
+   },
+   "no": {
+      "message": "አይ"
+   },
+   "noComments": {
+      "message": "ምንም አስተያየቶች አልተገኙም።"
+   },
+   "noTaskFound": {
+      "message": "ምንም ተግባር አልተገኘም።"
+   },
+   "numOfComments": {
+      "message": "ወደ ውጭ የተላኩ አስተያየቶች ብዛት"
+   },
+   "paddlePriceNote": {
+      "message": "ዋጋዎች በUSD ውስጥ ተዘርዝረዋል። እንደየአካባቢዎ መጠን በቼክ መውጫ ላይ የእርስዎን የአከባቢ ምንዛሬ ማየት ይችላሉ። ተ.እ.ታ ሊተገበር ይችላል።"
+   },
+   "pastDue": {
+      "message": "ቀኑ ያለፈ"
+   },
+   "pause": {
+      "message": "ለአፍታ አቁም"
+   },
+   "permAlert": {
+      "message": "እባክዎ ፈቃዶቹ እንዲቀጥሉ ይፍቀዱ"
+   },
+   "pinnedToTop": {
+      "message": "ወደ ላይ ተሰክቷል።"
+   },
+   "postID": {
+      "message": "የፖስታ መታወቂያ"
+   },
+   "quarterly": {
+      "message": "በየሩብ ዓመቱ"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} በየ3 ወሩ ይከፈላል።"
+   },
+   "randomInterval": {
+      "message": "አስተያየቶችን ለማምጣት በጥያቄዎች መካከል በሰከንዶች ውስጥ የዘፈቀደ ክፍተት።"
+   },
+   "replyCount": {
+      "message": "የምላሽ ብዛት"
+   },
+   "replyToWhichComment": {
+      "message": "ለየትኛው አስተያየት ምላሽ ይስጡ"
+   },
+   "selectFormat": {
+      "message": "ወደ ውጭ መላኪያ ቅርጸቱን ይምረጡ።"
+   },
+   "settings": {
+      "message": "ቅንብሮች"
+   },
+   "signInAccount": {
+      "message": "ወደ መለያዎ ይግቡ"
+   },
+   "signInFailure": {
+      "message": "መግባት አልተሳካም። እባክዎ እንደገና ይሞክሩ ወይም ለእርዳታ ያነጋግሩን።"
+   },
+   "signInGoogle": {
+      "message": "በGoogle ይግቡ"
+   },
+   "signOut": {
+      "message": "ዛግተ ውጣ"
+   },
+   "signedInAs": {
+      "message": "እንደ ገብቷል።"
+   },
+   "status": {
+      "message": "ሁኔታ"
+   },
+   "subsActiveHead": {
+      "message": "የደንበኝነት ምዝገባዎ ንቁ ነው።"
+   },
+   "subsActiveMsg": {
+      "message": "የደንበኝነት ምዝገባዎ ንቁ ነው። በ{{}} እንዲታደስ መርሐግብር ተይዞለታል።"
+   },
+   "subsCanceledHead": {
+      "message": "የደንበኝነት ምዝገባዎ ተሰርዟል።"
+   },
+   "subsCanceledMsg": {
+      "message": "የደንበኝነት ምዝገባዎ ተሰርዟል። በ{{}} እንዲጠናቀቅ መርሐግብር ተይዞለታል።"
+   },
+   "subsExpiredHead": {
+      "message": "የደንበኝነት ምዝገባዎ ጊዜው አልፎበታል።"
+   },
+   "subsExpiredMsg": {
+      "message": "የደንበኝነት ምዝገባዎ ጊዜው አልፎበታል።"
+   },
+   "subsFreePlanMsg": {
+      "message": "በነጻ እቅድ ላይ ነዎት። በማንኛውም ጊዜ ወደ የሚከፈልበት እቅድ ማሻሻል ይችላሉ።"
+   },
+   "subsPastDueHead": {
+      "message": "የክፍያ መጠየቂያዎ ጊዜው አልፎበታል።"
+   },
+   "subsPastDueMsg": {
+      "message": "የክፍያ መጠየቂያዎ ጊዜው አልፎበታል። እባክዎ የመክፈያ ዘዴዎን ያዘምኑ።"
+   },
+   "subsPausedHead": {
+      "message": "የደንበኝነት ምዝገባዎ ለአፍታ ቆሟል"
+   },
+   "subsPausedMsg": {
+      "message": "የደንበኝነት ምዝገባዎ ለአፍታ ቆሟል። በማንኛውም ጊዜ ከቆመበት መቀጠል ወይም መሰረዝ ይችላሉ።"
+   },
+   "subsUnpaidHead": {
+      "message": "ደረሰኝዎ ያልተከፈለ ነው።"
+   },
+   "subsUnpaidMsg": {
+      "message": "ደረሰኝዎ ያልተከፈለ ነው። እባክዎ የመክፈያ ዘዴዎን ያዘምኑ።"
+   },
+   "subscription": {
+      "message": "የደንበኝነት ምዝገባ"
+   },
+   "taskLimitNote": {
+      "message": "በአሁኑ ጊዜ የቅርብ ጊዜዎቹ 20 ተግባራት ብቻ ይከማቻሉ። እባክህ ውሂብህን በራስ ሰር ከመሰረዙ በፊት አውርድ።"
+   },
+   "ttLinkAlert": {
+      "message": "የTikTok ቪዲዮ ማገናኛዎች ብቻ ናቸው የሚደገፉት"
+   },
+   "ttLinkPlaceholder": {
+      "message": "የTikTok ቪዲዮ ማገናኛ ያስገቡ"
+   },
+   "type": {
+      "message": "ዓይነት"
+   },
+   "undoCancel": {
+      "message": "ስረዛን ቀልብስ"
+   },
+   "unexpectedError": {
+      "message": "ያልተጠበቀ ስህተት ተፈጥሯል። እባክዎ እንደገና ይሞክሩ ወይም ለእርዳታ እኛን ለማግኘት ነፃነት ይሰማዎ።"
+   },
+   "unlimited": {
+      "message": "ያልተገደበ"
+   },
+   "unpaid": {
+      "message": "ያልተከፈለ"
+   },
+   "updatePayment": {
+      "message": "ክፍያን አዘምን"
+   },
+   "userHomepage": {
+      "message": "የተጠቃሚ መነሻ ገጽ"
+   },
+   "userID": {
+      "message": "የተጠቃሚው መለያ"
+   },
+   "username": {
+      "message": "የተጠቃሚ ስም"
+   },
+   "videoID": {
+      "message": "የቪዲዮ መታወቂያ"
+   },
+   "videoNotExist": {
+      "message": "ቪዲዮው የለም።"
+   },
+   "viewDetailedPricing": {
+      "message": "ዝርዝር ባህሪያትን እና የዋጋ አሰጣጥን ይመልከቱ"
+   },
+   "yearly": {
+      "message": "በየአመቱ"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} በየአመቱ የሚከፈል፣ {{2}} ይቆጥቡ"
+   },
+   "yes": {
+      "message": "አዎ"
+   }
+}

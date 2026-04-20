@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktívne"
+   },
+   "authorDigged": {
+      "message": "Autor Digged"
+   },
+   "buyNow": {
+      "message": "Kúpte teraz"
+   },
+   "cancelSubs": {
+      "message": "Zrušiť predplatné"
+   },
+   "canceled": {
+      "message": "Zrušené"
+   },
+   "chunkDownloadNote": {
+      "message": "Pre veľké súbory údajov odporúčame použiť formát CSV. Dáta budú rozdelené do viacerých častí, aby sa predišlo problémom so sťahovaním."
+   },
+   "chunkSizeRows": {
+      "message": "Veľkosť bloku (riadky)"
+   },
+   "comment": {
+      "message": "Komentujte"
+   },
+   "commentID": {
+      "message": "ID komentára"
+   },
+   "commentTime": {
+      "message": "Čas komentára"
+   },
+   "commentsButtonNotFound": {
+      "message": "Nepodarilo sa nájsť tlačidlo komentárov. Ak chcete pokračovať, kliknite naň manuálne."
+   },
+   "completed": {
+      "message": "Dokončené"
+   },
+   "concurrentExport": {
+      "message": "Súbežný export"
+   },
+   "continue": {
+      "message": "ďalej"
+   },
+   "date": {
+      "message": "Dátum"
+   },
+   "delete": {
+      "message": "Odstrániť"
+   },
+   "description": {
+      "message": "Exportujte komentáre TikTok do Excelu vo formáte CSV na analýzu."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% zľava na všetok tovar! Dočasná ponuka."
+   },
+   "download": {
+      "message": "Stiahnuť ▼"
+   },
+   "downloadError": {
+      "message": "Chyba sťahovania, skúste to znova alebo nás kontaktujte so žiadosťou o pomoc."
+   },
+   "expired": {
+      "message": "Platnosť vypršala"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "exportDone": {
+      "message": "Export bol úspešný"
+   },
+   "exportError": {
+      "message": "Vyskytla sa chyba, skúste to znova"
+   },
+   "exporting": {
+      "message": "Exportuje sa..."
+   },
+   "extracted": {
+      "message": "Extrahované"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Nie je možné získať údaje o odbere, skúste to znova alebo nás kontaktujte so žiadosťou o pomoc."
+   },
+   "findTTLink": {
+      "message": "Ako nájsť odkaz na video TikTok?"
+   },
+   "free": {
+      "message": "zadarmo"
+   },
+   "freePlan": {
+      "message": "Voľný plán"
+   },
+   "goToPortal": {
+      "message": "Prejdite na zákaznícky portál"
+   },
+   "history": {
+      "message": "História"
+   },
+   "home": {
+      "message": "Domov"
+   },
+   "includeReply": {
+      "message": "Zahrňte odpovede na komentáre"
+   },
+   "includeReply1": {
+      "message": "Zahrnúť odpovede"
+   },
+   "lemonPriceNote": {
+      "message": "Ceny sú uvedené v USD. V závislosti od vašej lokality sa môže vzťahovať DPH."
+   },
+   "loading": {
+      "message": "Načítava..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Svoje predplatné a fakturáciu môžete spravovať na zákazníckom portáli."
+   },
+   "month": {
+      "message": "mesiac"
+   },
+   "monthly": {
+      "message": "Mesačne"
+   },
+   "monthlyDesc": {
+      "message": "Vhodné na vyskúšanie"
+   },
+   "name": {
+      "message": "TTCommentExporter - Export komentárov TikTok"
+   },
+   "needUpgrade": {
+      "message": "Bol prekročený limit bezplatného účtu. Ak chcete pokračovať, inovujte"
+   },
+   "nickName": {
+      "message": "Nick Name"
+   },
+   "no": {
+      "message": "Nie"
+   },
+   "noComments": {
+      "message": "Nenašli sa žiadne komentáre"
+   },
+   "noTaskFound": {
+      "message": "Nenašla sa žiadna úloha"
+   },
+   "numOfComments": {
+      "message": "Počet exportovaných komentárov"
+   },
+   "paddlePriceNote": {
+      "message": "Ceny sú uvedené v USD. V závislosti od vašej polohy môžete pri pokladni vidieť svoju miestnu menu. Môže sa uplatniť DPH."
+   },
+   "pastDue": {
+      "message": "Splatnosti"
+   },
+   "pause": {
+      "message": "Pauza"
+   },
+   "permAlert": {
+      "message": "Povoľte povolenia pokračovať"
+   },
+   "pinnedToTop": {
+      "message": "Pripnuté navrch"
+   },
+   "postID": {
+      "message": "ID príspevku"
+   },
+   "quarterly": {
+      "message": "Štvrťročne"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} fakturované každé 3 mesiace"
+   },
+   "randomInterval": {
+      "message": "Náhodný interval v sekundách medzi žiadosťami o načítanie komentárov."
+   },
+   "replyCount": {
+      "message": "Počet odpovedí"
+   },
+   "replyToWhichComment": {
+      "message": "Odpovedať na ktorý komentár"
+   },
+   "selectFormat": {
+      "message": "Vyberte formát exportu."
+   },
+   "settings": {
+      "message": "nastavenie"
+   },
+   "signInAccount": {
+      "message": "Prihláste sa do svojho účtu"
+   },
+   "signInFailure": {
+      "message": "Prihlásenie zlyhalo. Skúste to znova alebo nás kontaktujte so žiadosťou o pomoc."
+   },
+   "signInGoogle": {
+      "message": "Prihláste sa pomocou Google"
+   },
+   "signOut": {
+      "message": "Odhlásiť Sa"
+   },
+   "signedInAs": {
+      "message": "Prihlásený ako"
+   },
+   "status": {
+      "message": "Postavenie"
+   },
+   "subsActiveHead": {
+      "message": "Vaše predplatné je aktívne"
+   },
+   "subsActiveMsg": {
+      "message": "Vaše predplatné je aktívne. Jeho obnovenie je naplánované na {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Vaše predplatné je zrušené"
+   },
+   "subsCanceledMsg": {
+      "message": "Vaše predplatné je zrušené. Ukončenie je naplánované na {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Platnosť vášho predplatného vypršala"
+   },
+   "subsExpiredMsg": {
+      "message": "Platnosť vášho predplatného vypršala."
+   },
+   "subsFreePlanMsg": {
+      "message": "Máte bezplatný plán. Kedykoľvek môžete prejsť na platený plán."
+   },
+   "subsPastDueHead": {
+      "message": "Vaša faktúra je po splatnosti"
+   },
+   "subsPastDueMsg": {
+      "message": "Vaša faktúra je po splatnosti. Aktualizujte svoj spôsob platby."
+   },
+   "subsPausedHead": {
+      "message": "Vaše predplatné je pozastavené"
+   },
+   "subsPausedMsg": {
+      "message": "Vaše predplatné je pozastavené. Môžete ho kedykoľvek obnoviť alebo zrušiť."
+   },
+   "subsUnpaidHead": {
+      "message": "Vaša faktúra je nezaplatená"
+   },
+   "subsUnpaidMsg": {
+      "message": "Vaša faktúra je nezaplatená. Aktualizujte svoj spôsob platby."
+   },
+   "subscription": {
+      "message": "Predplatné"
+   },
+   "taskLimitNote": {
+      "message": "V súčasnosti bude uložených iba posledných 20 úloh. Pred automatickým odstránením si stiahnite svoje údaje."
+   },
+   "ttLinkAlert": {
+      "message": "Podporované sú iba odkazy na video TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Zadajte odkaz na video TikTok"
+   },
+   "type": {
+      "message": "Typ"
+   },
+   "undoCancel": {
+      "message": "Zrušiť zrušenie"
+   },
+   "unexpectedError": {
+      "message": "Nastala neočakávaná chyba. Skúste to znova alebo nás neváhajte kontaktovať so žiadosťou o pomoc."
+   },
+   "unlimited": {
+      "message": "Neobmedzené"
+   },
+   "unpaid": {
+      "message": "Nezaplatené"
+   },
+   "updatePayment": {
+      "message": "Aktualizovať platbu"
+   },
+   "userHomepage": {
+      "message": "Domovská stránka používateľa"
+   },
+   "userID": {
+      "message": "ID používateľa"
+   },
+   "username": {
+      "message": "Používateľské meno"
+   },
+   "videoID": {
+      "message": "ID videa"
+   },
+   "videoNotExist": {
+      "message": "Video neexistuje."
+   },
+   "viewDetailedPricing": {
+      "message": "Zobraziť podrobné funkcie a ceny"
+   },
+   "yearly": {
+      "message": "Ročne"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} fakturované ročne, ušetríte {{2}}"
+   },
+   "yes": {
+      "message": "Áno"
+   }
+}

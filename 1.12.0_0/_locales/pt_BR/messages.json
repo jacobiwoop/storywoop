@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Ativo"
+   },
+   "authorDigged": {
+      "message": "Autor escavado"
+   },
+   "buyNow": {
+      "message": "Comprar agora"
+   },
+   "cancelSubs": {
+      "message": "Cancelar assinatura"
+   },
+   "canceled": {
+      "message": "Cancelado"
+   },
+   "chunkDownloadNote": {
+      "message": "Para conjuntos de dados grandes, recomendamos o uso do formato CSV. Os dados serão divididos em vários blocos para evitar problemas de download."
+   },
+   "chunkSizeRows": {
+      "message": "Tamanho do bloco (linhas)"
+   },
+   "comment": {
+      "message": "Comente"
+   },
+   "commentID": {
+      "message": "ID do comentário"
+   },
+   "commentTime": {
+      "message": "Hora dos comentários"
+   },
+   "commentsButtonNotFound": {
+      "message": "Não foi possível encontrar o botão de comentários. Clique nele manualmente para continuar."
+   },
+   "completed": {
+      "message": "Concluído"
+   },
+   "concurrentExport": {
+      "message": "Exportação simultânea"
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "delete": {
+      "message": "Excluir"
+   },
+   "description": {
+      "message": "Exporte comentários do TikTok para Excel em CSV para análise."
+   },
+   "diggCount": {
+      "message": "Contagem Digg"
+   },
+   "discount25": {
+      "message": "25% de desconto em todos os itens! Tempo limitado de oferta."
+   },
+   "download": {
+      "message": "Download"
+   },
+   "downloadError": {
+      "message": "Erro de download, tente novamente ou entre em contato conosco para obter ajuda."
+   },
+   "expired": {
+      "message": "Expirado"
+   },
+   "export": {
+      "message": "Exportar"
+   },
+   "exportDone": {
+      "message": "Exportação com sucesso"
+   },
+   "exportError": {
+      "message": "Ocorreu um erro. Por favor, tente novamente"
+   },
+   "exporting": {
+      "message": "Exportador..."
+   },
+   "extracted": {
+      "message": "Extraído"
+   },
+   "faq": {
+      "message": "Perguntas frequentes"
+   },
+   "fetchSubsFailure": {
+      "message": "Não foi possível obter os dados da assinatura. Tente novamente ou entre em contato conosco para obter ajuda."
+   },
+   "findTTLink": {
+      "message": "Como encontrar o link do vídeo TikTok?"
+   },
+   "free": {
+      "message": "Livre"
+   },
+   "freePlan": {
+      "message": "Plano Gratuito"
+   },
+   "goToPortal": {
+      "message": "Acesse o Portal do Cliente"
+   },
+   "history": {
+      "message": "História"
+   },
+   "home": {
+      "message": "Lar"
+   },
+   "includeReply": {
+      "message": "Incluir respostas de comentários"
+   },
+   "includeReply1": {
+      "message": "Incluir respostas"
+   },
+   "lemonPriceNote": {
+      "message": "Os preços estão listados em dólares americanos. O IVA pode ser aplicado dependendo da sua localização."
+   },
+   "loading": {
+      "message": "Carregando..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Você pode gerenciar sua assinatura e cobrança no Portal do Cliente."
+   },
+   "month": {
+      "message": "mês"
+   },
+   "monthly": {
+      "message": "Por mês"
+   },
+   "monthlyDesc": {
+      "message": "Adequado para experimentar"
+   },
+   "name": {
+      "message": "TTCommentExporter - Exportar comentários do TikTok"
+   },
+   "needUpgrade": {
+      "message": "Limite de conta gratuita excedido, atualize para continuar"
+   },
+   "nickName": {
+      "message": "Apelido"
+   },
+   "no": {
+      "message": "Não"
+   },
+   "noComments": {
+      "message": "Nenhum comentário encontrado"
+   },
+   "noTaskFound": {
+      "message": "Nenhuma tarefa encontrada"
+   },
+   "numOfComments": {
+      "message": "Número de comentários exportados"
+   },
+   "paddlePriceNote": {
+      "message": "Os preços estão listados em dólares americanos. Você poderá ver sua moeda local na finalização da compra, dependendo de sua localização. O IVA pode ser aplicado."
+   },
+   "pastDue": {
+      "message": "Vencido"
+   },
+   "pause": {
+      "message": "Pausa"
+   },
+   "permAlert": {
+      "message": "Por favor, conceda as permissões para continuar"
+   },
+   "pinnedToTop": {
+      "message": "Fixado no topo"
+   },
+   "postID": {
+      "message": "ID da postagem"
+   },
+   "quarterly": {
+      "message": "Trimestral"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} cobrado a cada 3 meses"
+   },
+   "randomInterval": {
+      "message": "Intervalo aleatório em segundos entre solicitações de busca de comentários."
+   },
+   "replyCount": {
+      "message": "Contagem de respostas"
+   },
+   "replyToWhichComment": {
+      "message": "Responder a qual comentário"
+   },
+   "selectFormat": {
+      "message": "Selecione o formato de exportação."
+   },
+   "settings": {
+      "message": "Configurações"
+   },
+   "signInAccount": {
+      "message": "Faça login em sua conta"
+   },
+   "signInFailure": {
+      "message": "A entrada falhou. Tente novamente ou entre em contato conosco para obter ajuda."
+   },
+   "signInGoogle": {
+      "message": "Faça login no Google"
+   },
+   "signOut": {
+      "message": "sair"
+   },
+   "signedInAs": {
+      "message": "Assinado como"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subsActiveHead": {
+      "message": "Sua assinatura está ativa"
+   },
+   "subsActiveMsg": {
+      "message": "Sua assinatura está ativa. A renovação está programada para {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Sua assinatura foi cancelada"
+   },
+   "subsCanceledMsg": {
+      "message": "Sua assinatura foi cancelada. Está programado para terminar em {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Sua assinatura expirou"
+   },
+   "subsExpiredMsg": {
+      "message": "Sua assinatura expirou."
+   },
+   "subsFreePlanMsg": {
+      "message": "Você está em um plano gratuito. Você pode atualizar para um plano pago a qualquer momento."
+   },
+   "subsPastDueHead": {
+      "message": "Sua fatura está vencida"
+   },
+   "subsPastDueMsg": {
+      "message": "Sua fatura está vencida. Atualize sua forma de pagamento."
+   },
+   "subsPausedHead": {
+      "message": "Sua assinatura está pausada."
+   },
+   "subsPausedMsg": {
+      "message": "Sua assinatura está pausada. Você pode reativá-la ou cancelá-la a qualquer momento."
+   },
+   "subsUnpaidHead": {
+      "message": "Sua fatura não foi paga"
+   },
+   "subsUnpaidMsg": {
+      "message": "Sua fatura não foi paga. Atualize sua forma de pagamento."
+   },
+   "subscription": {
+      "message": "Inscrição"
+   },
+   "taskLimitNote": {
+      "message": "Atualmente, apenas as últimas 20 tarefas serão armazenadas. Baixe seus dados antes que eles sejam excluídos automaticamente."
+   },
+   "ttLinkAlert": {
+      "message": "Apenas links de vídeo do TikTok são suportados"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Insira um link de vídeo TikTok"
+   },
+   "type": {
+      "message": "Tipo"
+   },
+   "undoCancel": {
+      "message": "Desfazer cancelamento"
+   },
+   "unexpectedError": {
+      "message": "Ocorreu um erro inesperado. Tente novamente ou sinta-se à vontade para entrar em contato conosco para obter assistência."
+   },
+   "unlimited": {
+      "message": "Ilimitado"
+   },
+   "unpaid": {
+      "message": "Não pago"
+   },
+   "updatePayment": {
+      "message": "Atualizar pagamento"
+   },
+   "userHomepage": {
+      "message": "Página inicial do usuário"
+   },
+   "userID": {
+      "message": "ID do usuário"
+   },
+   "username": {
+      "message": "Nome de usuário"
+   },
+   "videoID": {
+      "message": "ID do vídeo"
+   },
+   "videoNotExist": {
+      "message": "O vídeo não existe."
+   },
+   "viewDetailedPricing": {
+      "message": "Ver recursos detalhados e preços"
+   },
+   "yearly": {
+      "message": "Anual"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} faturado anualmente, economize {{2}}"
+   },
+   "yes": {
+      "message": "Sim"
+   }
+}

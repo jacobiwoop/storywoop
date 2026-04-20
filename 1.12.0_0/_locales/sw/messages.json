@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Inayotumika"
+   },
+   "authorDigged": {
+      "message": "Mwandishi Digged"
+   },
+   "buyNow": {
+      "message": "Nunua Sasa"
+   },
+   "cancelSubs": {
+      "message": "Ghairi Usajili"
+   },
+   "canceled": {
+      "message": "Imeghairiwa"
+   },
+   "chunkDownloadNote": {
+      "message": "Kwa seti kubwa za data, tunapendekeza utumie umbizo la CSV. Data itagawanywa katika vipande vingi ili kuepuka matatizo ya upakuaji."
+   },
+   "chunkSizeRows": {
+      "message": "Ukubwa wa chunk (safu)"
+   },
+   "comment": {
+      "message": "Maoni"
+   },
+   "commentID": {
+      "message": "Kitambulisho cha maoni"
+   },
+   "commentTime": {
+      "message": "Muda wa Maoni"
+   },
+   "commentsButtonNotFound": {
+      "message": "Haikuweza kupata kitufe cha maoni. Tafadhali kibofye mwenyewe ili kuendelea."
+   },
+   "completed": {
+      "message": "Imekamilika"
+   },
+   "concurrentExport": {
+      "message": "Usafirishaji wa wakati mmoja"
+   },
+   "continue": {
+      "message": "Endelea"
+   },
+   "date": {
+      "message": "Tarehe"
+   },
+   "delete": {
+      "message": "Futa"
+   },
+   "description": {
+      "message": "Hamisha maoni ya TikTok kwa Excel katika CSV kwa uchanganuzi."
+   },
+   "diggCount": {
+      "message": "Hesabu ya Digg"
+   },
+   "discount25": {
+      "message": "Punguzo la 25% kwa bidhaa zote! Ofa ya muda mfupi."
+   },
+   "download": {
+      "message": "Pakua"
+   },
+   "downloadError": {
+      "message": "Hitilafu ya kupakua, tafadhali jaribu tena au wasiliana nasi kwa usaidizi."
+   },
+   "expired": {
+      "message": "Muda wake umeisha"
+   },
+   "export": {
+      "message": "Hamisha"
+   },
+   "exportDone": {
+      "message": "Hamisha"
+   },
+   "exportError": {
+      "message": "Hitilafu imetokea, tafadhali jaribu tena"
+   },
+   "exporting": {
+      "message": "Inahamisha..."
+   },
+   "extracted": {
+      "message": "Imetolewa"
+   },
+   "faq": {
+      "message": "Maswali Yanayoulizwa Mara kwa Mara"
+   },
+   "fetchSubsFailure": {
+      "message": "Imeshindwa kupata data ya usajili, tafadhali jaribu tena au uwasiliane nasi kwa usaidizi."
+   },
+   "findTTLink": {
+      "message": "Jinsi ya kupata kiunga cha video cha TikTok?"
+   },
+   "free": {
+      "message": "Bure"
+   },
+   "freePlan": {
+      "message": "Mpango wa Bure"
+   },
+   "goToPortal": {
+      "message": "Nenda kwenye Tovuti ya Wateja"
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "home": {
+      "message": "Nyumbani"
+   },
+   "includeReply": {
+      "message": "Jumuisha majibu ya maoni"
+   },
+   "includeReply1": {
+      "message": "Jumuisha majibu"
+   },
+   "lemonPriceNote": {
+      "message": "Bei zimeorodheshwa katika USD. VAT inaweza kutumika kulingana na eneo lako."
+   },
+   "loading": {
+      "message": "Inapakia..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Unaweza kudhibiti usajili wako na malipo katika Tovuti ya Wateja."
+   },
+   "month": {
+      "message": "mwezi"
+   },
+   "monthly": {
+      "message": "Kila mwezi"
+   },
+   "monthlyDesc": {
+      "message": "Inafaa kwa kujaribu"
+   },
+   "name": {
+      "message": "TTCommentExporter - Hamisha Maoni ya TikTok"
+   },
+   "needUpgrade": {
+      "message": "Kikomo cha akaunti bila malipo kimepitwa, pata toleo jipya zaidi ili uendelee"
+   },
+   "nickName": {
+      "message": "Jina la Nick"
+   },
+   "no": {
+      "message": "Hapana"
+   },
+   "noComments": {
+      "message": "Hakuna maoni yaliyopatikana"
+   },
+   "noTaskFound": {
+      "message": "Hakuna jukumu lililopatikana"
+   },
+   "numOfComments": {
+      "message": "Idadi ya maoni yaliyohamishwa"
+   },
+   "paddlePriceNote": {
+      "message": "Bei zimeorodheshwa katika USD. Unaweza kuona sarafu ya eneo lako wakati wa kulipa, kulingana na eneo lako. VAT inaweza kutumika."
+   },
+   "pastDue": {
+      "message": "Malipo Iliyopita"
+   },
+   "pause": {
+      "message": "Sitisha"
+   },
+   "permAlert": {
+      "message": "Tafadhali ruhusu ruhusa ziendelee"
+   },
+   "pinnedToTop": {
+      "message": "Imebandikwa Juu"
+   },
+   "postID": {
+      "message": "Kitambulisho cha posta"
+   },
+   "quarterly": {
+      "message": "Kila robo"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} hutozwa kila baada ya miezi 3"
+   },
+   "randomInterval": {
+      "message": "Muda wa nasibu katika sekunde kati ya maombi ya kuleta maoni."
+   },
+   "replyCount": {
+      "message": "Jibu Hesabu"
+   },
+   "replyToWhichComment": {
+      "message": "Jibu Maoni Yapi"
+   },
+   "selectFormat": {
+      "message": "Chagua umbizo la kuhamisha."
+   },
+   "settings": {
+      "message": "Mipangilio"
+   },
+   "signInAccount": {
+      "message": "Ingia kwenye akaunti yako"
+   },
+   "signInFailure": {
+      "message": "Kuingia kumeshindwa. Tafadhali jaribu tena au wasiliana nasi kwa usaidizi."
+   },
+   "signInGoogle": {
+      "message": "Ingia kwa kutumia Google"
+   },
+   "signOut": {
+      "message": "Toka"
+   },
+   "signedInAs": {
+      "message": "Umeingia kama"
+   },
+   "status": {
+      "message": "Hali"
+   },
+   "subsActiveHead": {
+      "message": "Usajili wako unatumika"
+   },
+   "subsActiveMsg": {
+      "message": "Usajili wako unatumika. Imeratibiwa kusasishwa mnamo {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Usajili wako umeghairiwa"
+   },
+   "subsCanceledMsg": {
+      "message": "Usajili wako umeghairiwa. Imeratibiwa kumalizika tarehe {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Usajili wako umekwisha"
+   },
+   "subsExpiredMsg": {
+      "message": "Usajili wako umekwisha."
+   },
+   "subsFreePlanMsg": {
+      "message": "Uko kwenye mpango usiolipishwa. Unaweza kupata mpango unaolipwa wakati wowote."
+   },
+   "subsPastDueHead": {
+      "message": "Ankara yako imeisha"
+   },
+   "subsPastDueMsg": {
+      "message": "Ankara yako imeisha. Tafadhali sasisha njia yako ya kulipa."
+   },
+   "subsPausedHead": {
+      "message": "Usajili wako umesitishwa"
+   },
+   "subsPausedMsg": {
+      "message": "Usajili wako umesitishwa. Unaweza kuendelea au kughairi wakati wowote."
+   },
+   "subsUnpaidHead": {
+      "message": "Ankara yako haijalipwa"
+   },
+   "subsUnpaidMsg": {
+      "message": "Ankara yako haijalipwa. Tafadhali sasisha njia yako ya kulipa."
+   },
+   "subscription": {
+      "message": "Usajili"
+   },
+   "taskLimitNote": {
+      "message": "Kwa sasa, ni kazi 20 pekee ndizo zitahifadhiwa. Tafadhali pakua data yako kabla ya kufutwa kiotomatiki."
+   },
+   "ttLinkAlert": {
+      "message": "Viungo vya video vya TikTok pekee ndivyo vinavyotumika"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Ingiza kiungo cha video cha TikTok"
+   },
+   "type": {
+      "message": "Aina"
+   },
+   "undoCancel": {
+      "message": "Tendua Kughairi"
+   },
+   "unexpectedError": {
+      "message": "Hitilafu isiyotarajiwa imetokea. Tafadhali jaribu tena au jisikie huru kuwasiliana nasi kwa usaidizi."
+   },
+   "unlimited": {
+      "message": "Bila kikomo"
+   },
+   "unpaid": {
+      "message": "Haijalipwa"
+   },
+   "updatePayment": {
+      "message": "Sasisha Malipo"
+   },
+   "userHomepage": {
+      "message": "Ukurasa wa Nyumbani wa Mtumiaji"
+   },
+   "userID": {
+      "message": "Kitambulisho cha Mtumiaji"
+   },
+   "username": {
+      "message": "Jina la mtumiaji"
+   },
+   "videoID": {
+      "message": "Kitambulisho cha Video"
+   },
+   "videoNotExist": {
+      "message": "Video haipo."
+   },
+   "viewDetailedPricing": {
+      "message": "Angalia huduma za kina na bei"
+   },
+   "yearly": {
+      "message": "Kila mwaka"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} hutozwa kila mwaka, hifadhi {{2}}"
+   },
+   "yes": {
+      "message": "Ndiyo"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "نشيط"
+   },
+   "authorDigged": {
+      "message": "حفر المؤلف"
+   },
+   "buyNow": {
+      "message": "اشتري الآن"
+   },
+   "cancelSubs": {
+      "message": "إلغاء الاشتراك"
+   },
+   "canceled": {
+      "message": "ألغيت"
+   },
+   "chunkDownloadNote": {
+      "message": "بالنسبة لمجموعات البيانات الكبيرة، نوصي باستخدام صيغة CSV. سيتم تقسيم البيانات إلى عدة أجزاء لتجنب مشاكل التنزيل."
+   },
+   "chunkSizeRows": {
+      "message": "حجم القطعة (الصفوف)"
+   },
+   "comment": {
+      "message": "تعليق"
+   },
+   "commentID": {
+      "message": "معرف التعليق"
+   },
+   "commentTime": {
+      "message": "وقت التعليق"
+   },
+   "commentsButtonNotFound": {
+      "message": "لم أجد زر التعليقات. يرجى النقر عليه يدويًا للمتابعة."
+   },
+   "completed": {
+      "message": "مكتمل"
+   },
+   "concurrentExport": {
+      "message": "التصدير المتزامن"
+   },
+   "continue": {
+      "message": "يكمل"
+   },
+   "date": {
+      "message": "تاريخ"
+   },
+   "delete": {
+      "message": "يمسح"
+   },
+   "description": {
+      "message": "قم بتصدير تعليقات TikTok إلى Excel بتنسيق CSV لتحليلها."
+   },
+   "diggCount": {
+      "message": "عدد الحفر"
+   },
+   "discount25": {
+      "message": "خصم 25% على جميع العناصر! عرض لوقت محدود."
+   },
+   "download": {
+      "message": "تحميل"
+   },
+   "downloadError": {
+      "message": "حدث خطأ أثناء التنزيل، يرجى المحاولة مرة أخرى أو الاتصال بنا للحصول على المساعدة."
+   },
+   "expired": {
+      "message": "منتهي الصلاحية"
+   },
+   "export": {
+      "message": "يصدّر"
+   },
+   "exportDone": {
+      "message": "تم التصدير بنجاح"
+   },
+   "exportError": {
+      "message": "حدث خطأ، يرجى المحاولة مرة أخرى"
+   },
+   "exporting": {
+      "message": "جارٍ التصدير..."
+   },
+   "extracted": {
+      "message": "مستخرج"
+   },
+   "faq": {
+      "message": "التعليمات"
+   },
+   "fetchSubsFailure": {
+      "message": "تعذر الحصول على بيانات الاشتراك، يرجى إعادة المحاولة أو الاتصال بنا للحصول على المساعدة."
+   },
+   "findTTLink": {
+      "message": "كيف تجد رابط فيديو TikTok؟"
+   },
+   "free": {
+      "message": "حر"
+   },
+   "freePlan": {
+      "message": "خطة مجانية"
+   },
+   "goToPortal": {
+      "message": "انتقل إلى بوابة العملاء"
+   },
+   "history": {
+      "message": "تاريخ"
+   },
+   "home": {
+      "message": "بيت"
+   },
+   "includeReply": {
+      "message": "تضمين ردود التعليق"
+   },
+   "includeReply1": {
+      "message": "تضمين الردود"
+   },
+   "lemonPriceNote": {
+      "message": "الأسعار مدرجة بالدولار الأمريكي. قد يتم تطبيق ضريبة القيمة المضافة حسب موقعك."
+   },
+   "loading": {
+      "message": "تحميل..."
+   },
+   "manageSubsAndBilling": {
+      "message": "يمكنك إدارة اشتراكك وفواتيرك في بوابة العملاء."
+   },
+   "month": {
+      "message": "شهر"
+   },
+   "monthly": {
+      "message": "شهريا"
+   },
+   "monthlyDesc": {
+      "message": "مناسبة للتجربة"
+   },
+   "name": {
+      "message": "TTCommentExporter - تصدير تعليقات TikTok"
+   },
+   "needUpgrade": {
+      "message": "تم تجاوز الحد الأقصى للحساب المجاني، قم بالترقية للمتابعة"
+   },
+   "nickName": {
+      "message": "كنية"
+   },
+   "no": {
+      "message": "لا"
+   },
+   "noComments": {
+      "message": "لم يتم العثور على تعليقات"
+   },
+   "noTaskFound": {
+      "message": "لم يتم العثور على مهمة"
+   },
+   "numOfComments": {
+      "message": "عدد التعليقات المصدرة"
+   },
+   "paddlePriceNote": {
+      "message": "الأسعار مدرجة بالدولار الأمريكي. قد ترى عملتك المحلية عند الخروج، اعتمادًا على موقعك. قد يتم تطبيق ضريبة القيمة المضافة."
+   },
+   "pastDue": {
+      "message": "تاريخ الاستحقاق الماضي"
+   },
+   "pause": {
+      "message": "يوقف"
+   },
+   "permAlert": {
+      "message": "يرجى السماح للأذونات بالمتابعة"
+   },
+   "pinnedToTop": {
+      "message": "مثبت في الأعلى"
+   },
+   "postID": {
+      "message": "بعد معرف"
+   },
+   "quarterly": {
+      "message": "ربعي"
+   },
+   "quarterlyDesc": {
+      "message": "يتم إصدار فاتورة بقيمة {{}} كل 3 أشهر"
+   },
+   "randomInterval": {
+      "message": "الفاصل الزمني العشوائي بالثواني بين طلبات جلب التعليقات."
+   },
+   "replyCount": {
+      "message": "عدد الردود"
+   },
+   "replyToWhichComment": {
+      "message": "الرد على أي تعليق"
+   },
+   "selectFormat": {
+      "message": "حدد تنسيق التصدير."
+   },
+   "settings": {
+      "message": "إعدادات"
+   },
+   "signInAccount": {
+      "message": "تسجيل الدخول إلى حسابك"
+   },
+   "signInFailure": {
+      "message": "فشل تسجيل الدخول. يرجى إعادة المحاولة أو الاتصال بنا للحصول على المساعدة."
+   },
+   "signInGoogle": {
+      "message": "الدخول مع جوجل"
+   },
+   "signOut": {
+      "message": "خروج"
+   },
+   "signedInAs": {
+      "message": "وقعت في مثل"
+   },
+   "status": {
+      "message": "حالة"
+   },
+   "subsActiveHead": {
+      "message": "اشتراكك نشط"
+   },
+   "subsActiveMsg": {
+      "message": "اشتراكك نشط. ومن المقرر أن يتم تجديده في {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "تم إلغاء اشتراكك"
+   },
+   "subsCanceledMsg": {
+      "message": "تم إلغاء اشتراكك. ومن المقرر أن تنتهي في {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "لقد انتهت صلاحية اشتراكك"
+   },
+   "subsExpiredMsg": {
+      "message": "لقد انتهت صلاحية اشتراكك."
+   },
+   "subsFreePlanMsg": {
+      "message": "أنت على خطة مجانية. يمكنك الترقية إلى خطة مدفوعة في أي وقت."
+   },
+   "subsPastDueHead": {
+      "message": "فاتورتك قد تجاوزت موعد استحقاقها"
+   },
+   "subsPastDueMsg": {
+      "message": "فاتورتك قد تجاوزت موعد استحقاقها. يرجى تحديث طريقة الدفع الخاصة بك."
+   },
+   "subsPausedHead": {
+      "message": "تم إيقاف اشتراكك مؤقتًا"
+   },
+   "subsPausedMsg": {
+      "message": "تم إيقاف اشتراكك مؤقتًا. يمكنك استئنافه أو إلغاؤه في أي وقت."
+   },
+   "subsUnpaidHead": {
+      "message": "فاتورتك غير مدفوعة"
+   },
+   "subsUnpaidMsg": {
+      "message": "فاتورتك غير مدفوعة. يرجى تحديث طريقة الدفع الخاصة بك."
+   },
+   "subscription": {
+      "message": "الاشتراك"
+   },
+   "taskLimitNote": {
+      "message": "حاليًا، سيتم تخزين آخر 20 مهمة فقط. يرجى تنزيل بياناتك قبل أن يتم حذفها تلقائيًا."
+   },
+   "ttLinkAlert": {
+      "message": "يتم دعم روابط فيديو TikTok فقط"
+   },
+   "ttLinkPlaceholder": {
+      "message": "أدخل رابط فيديو TikTok"
+   },
+   "type": {
+      "message": "يكتب"
+   },
+   "undoCancel": {
+      "message": "التراجع عن الإلغاء"
+   },
+   "unexpectedError": {
+      "message": "لقد حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى أو لا تتردد في الاتصال بنا للحصول على المساعدة."
+   },
+   "unlimited": {
+      "message": "غير محدود"
+   },
+   "unpaid": {
+      "message": "غير مدفوعة الأجر"
+   },
+   "updatePayment": {
+      "message": "تحديث الدفع"
+   },
+   "userHomepage": {
+      "message": "الصفحة الرئيسية للمستخدم"
+   },
+   "userID": {
+      "message": "معرف المستخدم"
+   },
+   "username": {
+      "message": "اسم المستخدم"
+   },
+   "videoID": {
+      "message": "معرف الفيديو"
+   },
+   "videoNotExist": {
+      "message": "الفيديو غير موجود."
+   },
+   "viewDetailedPricing": {
+      "message": "عرض الميزات التفصيلية والتسعير"
+   },
+   "yearly": {
+      "message": "سنوي"
+   },
+   "yearlyDesc": {
+      "message": "يتم إصدار فاتورة بقيمة {{1}} سنويًا، وفر {{2}}"
+   },
+   "yes": {
+      "message": "نعم"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Активен"
+   },
+   "authorDigged": {
+      "message": "Авторът Digged"
+   },
+   "buyNow": {
+      "message": "Купи сега"
+   },
+   "cancelSubs": {
+      "message": "Отказ от абонамент"
+   },
+   "canceled": {
+      "message": "Отменен"
+   },
+   "chunkDownloadNote": {
+      "message": "За големи набори от данни препоръчваме използването на CSV формат. Данните ще бъдат разделени на няколко части, за да се избегнат проблеми с изтеглянето."
+   },
+   "chunkSizeRows": {
+      "message": "Размер на парчето (редове)"
+   },
+   "comment": {
+      "message": "Коментирайте"
+   },
+   "commentID": {
+      "message": "ID на коментара"
+   },
+   "commentTime": {
+      "message": "Време за коментар"
+   },
+   "commentsButtonNotFound": {
+      "message": "Не можах да намеря бутон за коментари. Моля, кликнете върху него ръчно, за да продължите."
+   },
+   "completed": {
+      "message": "Завършено"
+   },
+   "concurrentExport": {
+      "message": "Паралелен експорт"
+   },
+   "continue": {
+      "message": "продължи"
+   },
+   "date": {
+      "message": "Дата"
+   },
+   "delete": {
+      "message": "Изтрий"
+   },
+   "description": {
+      "message": "Експортирайте коментари от TikTok в Excel в CSV за анализ."
+   },
+   "diggCount": {
+      "message": "Digg Брой"
+   },
+   "discount25": {
+      "message": "25% отстъпка за всички артикули! Оферта за определено време."
+   },
+   "download": {
+      "message": "Изтегли"
+   },
+   "downloadError": {
+      "message": "Грешка при изтегляне, моля, опитайте отново или се свържете с нас за помощ."
+   },
+   "expired": {
+      "message": "Просрочен"
+   },
+   "export": {
+      "message": "Експортиране"
+   },
+   "exportDone": {
+      "message": "Експортирайте успешно"
+   },
+   "exportError": {
+      "message": "Възникна грешка, моля опитайте отново"
+   },
+   "exporting": {
+      "message": "Експортиране..."
+   },
+   "extracted": {
+      "message": "Извлечено"
+   },
+   "faq": {
+      "message": "ЧЗВ"
+   },
+   "fetchSubsFailure": {
+      "message": "Не можете да получите данни за абонамент, моля, опитайте отново или се свържете с нас за помощ."
+   },
+   "findTTLink": {
+      "message": "Как да намеря връзката към видео TikTok?"
+   },
+   "free": {
+      "message": "Безплатно"
+   },
+   "freePlan": {
+      "message": "Безплатен план"
+   },
+   "goToPortal": {
+      "message": "Отидете на Портал за клиенти"
+   },
+   "history": {
+      "message": "История"
+   },
+   "home": {
+      "message": "У дома"
+   },
+   "includeReply": {
+      "message": "Включете отговорите на коментарите"
+   },
+   "includeReply1": {
+      "message": "Включете отговорите"
+   },
+   "lemonPriceNote": {
+      "message": "Цените са посочени в USD. В зависимост от вашето местоположение може да се прилага ДДС."
+   },
+   "loading": {
+      "message": "Зареждане..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Можете да управлявате своя абонамент и фактуриране в портала за клиенти."
+   },
+   "month": {
+      "message": "месец"
+   },
+   "monthly": {
+      "message": "Месечно"
+   },
+   "monthlyDesc": {
+      "message": "Подходящи за пробване"
+   },
+   "name": {
+      "message": "TTCommentExporter - Експортирайте TikTok коментари"
+   },
+   "needUpgrade": {
+      "message": "Лимитът на безплатния акаунт е надвишен, надстройте, за да продължите"
+   },
+   "nickName": {
+      "message": "Псевдоним"
+   },
+   "no": {
+      "message": "Не"
+   },
+   "noComments": {
+      "message": "Няма намерени коментари"
+   },
+   "noTaskFound": {
+      "message": "Няма намерена задача"
+   },
+   "numOfComments": {
+      "message": "Брой експортирани коментари"
+   },
+   "paddlePriceNote": {
+      "message": "Цените са посочени в USD. Може да видите вашата местна валута при плащане в зависимост от вашето местоположение. Може да се прилага ДДС."
+   },
+   "pastDue": {
+      "message": "Просрочие"
+   },
+   "pause": {
+      "message": "Пауза"
+   },
+   "permAlert": {
+      "message": "Моля, дайте разрешенията, за да продължите"
+   },
+   "pinnedToTop": {
+      "message": "Закачено в началото"
+   },
+   "postID": {
+      "message": "ID на публикацията"
+   },
+   "quarterly": {
+      "message": "Тримесечно"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} се таксуват на всеки 3 месеца"
+   },
+   "randomInterval": {
+      "message": "Произволен интервал в секунди между заявките за извличане на коментари."
+   },
+   "replyCount": {
+      "message": "Брой отговори"
+   },
+   "replyToWhichComment": {
+      "message": "Отговорете на кой коментар"
+   },
+   "selectFormat": {
+      "message": "Изберете формата за експортиране."
+   },
+   "settings": {
+      "message": "Настройки"
+   },
+   "signInAccount": {
+      "message": "Влезте в акаунта си"
+   },
+   "signInFailure": {
+      "message": "Неуспешно влизане. Моля, опитайте отново или се свържете с нас за помощ."
+   },
+   "signInGoogle": {
+      "message": "Влезте с Google"
+   },
+   "signOut": {
+      "message": "Отписване"
+   },
+   "signedInAs": {
+      "message": "Влезли сте като"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "subsActiveHead": {
+      "message": "Вашият абонамент е активен"
+   },
+   "subsActiveMsg": {
+      "message": "Вашият абонамент е активен. Планирано е да се поднови на {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Вашият абонамент е анулиран"
+   },
+   "subsCanceledMsg": {
+      "message": "Вашият абонамент е анулиран. Планирано е да приключи на {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Вашият абонамент е изтекъл"
+   },
+   "subsExpiredMsg": {
+      "message": "Вашият абонамент е изтекъл."
+   },
+   "subsFreePlanMsg": {
+      "message": "Вие сте на безплатен план. Можете да надстроите до платен план по всяко време."
+   },
+   "subsPastDueHead": {
+      "message": "Вашата фактура е просрочена"
+   },
+   "subsPastDueMsg": {
+      "message": "Вашата фактура е просрочена. Моля, актуализирайте начина си на плащане."
+   },
+   "subsPausedHead": {
+      "message": "Абонаментът ви е на пауза"
+   },
+   "subsPausedMsg": {
+      "message": "Абонаментът ви е на пауза. Можете да го възобновите или анулирате по всяко време."
+   },
+   "subsUnpaidHead": {
+      "message": "Вашата фактура е неплатена"
+   },
+   "subsUnpaidMsg": {
+      "message": "Вашата фактура е неплатена. Моля, актуализирайте начина си на плащане."
+   },
+   "subscription": {
+      "message": "Абонамент"
+   },
+   "taskLimitNote": {
+      "message": "В момента само последните 20 задачи ще бъдат съхранени. Моля, изтеглете данните си, преди да бъдат изтрити автоматично."
+   },
+   "ttLinkAlert": {
+      "message": "Поддържат се само видео връзки към TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Въведете връзка към видео в TikTok"
+   },
+   "type": {
+      "message": "Тип"
+   },
+   "undoCancel": {
+      "message": "Отмяна на анулирането"
+   },
+   "unexpectedError": {
+      "message": "Появи се неочаквана грешка. Моля, опитайте отново или не се колебайте да се свържете с нас за помощ."
+   },
+   "unlimited": {
+      "message": "Неограничен"
+   },
+   "unpaid": {
+      "message": "Неплатени"
+   },
+   "updatePayment": {
+      "message": "Актуализиране на плащането"
+   },
+   "userHomepage": {
+      "message": "Начална страница на потребителя"
+   },
+   "userID": {
+      "message": "Потребителско име"
+   },
+   "username": {
+      "message": "Потребителско име"
+   },
+   "videoID": {
+      "message": "ID на видеоклипа"
+   },
+   "videoNotExist": {
+      "message": "Видеото не съществува."
+   },
+   "viewDetailedPricing": {
+      "message": "Вижте подробни функции и цени"
+   },
+   "yearly": {
+      "message": "Годишно"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} таксувани годишно, спестете {{2}}"
+   },
+   "yes": {
+      "message": "да"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktiv"
+   },
+   "authorDigged": {
+      "message": "Forfatter Digged"
+   },
+   "buyNow": {
+      "message": "Køb nu"
+   },
+   "cancelSubs": {
+      "message": "Annuller abonnement"
+   },
+   "canceled": {
+      "message": "Aflyst"
+   },
+   "chunkDownloadNote": {
+      "message": "For store datasæt anbefaler vi at bruge CSV-format. Dataene vil blive opdelt i flere bidder for at undgå downloadproblemer."
+   },
+   "chunkSizeRows": {
+      "message": "Chunk-størrelse (rækker)"
+   },
+   "comment": {
+      "message": "Kommentar"
+   },
+   "commentID": {
+      "message": "Kommentar ID"
+   },
+   "commentTime": {
+      "message": "Kommentartid"
+   },
+   "commentsButtonNotFound": {
+      "message": "Kunne ikke finde kommentarknappen. Klik venligst manuelt på den for at fortsætte."
+   },
+   "completed": {
+      "message": "Afsluttet"
+   },
+   "concurrentExport": {
+      "message": "Samtidig eksport"
+   },
+   "continue": {
+      "message": "Blive ved"
+   },
+   "date": {
+      "message": "Dato"
+   },
+   "delete": {
+      "message": "Slet"
+   },
+   "description": {
+      "message": "Eksporter TikTok-kommentarer til Excel i CSV til analyse."
+   },
+   "diggCount": {
+      "message": "Digg tæller"
+   },
+   "discount25": {
+      "message": "25% på alle varer! Tidsbegrænset tilbud."
+   },
+   "download": {
+      "message": "Hent"
+   },
+   "downloadError": {
+      "message": "Downloadfejl, prøv venligst igen eller kontakt os for at få hjælp."
+   },
+   "expired": {
+      "message": "Udløbet"
+   },
+   "export": {
+      "message": "Eksport"
+   },
+   "exportDone": {
+      "message": "Eksporter lykkedes"
+   },
+   "exportError": {
+      "message": "Der opstod en fejl, prøv venligst igen"
+   },
+   "exporting": {
+      "message": "Eksporterer..."
+   },
+   "extracted": {
+      "message": "Udvundet"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Kan ikke hente abonnementsdata, prøv venligst igen eller kontakt os for at få hjælp."
+   },
+   "findTTLink": {
+      "message": "Hvordan finder man TikTok-videolinket?"
+   },
+   "free": {
+      "message": "Gratis"
+   },
+   "freePlan": {
+      "message": "Gratis plan"
+   },
+   "goToPortal": {
+      "message": "Gå til kundeportal"
+   },
+   "history": {
+      "message": "Historie"
+   },
+   "home": {
+      "message": "Hjem"
+   },
+   "includeReply": {
+      "message": "Inkluder kommentarsvar"
+   },
+   "includeReply1": {
+      "message": "Inkluder svar"
+   },
+   "lemonPriceNote": {
+      "message": "Priserne er angivet i USD. Moms kan pålægges afhængigt af din placering."
+   },
+   "loading": {
+      "message": "Indlæser..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Du kan administrere dit abonnement og fakturering i kundeportalen."
+   },
+   "month": {
+      "message": "måned"
+   },
+   "monthly": {
+      "message": "Månedlige"
+   },
+   "monthlyDesc": {
+      "message": "Velegnet til at prøve"
+   },
+   "name": {
+      "message": "TTCommentExporter - Eksporter TikTok-kommentarer"
+   },
+   "needUpgrade": {
+      "message": "Gratis kontogrænsen er overskredet. Opgrader for at fortsætte"
+   },
+   "nickName": {
+      "message": "Kaldenavn"
+   },
+   "no": {
+      "message": "Ingen"
+   },
+   "noComments": {
+      "message": "Ingen kommentarer fundet"
+   },
+   "noTaskFound": {
+      "message": "Ingen opgave fundet"
+   },
+   "numOfComments": {
+      "message": "Antal eksporterede kommentarer"
+   },
+   "paddlePriceNote": {
+      "message": "Priserne er angivet i USD. Du kan muligvis se din lokale valuta ved kassen, afhængigt af din placering. Der kan pålægges moms."
+   },
+   "pastDue": {
+      "message": "Ikke betalt til tiden"
+   },
+   "pause": {
+      "message": "Pause"
+   },
+   "permAlert": {
+      "message": "Tillad venligst tilladelserne for at fortsætte"
+   },
+   "pinnedToTop": {
+      "message": "Fastgjort til toppen"
+   },
+   "postID": {
+      "message": "Post ID"
+   },
+   "quarterly": {
+      "message": "Kvartalsvis"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} faktureres hver tredje måned"
+   },
+   "randomInterval": {
+      "message": "Tilfældigt interval i sekunder mellem anmodninger om at hente kommentarer."
+   },
+   "replyCount": {
+      "message": "Svar Count"
+   },
+   "replyToWhichComment": {
+      "message": "Svar på hvilken kommentar"
+   },
+   "selectFormat": {
+      "message": "Vælg eksportformatet."
+   },
+   "settings": {
+      "message": "Indstillinger"
+   },
+   "signInAccount": {
+      "message": "Log ind på din konto"
+   },
+   "signInFailure": {
+      "message": "Login mislykkedes. Prøv venligst igen eller kontakt os for at få hjælp."
+   },
+   "signInGoogle": {
+      "message": "Log ind med Google"
+   },
+   "signOut": {
+      "message": "Log ud"
+   },
+   "signedInAs": {
+      "message": "Logget ind som"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subsActiveHead": {
+      "message": "Dit abonnement er aktivt"
+   },
+   "subsActiveMsg": {
+      "message": "Dit abonnement er aktivt. Det er planlagt til at forny den {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Dit abonnement er opsagt"
+   },
+   "subsCanceledMsg": {
+      "message": "Dit abonnement er opsagt. Det er planlagt til at slutte den {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Dit abonnement er udløbet"
+   },
+   "subsExpiredMsg": {
+      "message": "Dit abonnement er udløbet."
+   },
+   "subsFreePlanMsg": {
+      "message": "Du er på en gratis plan. Du kan til enhver tid opgradere til en betalt plan."
+   },
+   "subsPastDueHead": {
+      "message": "Din faktura er forfalden"
+   },
+   "subsPastDueMsg": {
+      "message": "Din faktura er forfalden. Opdater venligst din betalingsmetode."
+   },
+   "subsPausedHead": {
+      "message": "Dit abonnement er sat på pause"
+   },
+   "subsPausedMsg": {
+      "message": "Dit abonnement er sat på pause. Du kan genoptage eller opsige det når som helst."
+   },
+   "subsUnpaidHead": {
+      "message": "Din faktura er ubetalt"
+   },
+   "subsUnpaidMsg": {
+      "message": "Din faktura er ubetalt. Opdater venligst din betalingsmetode."
+   },
+   "subscription": {
+      "message": "Abonnement"
+   },
+   "taskLimitNote": {
+      "message": "I øjeblikket vil kun de seneste 20 opgaver blive gemt. Download venligst dine data, før de automatisk slettes."
+   },
+   "ttLinkAlert": {
+      "message": "Kun TikTok-videolinks understøttes"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Indtast et TikTok-videolink"
+   },
+   "type": {
+      "message": "Type"
+   },
+   "undoCancel": {
+      "message": "Fortryd annullering"
+   },
+   "unexpectedError": {
+      "message": "En uventet fejl er opstået. Prøv venligst igen, eller kontakt os gerne for at få hjælp."
+   },
+   "unlimited": {
+      "message": "Ubegrænset"
+   },
+   "unpaid": {
+      "message": "Ubetalt"
+   },
+   "updatePayment": {
+      "message": "Opdater betaling"
+   },
+   "userHomepage": {
+      "message": "Bruger hjemmeside"
+   },
+   "userID": {
+      "message": "bruger ID"
+   },
+   "username": {
+      "message": "Brugernavn"
+   },
+   "videoID": {
+      "message": "Video-id"
+   },
+   "videoNotExist": {
+      "message": "Videoen findes ikke."
+   },
+   "viewDetailedPricing": {
+      "message": "Se detaljerede funktioner og prisfastsættelse"
+   },
+   "yearly": {
+      "message": "Årligt"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} faktureres årligt, spar {{2}}"
+   },
+   "yes": {
+      "message": "Ja"
+   }
+}

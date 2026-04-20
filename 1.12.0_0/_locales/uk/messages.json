@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Активний"
+   },
+   "authorDigged": {
+      "message": "Автор Копав"
+   },
+   "buyNow": {
+      "message": "Купити зараз"
+   },
+   "cancelSubs": {
+      "message": "Скасувати підписку"
+   },
+   "canceled": {
+      "message": "Скасовано"
+   },
+   "chunkDownloadNote": {
+      "message": "Для великих наборів даних ми рекомендуємо використовувати формат CSV. Дані будуть розділені на кілька фрагментів, щоб уникнути проблем із завантаженням."
+   },
+   "chunkSizeRows": {
+      "message": "Розмір фрагмента (рядів)"
+   },
+   "comment": {
+      "message": "коментар"
+   },
+   "commentID": {
+      "message": "ID коментаря"
+   },
+   "commentTime": {
+      "message": "Час коментаря"
+   },
+   "commentsButtonNotFound": {
+      "message": "Не вдалося знайти кнопку коментарів. Натисніть її вручну, щоб продовжити."
+   },
+   "completed": {
+      "message": "Виконано"
+   },
+   "concurrentExport": {
+      "message": "Одночасний експорт"
+   },
+   "continue": {
+      "message": "Продовжити"
+   },
+   "date": {
+      "message": "Дата"
+   },
+   "delete": {
+      "message": "Видалити"
+   },
+   "description": {
+      "message": "Експортуйте коментарі TikTok до Excel у CSV для аналізу."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "Знижка 25% на всі товари! Пропозиція з обмеженим часом."
+   },
+   "download": {
+      "message": "Завантажити"
+   },
+   "downloadError": {
+      "message": "Помилка завантаження, спробуйте ще раз або зв’яжіться з нами по допомогу."
+   },
+   "expired": {
+      "message": "Термін дії минув"
+   },
+   "export": {
+      "message": "Експорт"
+   },
+   "exportDone": {
+      "message": "Експортовано успішно"
+   },
+   "exportError": {
+      "message": "Сталася помилка, спробуйте ще раз"
+   },
+   "exporting": {
+      "message": "Експорт..."
+   },
+   "extracted": {
+      "message": "Видобуто"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Не вдається отримати дані про підписку, повторіть спробу або зв’яжіться з нами по допомогу."
+   },
+   "findTTLink": {
+      "message": "Як знайти посилання на відео TikTok?"
+   },
+   "free": {
+      "message": "безкоштовно"
+   },
+   "freePlan": {
+      "message": "Безкоштовний план"
+   },
+   "goToPortal": {
+      "message": "Перейдіть на портал клієнтів"
+   },
+   "history": {
+      "message": "історія"
+   },
+   "home": {
+      "message": "додому"
+   },
+   "includeReply": {
+      "message": "Додайте відповіді на коментарі"
+   },
+   "includeReply1": {
+      "message": "Включати відповіді"
+   },
+   "lemonPriceNote": {
+      "message": "Ціни вказані в доларах США. Залежно від вашого місцезнаходження може стягуватися ПДВ."
+   },
+   "loading": {
+      "message": "Завантаження..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Ви можете керувати своєю підпискою та виставленням рахунків на порталі клієнтів."
+   },
+   "month": {
+      "message": "місяць"
+   },
+   "monthly": {
+      "message": "Щомісяця"
+   },
+   "monthlyDesc": {
+      "message": "Підходить для спроби"
+   },
+   "name": {
+      "message": "TTCommentExporter - експорт коментарів TikTok"
+   },
+   "needUpgrade": {
+      "message": "Ліміт безкоштовного облікового запису перевищено, оновіть, щоб продовжити"
+   },
+   "nickName": {
+      "message": "Псевдонім"
+   },
+   "no": {
+      "message": "Немає"
+   },
+   "noComments": {
+      "message": "Коментарів не знайдено"
+   },
+   "noTaskFound": {
+      "message": "Завдання не знайдено"
+   },
+   "numOfComments": {
+      "message": "Кількість експортованих коментарів"
+   },
+   "paddlePriceNote": {
+      "message": "Ціни вказані в доларах США. Залежно від вашого місцезнаходження під час оплати ви можете побачити свою місцеву валюту. ПДВ може стягуватися."
+   },
+   "pastDue": {
+      "message": "Прострочено"
+   },
+   "pause": {
+      "message": "Пауза"
+   },
+   "permAlert": {
+      "message": "Надайте дозволи, щоб продовжити"
+   },
+   "pinnedToTop": {
+      "message": "Закріплено вгорі"
+   },
+   "postID": {
+      "message": "ID публікації"
+   },
+   "quarterly": {
+      "message": "Щоквартально"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} виставляється кожні 3 місяці"
+   },
+   "randomInterval": {
+      "message": "Випадковий інтервал у секундах між запитами на отримання коментарів."
+   },
+   "replyCount": {
+      "message": "Кількість відповідей"
+   },
+   "replyToWhichComment": {
+      "message": "Відповідь на який коментар"
+   },
+   "selectFormat": {
+      "message": "Виберіть формат експорту."
+   },
+   "settings": {
+      "message": "Налаштування"
+   },
+   "signInAccount": {
+      "message": "Увійдіть у свій обліковий запис"
+   },
+   "signInFailure": {
+      "message": "Помилка входу. Повторіть спробу або зв’яжіться з нами по допомогу."
+   },
+   "signInGoogle": {
+      "message": "Увійдіть за допомогою Google"
+   },
+   "signOut": {
+      "message": "Вийти з аккаунта"
+   },
+   "signedInAs": {
+      "message": "Ви ввійшли як"
+   },
+   "status": {
+      "message": "Статус"
+   },
+   "subsActiveHead": {
+      "message": "Ваша підписка активна"
+   },
+   "subsActiveMsg": {
+      "message": "Ваша підписка активна. Поновлення заплановано на {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Ваша підписка скасована"
+   },
+   "subsCanceledMsg": {
+      "message": "Ваша підписка скасована. Його завершення заплановано на {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Термін дії вашої підписки закінчився"
+   },
+   "subsExpiredMsg": {
+      "message": "Термін дії вашої підписки закінчився."
+   },
+   "subsFreePlanMsg": {
+      "message": "Ви використовуєте безкоштовний план. Ви можете будь-коли перейти на платний план."
+   },
+   "subsPastDueHead": {
+      "message": "Ваш рахунок прострочено"
+   },
+   "subsPastDueMsg": {
+      "message": "Ваш рахунок прострочено. Оновіть спосіб оплати."
+   },
+   "subsPausedHead": {
+      "message": "Вашу підписку призупинено"
+   },
+   "subsPausedMsg": {
+      "message": "Вашу підписку призупинено. Ви можете відновити або скасувати її будь-коли."
+   },
+   "subsUnpaidHead": {
+      "message": "Ваш рахунок-фактура неоплачено"
+   },
+   "subsUnpaidMsg": {
+      "message": "Ваш рахунок-фактура неоплачено. Оновіть спосіб оплати."
+   },
+   "subscription": {
+      "message": "Підписка"
+   },
+   "taskLimitNote": {
+      "message": "Наразі буде збережено лише 20 останніх завдань. Будь ласка, завантажте свої дані, перш ніж вони будуть автоматично видалені."
+   },
+   "ttLinkAlert": {
+      "message": "Підтримуються лише посилання на відео TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Введіть посилання на відео TikTok"
+   },
+   "type": {
+      "message": "Тип"
+   },
+   "undoCancel": {
+      "message": "Скасувати скасування"
+   },
+   "unexpectedError": {
+      "message": "Сталася неочікувана помилка. Спробуйте ще раз або зв’яжіться з нами по допомогу."
+   },
+   "unlimited": {
+      "message": "Необмежений"
+   },
+   "unpaid": {
+      "message": "Неоплачений"
+   },
+   "updatePayment": {
+      "message": "Оновити платіж"
+   },
+   "userHomepage": {
+      "message": "Домашня сторінка користувача"
+   },
+   "userID": {
+      "message": "ідентифікатор користувача"
+   },
+   "username": {
+      "message": "Ім'я користувача"
+   },
+   "videoID": {
+      "message": "ID відео"
+   },
+   "videoNotExist": {
+      "message": "Відео не існує."
+   },
+   "viewDetailedPricing": {
+      "message": "Переглянути детальні функції та ціни"
+   },
+   "yearly": {
+      "message": "Щорічно"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} виставляється щороку, заощаджуйте {{2}}"
+   },
+   "yes": {
+      "message": "Так"
+   }
+}

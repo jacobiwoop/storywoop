@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "सक्रिय"
+   },
+   "authorDigged": {
+      "message": "लेखक खणखणीत"
+   },
+   "buyNow": {
+      "message": "आता खरेदी करा"
+   },
+   "cancelSubs": {
+      "message": "सदस्यता रद्द करा"
+   },
+   "canceled": {
+      "message": "रद्द केले"
+   },
+   "chunkDownloadNote": {
+      "message": "मोठ्या डेटासेटसाठी, आम्ही CSV फॉरमॅट वापरण्याची शिफारस करतो. डाउनलोड समस्या टाळण्यासाठी डेटा अनेक भागांमध्ये विभागला जाईल."
+   },
+   "chunkSizeRows": {
+      "message": "तुकड्याचा आकार (पंक्ती)"
+   },
+   "comment": {
+      "message": "टिप्पणी"
+   },
+   "commentID": {
+      "message": "टिप्पणी आयडी"
+   },
+   "commentTime": {
+      "message": "टिप्पणी वेळ"
+   },
+   "commentsButtonNotFound": {
+      "message": "टिप्पणी बटण सापडले नाही. कृपया पुढे जाण्यासाठी त्यावर स्वतः क्लिक करा."
+   },
+   "completed": {
+      "message": "पूर्ण झाले"
+   },
+   "concurrentExport": {
+      "message": "समवर्ती निर्यात"
+   },
+   "continue": {
+      "message": "सुरू"
+   },
+   "date": {
+      "message": "तारीख"
+   },
+   "delete": {
+      "message": "हटवा"
+   },
+   "description": {
+      "message": "विश्लेषणासाठी TikTok टिप्पण्या CSV मधील Excel वर निर्यात करा."
+   },
+   "diggCount": {
+      "message": "Digg गणना"
+   },
+   "discount25": {
+      "message": "सर्व आयटमवर 25% सूट! मर्यादित वेळ ऑफर."
+   },
+   "download": {
+      "message": "डाउनलोड करा"
+   },
+   "downloadError": {
+      "message": "डाउनलोड त्रुटी, कृपया पुन्हा प्रयत्न करा किंवा मदतीसाठी आमच्याशी संपर्क साधा."
+   },
+   "expired": {
+      "message": "कालबाह्य"
+   },
+   "export": {
+      "message": "निर्यात करा"
+   },
+   "exportDone": {
+      "message": "यशस्वीरित्या निर्यात करा"
+   },
+   "exportError": {
+      "message": "एक त्रुटी आली, कृपया पुन्हा प्रयत्न करा"
+   },
+   "exporting": {
+      "message": "निर्यात करत आहे..."
+   },
+   "extracted": {
+      "message": "काढला"
+   },
+   "faq": {
+      "message": "वारंवार विचारले जाणारे प्रश्न"
+   },
+   "fetchSubsFailure": {
+      "message": "सदस्यता डेटा मिळविण्यात अक्षम, कृपया पुन्हा प्रयत्न करा किंवा मदतीसाठी आमच्याशी संपर्क साधा."
+   },
+   "findTTLink": {
+      "message": "TikTok व्हिडिओ लिंक कशी शोधावी?"
+   },
+   "free": {
+      "message": "फुकट"
+   },
+   "freePlan": {
+      "message": "मोफत योजना"
+   },
+   "goToPortal": {
+      "message": "ग्राहक पोर्टलवर जा"
+   },
+   "history": {
+      "message": "इतिहास"
+   },
+   "home": {
+      "message": "मुख्यपृष्ठ"
+   },
+   "includeReply": {
+      "message": "टिप्पणी प्रत्युत्तरे समाविष्ट करा"
+   },
+   "includeReply1": {
+      "message": "प्रत्युत्तरे समाविष्ट करा"
+   },
+   "lemonPriceNote": {
+      "message": "किंमती USD मध्ये सूचीबद्ध आहेत. तुमच्या स्थानानुसार व्हॅट लागू होऊ शकतो."
+   },
+   "loading": {
+      "message": "लोड करत आहे..."
+   },
+   "manageSubsAndBilling": {
+      "message": "तुम्ही ग्राहक पोर्टलमध्ये तुमची सदस्यता आणि बिलिंग व्यवस्थापित करू शकता."
+   },
+   "month": {
+      "message": "महिना"
+   },
+   "monthly": {
+      "message": "मासिक"
+   },
+   "monthlyDesc": {
+      "message": "प्रयत्न करण्यासाठी योग्य"
+   },
+   "name": {
+      "message": "TTCcommentExporter - TikTok टिप्पण्या निर्यात करा"
+   },
+   "needUpgrade": {
+      "message": "मोफत खाते मर्यादा ओलांडली, सुरू ठेवण्यासाठी अपग्रेड करा"
+   },
+   "nickName": {
+      "message": "टोपण नाव"
+   },
+   "no": {
+      "message": "नाही"
+   },
+   "noComments": {
+      "message": "कोणत्याही टिप्पण्या आढळल्या नाहीत"
+   },
+   "noTaskFound": {
+      "message": "कोणतेही कार्य आढळले नाही"
+   },
+   "numOfComments": {
+      "message": "निर्यात केलेल्या टिप्पण्यांची संख्या"
+   },
+   "paddlePriceNote": {
+      "message": "किंमती USD मध्ये सूचीबद्ध आहेत. तुमच्‍या स्‍थानानुसार, तुम्‍हाला चेकआउट करताना तुमचे स्‍थानिक चलन दिसू शकते. व्हॅट लागू होऊ शकतो."
+   },
+   "pastDue": {
+      "message": "मागील देय"
+   },
+   "pause": {
+      "message": "विराम द्या"
+   },
+   "permAlert": {
+      "message": "कृपया पुढे जाण्यासाठी परवानग्या द्या"
+   },
+   "pinnedToTop": {
+      "message": "शीर्षस्थानी पिन केले"
+   },
+   "postID": {
+      "message": "पोस्ट आयडी"
+   },
+   "quarterly": {
+      "message": "त्रैमासिक"
+   },
+   "quarterlyDesc": {
+      "message": "दर 3 महिन्यांनी {{}} बिल केले जाते"
+   },
+   "randomInterval": {
+      "message": "टिप्पण्या आणण्याच्या विनंत्यांमधील सेकंदांमध्ये यादृच्छिक अंतराल."
+   },
+   "replyCount": {
+      "message": "प्रत्युत्तर संख्या"
+   },
+   "replyToWhichComment": {
+      "message": "कोणत्या कमेंटला उत्तर द्या"
+   },
+   "selectFormat": {
+      "message": "निर्यात स्वरूप निवडा."
+   },
+   "settings": {
+      "message": "सेटिंग्ज"
+   },
+   "signInAccount": {
+      "message": "तुमच्या खात्यात साइन इन करा"
+   },
+   "signInFailure": {
+      "message": "साइन इन अयशस्वी. कृपया पुन्हा प्रयत्न करा किंवा मदतीसाठी आमच्याशी संपर्क साधा."
+   },
+   "signInGoogle": {
+      "message": "Google सह साइन इन करा"
+   },
+   "signOut": {
+      "message": "साइन आउट करा"
+   },
+   "signedInAs": {
+      "message": "म्हणून साइन इन केले"
+   },
+   "status": {
+      "message": "स्थिती"
+   },
+   "subsActiveHead": {
+      "message": "तुमची सदस्यता सक्रिय आहे"
+   },
+   "subsActiveMsg": {
+      "message": "तुमची सदस्यता सक्रिय आहे. हे {{}} रोजी नूतनीकरणासाठी शेड्यूल केले आहे."
+   },
+   "subsCanceledHead": {
+      "message": "तुमची सदस्यता रद्द केली आहे"
+   },
+   "subsCanceledMsg": {
+      "message": "तुमची सदस्यता रद्द केली आहे. ते {{}} रोजी संपणार आहे."
+   },
+   "subsExpiredHead": {
+      "message": "तुमची सदस्यता कालबाह्य झाली आहे"
+   },
+   "subsExpiredMsg": {
+      "message": "तुमची सदस्यता कालबाह्य झाली आहे."
+   },
+   "subsFreePlanMsg": {
+      "message": "तुम्ही विनामूल्य योजनेवर आहात. तुम्ही सशुल्क योजनेवर कधीही अपग्रेड करू शकता."
+   },
+   "subsPastDueHead": {
+      "message": "तुमचे बीजक देय झाले आहे"
+   },
+   "subsPastDueMsg": {
+      "message": "तुमचे बीजक देय झाले आहे. कृपया तुमची पेमेंट पद्धत अपडेट करा."
+   },
+   "subsPausedHead": {
+      "message": "तुमची सदस्यता थांबवण्यात आली आहे."
+   },
+   "subsPausedMsg": {
+      "message": "तुमची सदस्यता तात्पुरती थांबवण्यात आली आहे. तुम्ही ती कधीही पुन्हा सुरू करू शकता किंवा रद्द करू शकता."
+   },
+   "subsUnpaidHead": {
+      "message": "तुमचे बीजक न भरलेले आहे"
+   },
+   "subsUnpaidMsg": {
+      "message": "तुमचे बीजक न भरलेले आहे. कृपया तुमची पेमेंट पद्धत अपडेट करा."
+   },
+   "subscription": {
+      "message": "वर्गणी"
+   },
+   "taskLimitNote": {
+      "message": "सध्या, फक्त नवीनतम 20 कार्ये संग्रहित केली जातील. कृपया तुमचा डेटा आपोआप हटवण्यापूर्वी डाउनलोड करा."
+   },
+   "ttLinkAlert": {
+      "message": "फक्त TikTok व्हिडिओ लिंक समर्थित आहेत"
+   },
+   "ttLinkPlaceholder": {
+      "message": "TikTok व्हिडिओ लिंक एंटर करा"
+   },
+   "type": {
+      "message": "प्रकार"
+   },
+   "undoCancel": {
+      "message": "रद्द करणे पूर्ववत करा"
+   },
+   "unexpectedError": {
+      "message": "एक अनपेक्षित त्रुटी आली आहे. कृपया पुन्हा प्रयत्न करा किंवा सहाय्यासाठी मोकळ्या मनाने आमच्याशी संपर्क साधा."
+   },
+   "unlimited": {
+      "message": "अमर्यादित"
+   },
+   "unpaid": {
+      "message": "न भरलेले"
+   },
+   "updatePayment": {
+      "message": "पेमेंट अपडेट करा"
+   },
+   "userHomepage": {
+      "message": "वापरकर्ता मुख्यपृष्ठ"
+   },
+   "userID": {
+      "message": "वापरकर्ता आयडी"
+   },
+   "username": {
+      "message": "वापरकर्तानाव"
+   },
+   "videoID": {
+      "message": "व्हिडिओ आयडी"
+   },
+   "videoNotExist": {
+      "message": "व्हिडिओ अस्तित्वात नाही."
+   },
+   "viewDetailedPricing": {
+      "message": "तपशीलवार वैशिष्ट्ये आणि किंमत पहा"
+   },
+   "yearly": {
+      "message": "वार्षिक"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} वार्षिक बिल केले जाते, बचत {{2}}"
+   },
+   "yes": {
+      "message": "होय"
+   }
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "చురుకుగా"
+   },
+   "authorDigged": {
+      "message": "రచయిత డిగ్డ్"
+   },
+   "buyNow": {
+      "message": "ఇప్పుడే కొనండి"
+   },
+   "cancelSubs": {
+      "message": "సభ్యత్వాన్ని రద్దు చేయండి"
+   },
+   "canceled": {
+      "message": "రద్దు"
+   },
+   "chunkDownloadNote": {
+      "message": "పెద్ద డేటాసెట్‌ల కోసం, మేము CSV ఫార్మాట్‌ను ఉపయోగించమని సిఫార్సు చేస్తున్నాము. డౌన్‌లోడ్ సమస్యలను నివారించడానికి డేటా బహుళ భాగాలుగా విభజించబడుతుంది."
+   },
+   "chunkSizeRows": {
+      "message": "చంక్ సైజు (వరుసలు)"
+   },
+   "comment": {
+      "message": "వ్యాఖ్య"
+   },
+   "commentID": {
+      "message": "వ్యాఖ్య ID"
+   },
+   "commentTime": {
+      "message": "వ్యాఖ్య సమయం"
+   },
+   "commentsButtonNotFound": {
+      "message": "వ్యాఖ్యల బటన్ కనిపించలేదు. కొనసాగించడానికి దయచేసి దానిని మాన్యువల్‌గా క్లిక్ చేయండి."
+   },
+   "completed": {
+      "message": "పూర్తయింది"
+   },
+   "concurrentExport": {
+      "message": "ఏకకాలిక ఎగుమతి"
+   },
+   "continue": {
+      "message": "కొనసాగించు"
+   },
+   "date": {
+      "message": "తేదీ"
+   },
+   "delete": {
+      "message": "తొలగించు"
+   },
+   "description": {
+      "message": "విశ్లేషణ కోసం TikTok వ్యాఖ్యలను CSVలో Excelకు ఎగుమతి చేయండి."
+   },
+   "diggCount": {
+      "message": "డిగ్ కౌంట్"
+   },
+   "discount25": {
+      "message": "అన్ని వస్తువులపై 25% తగ్గింపు! పరిమిత సమయం ఆఫర్."
+   },
+   "download": {
+      "message": "డౌన్‌లోడ్ చేయండి"
+   },
+   "downloadError": {
+      "message": "డౌన్‌లోడ్ లోపం, దయచేసి మళ్లీ ప్రయత్నించండి లేదా సహాయం కోసం మమ్మల్ని సంప్రదించండి."
+   },
+   "expired": {
+      "message": "గడువు ముగిసింది"
+   },
+   "export": {
+      "message": "ఎగుమతి చేయండి"
+   },
+   "exportDone": {
+      "message": "విజయవంతంగా ఎగుమతి చేయండి"
+   },
+   "exportError": {
+      "message": "లోపం సంభవించింది, దయచేసి మళ్లీ ప్రయత్నించండి"
+   },
+   "exporting": {
+      "message": "ఎగుమతి చేస్తోంది..."
+   },
+   "extracted": {
+      "message": "సంగ్రహించబడింది"
+   },
+   "faq": {
+      "message": "ఎఫ్ ఎ క్యూ"
+   },
+   "fetchSubsFailure": {
+      "message": "సబ్‌స్క్రిప్షన్ డేటాను పొందడం సాధ్యం కాలేదు, దయచేసి మళ్లీ ప్రయత్నించండి లేదా సహాయం కోసం మమ్మల్ని సంప్రదించండి."
+   },
+   "findTTLink": {
+      "message": "TikTok వీడియో లింక్‌ను ఎలా కనుగొనాలి?"
+   },
+   "free": {
+      "message": "ఉచిత"
+   },
+   "freePlan": {
+      "message": "ఉచిత ప్రణాళిక"
+   },
+   "goToPortal": {
+      "message": "కస్టమర్ పోర్టల్‌కి వెళ్లండి"
+   },
+   "history": {
+      "message": "చరిత్ర"
+   },
+   "home": {
+      "message": "హోమ్"
+   },
+   "includeReply": {
+      "message": "వ్యాఖ్య ప్రత్యుత్తరాలను చేర్చండి"
+   },
+   "includeReply1": {
+      "message": "ప్రత్యుత్తరాలను చేర్చండి"
+   },
+   "lemonPriceNote": {
+      "message": "ధరలు USDలో జాబితా చేయబడ్డాయి. మీ స్థానాన్ని బట్టి VAT వర్తించవచ్చు."
+   },
+   "loading": {
+      "message": "లోడ్..."
+   },
+   "manageSubsAndBilling": {
+      "message": "మీరు కస్టమర్ పోర్టల్‌లో మీ సభ్యత్వం మరియు బిల్లింగ్‌ను నిర్వహించవచ్చు."
+   },
+   "month": {
+      "message": "నెల"
+   },
+   "monthly": {
+      "message": "నెలవారీ"
+   },
+   "monthlyDesc": {
+      "message": "ప్రయత్నించడానికి అనుకూలం"
+   },
+   "name": {
+      "message": "TTCcommentExporter - TikTok వ్యాఖ్యలను ఎగుమతి చేయండి"
+   },
+   "needUpgrade": {
+      "message": "ఉచిత ఖాతా పరిమితి మించిపోయింది, కొనసాగించడానికి అప్‌గ్రేడ్ చేయండి"
+   },
+   "nickName": {
+      "message": "మారుపేరు"
+   },
+   "no": {
+      "message": "నం"
+   },
+   "noComments": {
+      "message": "వ్యాఖ్యలు ఏవీ కనుగొనబడలేదు"
+   },
+   "noTaskFound": {
+      "message": "టాస్క్ ఏదీ కనుగొనబడలేదు"
+   },
+   "numOfComments": {
+      "message": "ఎగుమతి చేయబడిన వ్యాఖ్యల సంఖ్య"
+   },
+   "paddlePriceNote": {
+      "message": "ధరలు USDలో జాబితా చేయబడ్డాయి. మీరు మీ స్థానాన్ని బట్టి చెక్అవుట్‌లో మీ స్థానిక కరెన్సీని చూడవచ్చు. VAT వర్తించవచ్చు."
+   },
+   "pastDue": {
+      "message": "గడువు మీరింది"
+   },
+   "pause": {
+      "message": "పాజ్ చేయండి"
+   },
+   "permAlert": {
+      "message": "దయచేసి కొనసాగడానికి అనుమతులను అనుమతించండి"
+   },
+   "pinnedToTop": {
+      "message": "పైకి పిన్ చేయబడింది"
+   },
+   "postID": {
+      "message": "పోస్ట్ ID"
+   },
+   "quarterly": {
+      "message": "త్రైమాసిక"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} ప్రతి 3 నెలలకు బిల్ చేయబడుతుంది"
+   },
+   "randomInterval": {
+      "message": "వ్యాఖ్యలను పొందడం కోసం అభ్యర్థనల మధ్య సెకన్లలో యాదృచ్ఛిక విరామం."
+   },
+   "replyCount": {
+      "message": "ప్రత్యుత్తరం కౌంట్"
+   },
+   "replyToWhichComment": {
+      "message": "ఏ వ్యాఖ్యకు ప్రత్యుత్తరం ఇవ్వండి"
+   },
+   "selectFormat": {
+      "message": "ఎగుమతి ఆకృతిని ఎంచుకోండి."
+   },
+   "settings": {
+      "message": "సెట్టింగ్‌లు"
+   },
+   "signInAccount": {
+      "message": "మీ ఖాతాకు సైన్ ఇన్ చేయండి"
+   },
+   "signInFailure": {
+      "message": "సైన్-ఇన్ విఫలమైంది. దయచేసి మళ్లీ ప్రయత్నించండి లేదా సహాయం కోసం మమ్మల్ని సంప్రదించండి."
+   },
+   "signInGoogle": {
+      "message": "Googleతో సైన్ ఇన్ చేయండి"
+   },
+   "signOut": {
+      "message": "సైన్ అవుట్ చేయండి"
+   },
+   "signedInAs": {
+      "message": "గా సైన్ ఇన్ చేసారు"
+   },
+   "status": {
+      "message": "స్థితి"
+   },
+   "subsActiveHead": {
+      "message": "మీ సభ్యత్వం సక్రియంగా ఉంది"
+   },
+   "subsActiveMsg": {
+      "message": "మీ సభ్యత్వం సక్రియంగా ఉంది. ఇది {{}}న పునరుద్ధరించడానికి షెడ్యూల్ చేయబడింది."
+   },
+   "subsCanceledHead": {
+      "message": "మీ సభ్యత్వం రద్దు చేయబడింది"
+   },
+   "subsCanceledMsg": {
+      "message": "మీ సభ్యత్వం రద్దు చేయబడింది. ఇది {{}}న ముగిసేలా షెడ్యూల్ చేయబడింది."
+   },
+   "subsExpiredHead": {
+      "message": "మీ సభ్యత్వం గడువు ముగిసింది"
+   },
+   "subsExpiredMsg": {
+      "message": "మీ సభ్యత్వం గడువు ముగిసింది."
+   },
+   "subsFreePlanMsg": {
+      "message": "మీరు ఉచిత ప్రణాళికలో ఉన్నారు. మీరు ఎప్పుడైనా చెల్లింపు ప్లాన్‌కి అప్‌గ్రేడ్ చేయవచ్చు."
+   },
+   "subsPastDueHead": {
+      "message": "మీ ఇన్‌వాయిస్ గడువు ముగిసింది"
+   },
+   "subsPastDueMsg": {
+      "message": "మీ ఇన్‌వాయిస్ గడువు ముగిసింది. దయచేసి మీ చెల్లింపు పద్ధతిని నవీకరించండి."
+   },
+   "subsPausedHead": {
+      "message": "మీ సభ్యత్వం తాత్కాలికంగా నిలిపివేయబడింది"
+   },
+   "subsPausedMsg": {
+      "message": "మీ సబ్‌స్క్రిప్షన్ తాత్కాలికంగా నిలిపివేయబడింది. మీరు దీన్ని ఎప్పుడైనా పునఃప్రారంభించవచ్చు లేదా రద్దు చేసుకోవచ్చు."
+   },
+   "subsUnpaidHead": {
+      "message": "మీ ఇన్‌వాయిస్ చెల్లించబడలేదు"
+   },
+   "subsUnpaidMsg": {
+      "message": "మీ ఇన్‌వాయిస్ చెల్లించబడలేదు. దయచేసి మీ చెల్లింపు పద్ధతిని నవీకరించండి."
+   },
+   "subscription": {
+      "message": "చందా"
+   },
+   "taskLimitNote": {
+      "message": "ప్రస్తుతం, తాజా 20 టాస్క్‌లు మాత్రమే నిల్వ చేయబడతాయి. దయచేసి మీ డేటాను స్వయంచాలకంగా తొలగించే ముందు డౌన్‌లోడ్ చేయండి."
+   },
+   "ttLinkAlert": {
+      "message": "TikTok వీడియో లింక్‌లకు మాత్రమే మద్దతు ఉంది"
+   },
+   "ttLinkPlaceholder": {
+      "message": "TikTok వీడియో లింక్‌ని నమోదు చేయండి"
+   },
+   "type": {
+      "message": "టైప్ చేయండి"
+   },
+   "undoCancel": {
+      "message": "రద్దును అన్డు చేయండి"
+   },
+   "unexpectedError": {
+      "message": "ఊహించని లోపం సంభవించింది. దయచేసి మళ్లీ ప్రయత్నించండి లేదా సహాయం కోసం మమ్మల్ని సంప్రదించడానికి సంకోచించకండి."
+   },
+   "unlimited": {
+      "message": "అపరిమిత"
+   },
+   "unpaid": {
+      "message": "చెల్లించని"
+   },
+   "updatePayment": {
+      "message": "చెల్లింపును నవీకరించండి"
+   },
+   "userHomepage": {
+      "message": "వినియోగదారు హోమ్‌పేజీ"
+   },
+   "userID": {
+      "message": "వినియోగదారుని గుర్తింపు"
+   },
+   "username": {
+      "message": "వినియోగదారు పేరు"
+   },
+   "videoID": {
+      "message": "వీడియో ID"
+   },
+   "videoNotExist": {
+      "message": "వీడియో ఉనికిలో లేదు."
+   },
+   "viewDetailedPricing": {
+      "message": "వివరణాత్మక లక్షణాలు మరియు ధరలను చూడండి"
+   },
+   "yearly": {
+      "message": "సంవత్సరానికి"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} సంవత్సరానికి బిల్ చేయబడుతుంది, ఆదా {{2}}"
+   },
+   "yes": {
+      "message": "అవును"
+   }
+}

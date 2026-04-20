@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktiivinen"
+   },
+   "authorDigged": {
+      "message": "Kirjailija Digged"
+   },
+   "buyNow": {
+      "message": "Osta nyt"
+   },
+   "cancelSubs": {
+      "message": "Peruuta tilaus"
+   },
+   "canceled": {
+      "message": "Peruutettu"
+   },
+   "chunkDownloadNote": {
+      "message": "Suurille tietojoukoille suosittelemme CSV-muotoa. Tiedot jaetaan useisiin osiin latausongelmien välttämiseksi."
+   },
+   "chunkSizeRows": {
+      "message": "Palan koko (rivit)"
+   },
+   "comment": {
+      "message": "Kommentti"
+   },
+   "commentID": {
+      "message": "Kommentin tunnus"
+   },
+   "commentTime": {
+      "message": "Kommenttiaika"
+   },
+   "commentsButtonNotFound": {
+      "message": "Kommenttipainiketta ei löytynyt. Jatka napsauttamalla sitä manuaalisesti."
+   },
+   "completed": {
+      "message": "Valmis"
+   },
+   "concurrentExport": {
+      "message": "Samanaikainen vienti"
+   },
+   "continue": {
+      "message": "Jatkaa"
+   },
+   "date": {
+      "message": "Päivämäärä"
+   },
+   "delete": {
+      "message": "Poistaa"
+   },
+   "description": {
+      "message": "Vie TikTok-kommentit Exceliin CSV-muodossa analysointia varten."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% alennus kaikista tuotteista! Rajoitetun ajan tarjous."
+   },
+   "download": {
+      "message": "ladata"
+   },
+   "downloadError": {
+      "message": "Latausvirhe, yritä uudelleen tai ota meihin yhteyttä saadaksesi apua."
+   },
+   "expired": {
+      "message": "Vanhentunut"
+   },
+   "export": {
+      "message": "Viedä"
+   },
+   "exportDone": {
+      "message": "Vienti onnistui"
+   },
+   "exportError": {
+      "message": "Tapahtui virhe. Yritä uudelleen"
+   },
+   "exporting": {
+      "message": "Viedään..."
+   },
+   "extracted": {
+      "message": "Purettu"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Tilaustietoja ei voi saada, yritä uudelleen tai ota meihin yhteyttä saadaksesi apua."
+   },
+   "findTTLink": {
+      "message": "Kuinka löytää TikTok-videolinkki?"
+   },
+   "free": {
+      "message": "Vapaa"
+   },
+   "freePlan": {
+      "message": "Ilmainen suunnitelma"
+   },
+   "goToPortal": {
+      "message": "Siirry Asiakasportaaliin"
+   },
+   "history": {
+      "message": "Historia"
+   },
+   "home": {
+      "message": "Koti"
+   },
+   "includeReply": {
+      "message": "Sisällytä kommenttivastaukset"
+   },
+   "includeReply1": {
+      "message": "Sisällytä vastaukset"
+   },
+   "lemonPriceNote": {
+      "message": "Hinnat on ilmoitettu USD. ALV saatetaan veloittaa sijainnistasi riippuen."
+   },
+   "loading": {
+      "message": "Ladataan..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Voit hallita tilaustasi ja laskutustasi Asiakasportaalissa."
+   },
+   "month": {
+      "message": "kuukausi"
+   },
+   "monthly": {
+      "message": "Kuukausittain"
+   },
+   "monthlyDesc": {
+      "message": "Soveltuu kokeiluun"
+   },
+   "name": {
+      "message": "TTCommentExporter - Vie TikTok-kommentit"
+   },
+   "needUpgrade": {
+      "message": "Ilmaisen tilin raja ylitetty. Päivitä jatkaaksesi"
+   },
+   "nickName": {
+      "message": "Nimimerkki"
+   },
+   "no": {
+      "message": "Ei"
+   },
+   "noComments": {
+      "message": "Kommentteja ei löytynyt"
+   },
+   "noTaskFound": {
+      "message": "Tehtävää ei löytynyt"
+   },
+   "numOfComments": {
+      "message": "Vietyjen kommenttien määrä"
+   },
+   "paddlePriceNote": {
+      "message": "Hinnat on ilmoitettu USD. Saatat nähdä paikallisen valuutan kassalla sijainnistasi riippuen. ALV voi olla voimassa."
+   },
+   "pastDue": {
+      "message": "Erääntynyt"
+   },
+   "pause": {
+      "message": "Tauko"
+   },
+   "permAlert": {
+      "message": "Anna luvat jatkaa"
+   },
+   "pinnedToTop": {
+      "message": "Kiinnitetty alkuun"
+   },
+   "postID": {
+      "message": "Postin tunnus"
+   },
+   "quarterly": {
+      "message": "Neljännesvuosittain"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} laskutetaan 3 kuukauden välein"
+   },
+   "randomInterval": {
+      "message": "Satunnainen aikaväli sekunteina kommenttien noutopyyntöjen välillä."
+   },
+   "replyCount": {
+      "message": "Vastausmäärä"
+   },
+   "replyToWhichComment": {
+      "message": "Vastaa johonkin kommenttiin"
+   },
+   "selectFormat": {
+      "message": "Valitse vientimuoto."
+   },
+   "settings": {
+      "message": "asetukset"
+   },
+   "signInAccount": {
+      "message": "Kirjaudu tilillesi"
+   },
+   "signInFailure": {
+      "message": "Kirjautuminen epäonnistui. Yritä uudelleen tai ota meihin yhteyttä saadaksesi apua."
+   },
+   "signInGoogle": {
+      "message": "Kirjaudu sisään Googlella"
+   },
+   "signOut": {
+      "message": "Kirjaudu ulos"
+   },
+   "signedInAs": {
+      "message": "Kirjautunut sisään nimellä"
+   },
+   "status": {
+      "message": "Tila"
+   },
+   "subsActiveHead": {
+      "message": "Tilauksesi on aktiivinen"
+   },
+   "subsActiveMsg": {
+      "message": "Tilauksesi on aktiivinen. Se on suunniteltu uusittavaksi {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Tilauksesi on peruutettu"
+   },
+   "subsCanceledMsg": {
+      "message": "Tilauksesi on peruutettu. Sen on määrä päättyä {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Tilauksesi on vanhentunut"
+   },
+   "subsExpiredMsg": {
+      "message": "Tilauksesi on vanhentunut."
+   },
+   "subsFreePlanMsg": {
+      "message": "Sinulla on ilmainen suunnitelma. Voit päivittää maksulliseen sopimukseen milloin tahansa."
+   },
+   "subsPastDueHead": {
+      "message": "Laskusi on erääntynyt"
+   },
+   "subsPastDueMsg": {
+      "message": "Laskusi on erääntynyt. Päivitä maksutapasi."
+   },
+   "subsPausedHead": {
+      "message": "Tilauksesi on keskeytetty"
+   },
+   "subsPausedMsg": {
+      "message": "Tilauksesi on keskeytetty. Voit jatkaa sitä tai peruuttaa sen milloin tahansa."
+   },
+   "subsUnpaidHead": {
+      "message": "Laskusi on maksamatta"
+   },
+   "subsUnpaidMsg": {
+      "message": "Laskusi on maksamatta. Päivitä maksutapasi."
+   },
+   "subscription": {
+      "message": "Tilaus"
+   },
+   "taskLimitNote": {
+      "message": "Tällä hetkellä vain 20 viimeisintä tehtävää tallennetaan. Lataa tietosi ennen kuin ne poistetaan automaattisesti."
+   },
+   "ttLinkAlert": {
+      "message": "Vain TikTok-videolinkkejä tuetaan"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Kirjoita TikTok-videolinkki"
+   },
+   "type": {
+      "message": "Tyyppi"
+   },
+   "undoCancel": {
+      "message": "Kumoa peruutus"
+   },
+   "unexpectedError": {
+      "message": "Odottamaton virhe on tapahtunut. Yritä uudelleen tai ota meihin yhteyttä saadaksesi apua."
+   },
+   "unlimited": {
+      "message": "Rajoittamaton"
+   },
+   "unpaid": {
+      "message": "Palkaton"
+   },
+   "updatePayment": {
+      "message": "Päivitä maksu"
+   },
+   "userHomepage": {
+      "message": "Käyttäjän kotisivu"
+   },
+   "userID": {
+      "message": "käyttäjätunnus"
+   },
+   "username": {
+      "message": "Käyttäjätunnus"
+   },
+   "videoID": {
+      "message": "Videon tunnus"
+   },
+   "videoNotExist": {
+      "message": "Videota ei ole olemassa."
+   },
+   "viewDetailedPricing": {
+      "message": "Näytä yksityiskohtaiset ominaisuudet ja hinnoittelu"
+   },
+   "yearly": {
+      "message": "Vuosittain"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} laskutetaan vuosittain, säästä {{2}}"
+   },
+   "yes": {
+      "message": "Joo"
+   }
+}

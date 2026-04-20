@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Activ"
+   },
+   "authorDigged": {
+      "message": "Autorul Digged"
+   },
+   "buyNow": {
+      "message": "Cumpără acum"
+   },
+   "cancelSubs": {
+      "message": "Anuleaza abonarea"
+   },
+   "canceled": {
+      "message": "Anulat"
+   },
+   "chunkDownloadNote": {
+      "message": "Pentru seturi de date mari, recomandăm utilizarea formatului CSV. Datele vor fi împărțite în mai multe blocuri pentru a evita problemele de descărcare."
+   },
+   "chunkSizeRows": {
+      "message": "Dimensiunea bucăților (rânduri)"
+   },
+   "comment": {
+      "message": "cometariu"
+   },
+   "commentID": {
+      "message": "ID comentariu"
+   },
+   "commentTime": {
+      "message": "Ora comentariilor"
+   },
+   "commentsButtonNotFound": {
+      "message": "Nu s-a găsit butonul pentru comentarii. Vă rugăm să faceți clic manual pe el pentru a continua."
+   },
+   "completed": {
+      "message": "Efectuat"
+   },
+   "concurrentExport": {
+      "message": "Export simultan"
+   },
+   "continue": {
+      "message": "Continua"
+   },
+   "date": {
+      "message": "Data"
+   },
+   "delete": {
+      "message": "Șterge"
+   },
+   "description": {
+      "message": "Exportați comentariile TikTok în Excel în CSV pentru analiză."
+   },
+   "diggCount": {
+      "message": "Numărul Digg"
+   },
+   "discount25": {
+      "message": "25% reducere la toate articolele! Ofertă limitată."
+   },
+   "download": {
+      "message": "Descarca"
+   },
+   "downloadError": {
+      "message": "Eroare de descărcare, încercați din nou sau contactați-ne pentru ajutor."
+   },
+   "expired": {
+      "message": "Expirat"
+   },
+   "export": {
+      "message": "Export"
+   },
+   "exportDone": {
+      "message": "Exportați cu succes"
+   },
+   "exportError": {
+      "message": "A aparut o eroare. Va rugam sa incercati din nou"
+   },
+   "exporting": {
+      "message": "Exportator..."
+   },
+   "extracted": {
+      "message": "Extras"
+   },
+   "faq": {
+      "message": "FAQ"
+   },
+   "fetchSubsFailure": {
+      "message": "Nu se pot obține date de abonament, vă rugăm să reîncercați sau să ne contactați pentru ajutor."
+   },
+   "findTTLink": {
+      "message": "Cum să găsești linkul video TikTok?"
+   },
+   "free": {
+      "message": "Gratuit"
+   },
+   "freePlan": {
+      "message": "Plan gratuit"
+   },
+   "goToPortal": {
+      "message": "Accesați Portalul clienților"
+   },
+   "history": {
+      "message": "Istorie"
+   },
+   "home": {
+      "message": "Acasă"
+   },
+   "includeReply": {
+      "message": "Includeți răspunsurile la comentarii"
+   },
+   "includeReply1": {
+      "message": "Includeți răspunsurile"
+   },
+   "lemonPriceNote": {
+      "message": "Prețurile sunt afișate în USD. Se poate aplica TVA în funcție de locația dvs."
+   },
+   "loading": {
+      "message": "Se încarcă..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Vă puteți gestiona abonamentul și facturarea în Portalul pentru clienți."
+   },
+   "month": {
+      "message": "lună"
+   },
+   "monthly": {
+      "message": "Lunar"
+   },
+   "monthlyDesc": {
+      "message": "Potrivit pentru încercare"
+   },
+   "name": {
+      "message": "TTCommentExporter - Exportați comentariile TikTok"
+   },
+   "needUpgrade": {
+      "message": "Limita contului gratuit a fost depășită, faceți upgrade pentru a continua"
+   },
+   "nickName": {
+      "message": "Poreclă"
+   },
+   "no": {
+      "message": "Nu"
+   },
+   "noComments": {
+      "message": "Nu s-au găsit comentarii"
+   },
+   "noTaskFound": {
+      "message": "Nu a fost găsită nicio sarcină"
+   },
+   "numOfComments": {
+      "message": "Numărul de comentarii exportate"
+   },
+   "paddlePriceNote": {
+      "message": "Prețurile sunt afișate în USD. Este posibil să vedeți moneda locală la finalizare, în funcție de locația dvs. Se poate aplica TVA."
+   },
+   "pastDue": {
+      "message": "Ulterior"
+   },
+   "pause": {
+      "message": "Pauză"
+   },
+   "permAlert": {
+      "message": "Vă rugăm să permiteți permisiunilor să continue"
+   },
+   "pinnedToTop": {
+      "message": "Fixat în partea de sus"
+   },
+   "postID": {
+      "message": "ID post"
+   },
+   "quarterly": {
+      "message": "Trimestrial"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} facturat la fiecare 3 luni"
+   },
+   "randomInterval": {
+      "message": "Interval aleatoriu în secunde între solicitările de preluare a comentariilor."
+   },
+   "replyCount": {
+      "message": "Număr de răspunsuri"
+   },
+   "replyToWhichComment": {
+      "message": "Răspunde la care comentariu"
+   },
+   "selectFormat": {
+      "message": "Selectați formatul de export."
+   },
+   "settings": {
+      "message": "Setări"
+   },
+   "signInAccount": {
+      "message": "Conectați-vă la contul dvs"
+   },
+   "signInFailure": {
+      "message": "Conectarea nu a reușit. Vă rugăm să reîncercați sau să ne contactați pentru ajutor."
+   },
+   "signInGoogle": {
+      "message": "Conectați-vă cu Google"
+   },
+   "signOut": {
+      "message": "Sign out"
+   },
+   "signedInAs": {
+      "message": "Conectat ca"
+   },
+   "status": {
+      "message": "stare"
+   },
+   "subsActiveHead": {
+      "message": "Abonamentul dvs. este activ"
+   },
+   "subsActiveMsg": {
+      "message": "Abonamentul dvs. este activ. Este programată să se reînnoiască pe {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Abonamentul dvs. este anulat"
+   },
+   "subsCanceledMsg": {
+      "message": "Abonamentul dvs. este anulat. Este programat să se încheie pe {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Abonamentul dvs. a expirat"
+   },
+   "subsExpiredMsg": {
+      "message": "Abonamentul dvs. a expirat."
+   },
+   "subsFreePlanMsg": {
+      "message": "Ai un plan gratuit. Puteți face upgrade la un plan plătit în orice moment."
+   },
+   "subsPastDueHead": {
+      "message": "Factura dvs. este restante"
+   },
+   "subsPastDueMsg": {
+      "message": "Factura dvs. este restante. Vă rugăm să vă actualizați metoda de plată."
+   },
+   "subsPausedHead": {
+      "message": "Abonamentul tău este întrerupt"
+   },
+   "subsPausedMsg": {
+      "message": "Abonamentul tău este întrerupt. Îl poți relua sau anula oricând."
+   },
+   "subsUnpaidHead": {
+      "message": "Factura dvs. este neachitată"
+   },
+   "subsUnpaidMsg": {
+      "message": "Factura dvs. este neachitată. Vă rugăm să vă actualizați metoda de plată."
+   },
+   "subscription": {
+      "message": "Abonament"
+   },
+   "taskLimitNote": {
+      "message": "În prezent, vor fi stocate doar ultimele 20 de sarcini. Vă rugăm să descărcați datele înainte ca acestea să fie șterse automat."
+   },
+   "ttLinkAlert": {
+      "message": "Sunt acceptate doar linkurile video TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Introduceți un link video TikTok"
+   },
+   "type": {
+      "message": "Tip"
+   },
+   "undoCancel": {
+      "message": "Anulați anularea"
+   },
+   "unexpectedError": {
+      "message": "A aparut o eroare neasteptata. Vă rugăm să încercați din nou sau nu ezitați să ne contactați pentru asistență."
+   },
+   "unlimited": {
+      "message": "Nelimitat"
+   },
+   "unpaid": {
+      "message": "Neplătit"
+   },
+   "updatePayment": {
+      "message": "Actualizați Plata"
+   },
+   "userHomepage": {
+      "message": "Pagina de pornire a utilizatorului"
+   },
+   "userID": {
+      "message": "ID-ul de utilizator"
+   },
+   "username": {
+      "message": "Nume de utilizator"
+   },
+   "videoID": {
+      "message": "ID video"
+   },
+   "videoNotExist": {
+      "message": "Videoclipul nu există."
+   },
+   "viewDetailedPricing": {
+      "message": "Vizualizați caracteristici și prețuri detaliate"
+   },
+   "yearly": {
+      "message": "Anual"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} facturat anual, economisiți {{2}}"
+   },
+   "yes": {
+      "message": "da"
+   }
+}

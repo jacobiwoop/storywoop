@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktivan"
+   },
+   "authorDigged": {
+      "message": "Autor Digged"
+   },
+   "buyNow": {
+      "message": "Kupi sada"
+   },
+   "cancelSubs": {
+      "message": "Otkaži pretplatu"
+   },
+   "canceled": {
+      "message": "Otkazano"
+   },
+   "chunkDownloadNote": {
+      "message": "Za velike skupove podataka preporučujemo korištenje CSV formata. Podaci će biti podijeljeni u više dijelova kako bi se izbjegli problemi s preuzimanjem."
+   },
+   "chunkSizeRows": {
+      "message": "Veličina bloka (retci)"
+   },
+   "comment": {
+      "message": "Komentar"
+   },
+   "commentID": {
+      "message": "ID komentara"
+   },
+   "commentTime": {
+      "message": "Vrijeme za komentar"
+   },
+   "commentsButtonNotFound": {
+      "message": "Gumb za komentare nije pronađen. Kliknite ga ručno za nastavak."
+   },
+   "completed": {
+      "message": "Završeno"
+   },
+   "concurrentExport": {
+      "message": "Istodobni izvoz"
+   },
+   "continue": {
+      "message": "Nastaviti"
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "delete": {
+      "message": "Izbrisati"
+   },
+   "description": {
+      "message": "Izvezite TikTok komentare u Excel u CSV za analizu."
+   },
+   "diggCount": {
+      "message": "Digg Count"
+   },
+   "discount25": {
+      "message": "25% popusta na sve artikle! Vremenski ograničena ponuda."
+   },
+   "download": {
+      "message": "preuzimanje datoteka"
+   },
+   "downloadError": {
+      "message": "Pogreška pri preuzimanju, pokušajte ponovo ili nam se obratite za pomoć."
+   },
+   "expired": {
+      "message": "Istekao"
+   },
+   "export": {
+      "message": "Izvoz"
+   },
+   "exportDone": {
+      "message": "Izvezite uspješno"
+   },
+   "exportError": {
+      "message": "Došlo je do greške, pokušajte ponovo"
+   },
+   "exporting": {
+      "message": "Izvoz..."
+   },
+   "extracted": {
+      "message": "Izvučeno"
+   },
+   "faq": {
+      "message": "Pitanja"
+   },
+   "fetchSubsFailure": {
+      "message": "Ne mogu dobiti podatke o pretplati, pokušajte ponovno ili nas kontaktirajte za pomoć."
+   },
+   "findTTLink": {
+      "message": "Kako pronaći TikTok video vezu?"
+   },
+   "free": {
+      "message": "Besplatno"
+   },
+   "freePlan": {
+      "message": "Besplatni plan"
+   },
+   "goToPortal": {
+      "message": "Idite na portal za korisnike"
+   },
+   "history": {
+      "message": "Povijest"
+   },
+   "home": {
+      "message": "Dom"
+   },
+   "includeReply": {
+      "message": "Uključite odgovore na komentare"
+   },
+   "includeReply1": {
+      "message": "Uključite odgovore"
+   },
+   "lemonPriceNote": {
+      "message": "Cijene su navedene u USD. Ovisno o vašoj lokaciji može se primijeniti PDV."
+   },
+   "loading": {
+      "message": "Učitavam..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Svojom pretplatom i naplatom možete upravljati na Portalu za korisnike."
+   },
+   "month": {
+      "message": "mjesec"
+   },
+   "monthly": {
+      "message": "Mjesečno"
+   },
+   "monthlyDesc": {
+      "message": "Pogodno za isprobavanje"
+   },
+   "name": {
+      "message": "TTCommentExporter - Izvoz TikTok komentara"
+   },
+   "needUpgrade": {
+      "message": "Ograničenje besplatnog računa premašeno, nadogradite za nastavak"
+   },
+   "nickName": {
+      "message": "Nadimak"
+   },
+   "no": {
+      "message": "Ne"
+   },
+   "noComments": {
+      "message": "Nije pronađen nijedan komentar"
+   },
+   "noTaskFound": {
+      "message": "Zadatak nije pronađen"
+   },
+   "numOfComments": {
+      "message": "Broj izvezenih komentara"
+   },
+   "paddlePriceNote": {
+      "message": "Cijene su navedene u USD. Možda ćete vidjeti svoju lokalnu valutu prilikom naplate, ovisno o vašoj lokaciji. Može se primijeniti PDV."
+   },
+   "pastDue": {
+      "message": "Pad Due"
+   },
+   "pause": {
+      "message": "Pauza"
+   },
+   "permAlert": {
+      "message": "Dopustite dopuštenjima za nastavak"
+   },
+   "pinnedToTop": {
+      "message": "Prikvačeno na vrh"
+   },
+   "postID": {
+      "message": "ID objave"
+   },
+   "quarterly": {
+      "message": "Tromjesečno"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} naplaćuje se svaka 3 mjeseca"
+   },
+   "randomInterval": {
+      "message": "Nasumični interval u sekundama između zahtjeva za dohvaćanje komentara."
+   },
+   "replyCount": {
+      "message": "Broj odgovora"
+   },
+   "replyToWhichComment": {
+      "message": "Odgovorite na koji komentar"
+   },
+   "selectFormat": {
+      "message": "Odaberite format izvoza."
+   },
+   "settings": {
+      "message": "postavke"
+   },
+   "signInAccount": {
+      "message": "Prijavite se na svoj račun"
+   },
+   "signInFailure": {
+      "message": "Prijava nije uspjela. Pokušajte ponovo ili nas kontaktirajte za pomoć."
+   },
+   "signInGoogle": {
+      "message": "Prijavite se s Googleom"
+   },
+   "signOut": {
+      "message": "Odjavi se"
+   },
+   "signedInAs": {
+      "message": "Prijavljeni ste kao"
+   },
+   "status": {
+      "message": "Status"
+   },
+   "subsActiveHead": {
+      "message": "Vaša pretplata je aktivna"
+   },
+   "subsActiveMsg": {
+      "message": "Vaša pretplata je aktivna. Zakazano je da se obnovi {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Vaša pretplata je otkazana"
+   },
+   "subsCanceledMsg": {
+      "message": "Vaša pretplata je otkazana. Predviđeno je da završi {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Vaša pretplata je istekla"
+   },
+   "subsExpiredMsg": {
+      "message": "Vaša pretplata je istekla."
+   },
+   "subsFreePlanMsg": {
+      "message": "Imate besplatni plan. U bilo kojem trenutku možete nadograditi na plaćeni plan."
+   },
+   "subsPastDueHead": {
+      "message": "Vaša je faktura istekla"
+   },
+   "subsPastDueMsg": {
+      "message": "Vaša je faktura istekla. Ažurirajte svoj način plaćanja."
+   },
+   "subsPausedHead": {
+      "message": "Vaša je pretplata pauzirana"
+   },
+   "subsPausedMsg": {
+      "message": "Vaša je pretplata pauzirana. Možete je nastaviti ili otkazati u bilo kojem trenutku."
+   },
+   "subsUnpaidHead": {
+      "message": "Vaša faktura nije plaćena"
+   },
+   "subsUnpaidMsg": {
+      "message": "Vaša faktura nije plaćena. Ažurirajte svoj način plaćanja."
+   },
+   "subscription": {
+      "message": "Pretplata"
+   },
+   "taskLimitNote": {
+      "message": "Trenutno će biti pohranjeno samo zadnjih 20 zadataka. Molimo preuzmite svoje podatke prije nego što se automatski izbrišu."
+   },
+   "ttLinkAlert": {
+      "message": "Podržane su samo TikTok video veze"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Unesite vezu za TikTok video"
+   },
+   "type": {
+      "message": "Tip"
+   },
+   "undoCancel": {
+      "message": "Poništi otkazivanje"
+   },
+   "unexpectedError": {
+      "message": "Došlo je do neočekivane pogreške. Pokušajte ponovo ili nam se slobodno obratite za pomoć."
+   },
+   "unlimited": {
+      "message": "Neograničen"
+   },
+   "unpaid": {
+      "message": "Neplaćeno"
+   },
+   "updatePayment": {
+      "message": "Ažuriraj plaćanje"
+   },
+   "userHomepage": {
+      "message": "Korisnička početna stranica"
+   },
+   "userID": {
+      "message": "ID korisnika"
+   },
+   "username": {
+      "message": "Korisničko ime"
+   },
+   "videoID": {
+      "message": "Video ID"
+   },
+   "videoNotExist": {
+      "message": "Videozapis ne postoji."
+   },
+   "viewDetailedPricing": {
+      "message": "Pogledajte detaljne značajke i cijene"
+   },
+   "yearly": {
+      "message": "Godišnje"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} naplaćuje se godišnje, uštedite {{2}}"
+   },
+   "yes": {
+      "message": "Da"
+   }
+}

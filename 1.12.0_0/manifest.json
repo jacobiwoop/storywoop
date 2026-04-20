@@ -1,0 +1,34 @@
+{
+   "action": {
+      "default_popup": "src/pages/popup/index.html"
+   },
+   "background": {
+      "service_worker": "src/pages/background/index.js",
+      "type": "module"
+   },
+   "content_scripts": [ {
+      "css": [ "assets/css/contentStyle1776499066486.chunk.css" ],
+      "matches": [ "*://*.tiktok.com/*" ]
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "host_permissions": [ "*://*.tiktok.com/*" ],
+   "icons": {
+      "128": "icon-128.png",
+      "48": "icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArKO2I7xs23AJ4AWgyZ19X5AF5eV5L30D90EwqLdAOXmmo0HXDy9xCzgDkLqCtdQOFsCDPgXSgoXbpqZj68lxo2DruSgs3t+vauZ0Xz1fvoWH8CiWbQXRIAf8OKHYPTlcheKMhHA1QaYSug8G9EitUni0nzPwHw4JZEvfHa+z5vZavWp3AfulkbNcVR/Mll6FZHQAboE88Ol+l5VcjxMbvSAFWxTtWbQOkBtvbHsGGJxpmGcwYx6NZ4eRg/U2ls9yYrTc5cC8av+EonUAWTaCgqknHQMgrOxJUuzt2XlAwOksiae2cIX5wePxvJUqBc0SjFGTzr2fOr/+gFkTt8GhiQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_name__",
+   "oauth2": {
+      "client_id": "43134909389-b8t6eseh32n84tslc1b8e1j8dea2v2or.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/userinfo.email" ]
+   },
+   "permissions": [ "storage", "identity", "webRequest", "scripting", "unlimitedStorage", "alarms" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.12.0",
+   "web_accessible_resources": [ {
+      "matches": [ "*://*/*" ],
+      "resources": [ "src/pages/injected/index.js", "src/pages/injectedAlt/index.js", "assets/js/*.js", "assets/css/*.css", "icon-128.png", "icon-48.png" ]
+   } ]
+}

@@ -1,0 +1,305 @@
+{
+   "active": {
+      "message": "Aktiven"
+   },
+   "authorDigged": {
+      "message": "Avtor Digged"
+   },
+   "buyNow": {
+      "message": "Kupi zdaj"
+   },
+   "cancelSubs": {
+      "message": "Prekliči naročnino"
+   },
+   "canceled": {
+      "message": "Prekinjeno"
+   },
+   "chunkDownloadNote": {
+      "message": "Za velike nabore podatkov priporočamo uporabo formata CSV. Podatki bodo razdeljeni na več delov, da se izognemo težavam pri prenosu."
+   },
+   "chunkSizeRows": {
+      "message": "Velikost kosov (vrstice)"
+   },
+   "comment": {
+      "message": "Komentiraj"
+   },
+   "commentID": {
+      "message": "ID komentarja"
+   },
+   "commentTime": {
+      "message": "Čas za komentiranje"
+   },
+   "commentsButtonNotFound": {
+      "message": "Gumba za komentarje ni bilo mogoče najti. Za nadaljevanje ga kliknite ročno."
+   },
+   "completed": {
+      "message": "Dokončano"
+   },
+   "concurrentExport": {
+      "message": "Sočasni izvoz"
+   },
+   "continue": {
+      "message": "Nadaljuj"
+   },
+   "date": {
+      "message": "Datum"
+   },
+   "delete": {
+      "message": "Izbriši"
+   },
+   "description": {
+      "message": "Izvozi komentarje TikTok v Excel v CSV za analizo."
+   },
+   "diggCount": {
+      "message": "Digg Štetje"
+   },
+   "discount25": {
+      "message": "25% popust na vse artikle! Časovno omejena ponudba."
+   },
+   "download": {
+      "message": "Prenesi"
+   },
+   "downloadError": {
+      "message": "Napaka pri prenosu, poskusite znova ali se obrnite na nas za pomoč."
+   },
+   "expired": {
+      "message": "potekel"
+   },
+   "export": {
+      "message": "Izvozi"
+   },
+   "exportDone": {
+      "message": "Uspešen izvoz"
+   },
+   "exportError": {
+      "message": "Prišlo je do napake, poskusite znova"
+   },
+   "exporting": {
+      "message": "Izvažanje ..."
+   },
+   "extracted": {
+      "message": "Ekstrahirano"
+   },
+   "faq": {
+      "message": "pogosta vprašanja"
+   },
+   "fetchSubsFailure": {
+      "message": "Podatkov o naročnini ni mogoče pridobiti, poskusite znova ali nas kontaktirajte za pomoč."
+   },
+   "findTTLink": {
+      "message": "Kako najti povezavo do videa TikTok?"
+   },
+   "free": {
+      "message": "prost"
+   },
+   "freePlan": {
+      "message": "Brezplačni načrt"
+   },
+   "goToPortal": {
+      "message": "Pojdite na portal za stranke"
+   },
+   "history": {
+      "message": "Zgodovina"
+   },
+   "home": {
+      "message": "domov"
+   },
+   "includeReply": {
+      "message": "Vključi odgovore na komentarje"
+   },
+   "includeReply1": {
+      "message": "Vključi odgovore"
+   },
+   "lemonPriceNote": {
+      "message": "Cene so navedene v USD. Odvisno od vaše lokacije se lahko obračuna DDV."
+   },
+   "loading": {
+      "message": "Nalaganje..."
+   },
+   "manageSubsAndBilling": {
+      "message": "Svojo naročnino in zaračunavanje lahko upravljate na portalu za stranke."
+   },
+   "month": {
+      "message": "mesec"
+   },
+   "monthly": {
+      "message": "Mesečno"
+   },
+   "monthlyDesc": {
+      "message": "Primerno za preizkus"
+   },
+   "name": {
+      "message": "TTCommentExporter - izvoz komentarjev TikTok"
+   },
+   "needUpgrade": {
+      "message": "Omejitev brezplačnega računa je presežena, nadgradite za nadaljevanje"
+   },
+   "nickName": {
+      "message": "Vzdevek"
+   },
+   "no": {
+      "message": "št"
+   },
+   "noComments": {
+      "message": "Ni komentarjev"
+   },
+   "noTaskFound": {
+      "message": "Naloga ni bila najdena"
+   },
+   "numOfComments": {
+      "message": "Število izvoženih komentarjev"
+   },
+   "paddlePriceNote": {
+      "message": "Cene so navedene v USD. Na blagajni boste morda videli svojo lokalno valuto, odvisno od vaše lokacije. Lahko se obračuna DDV."
+   },
+   "pastDue": {
+      "message": "Preteklost"
+   },
+   "pause": {
+      "message": "Pavza"
+   },
+   "permAlert": {
+      "message": "Dovolite dovoljenjem za nadaljevanje"
+   },
+   "pinnedToTop": {
+      "message": "Pripet na vrh"
+   },
+   "postID": {
+      "message": "ID objave"
+   },
+   "quarterly": {
+      "message": "Četrtletnik"
+   },
+   "quarterlyDesc": {
+      "message": "{{}} zaračunano vsake 3 mesece"
+   },
+   "randomInterval": {
+      "message": "Naključni interval v sekundah med zahtevami za pridobivanje komentarjev."
+   },
+   "replyCount": {
+      "message": "Število odgovorov"
+   },
+   "replyToWhichComment": {
+      "message": "Odgovorite na kateri komentar"
+   },
+   "selectFormat": {
+      "message": "Izberite obliko izvoza."
+   },
+   "settings": {
+      "message": "nastavitve"
+   },
+   "signInAccount": {
+      "message": "Prijavite se v svoj račun"
+   },
+   "signInFailure": {
+      "message": "Prijava ni uspela. Poskusite znova ali nas kontaktirajte za pomoč."
+   },
+   "signInGoogle": {
+      "message": "Prijavite se z Googlom"
+   },
+   "signOut": {
+      "message": "Odjava"
+   },
+   "signedInAs": {
+      "message": "Prijavljen kot"
+   },
+   "status": {
+      "message": "Stanje"
+   },
+   "subsActiveHead": {
+      "message": "Vaša naročnina je aktivna"
+   },
+   "subsActiveMsg": {
+      "message": "Vaša naročnina je aktivna. Obnovitev je predvidena {{}}."
+   },
+   "subsCanceledHead": {
+      "message": "Vaša naročnina je preklicana"
+   },
+   "subsCanceledMsg": {
+      "message": "Vaša naročnina je preklicana. Konča se predvidoma {{}}."
+   },
+   "subsExpiredHead": {
+      "message": "Vaša naročnina je potekla"
+   },
+   "subsExpiredMsg": {
+      "message": "Vaša naročnina je potekla."
+   },
+   "subsFreePlanMsg": {
+      "message": "Imate brezplačen načrt. Kadar koli lahko nadgradite na plačljivi paket."
+   },
+   "subsPastDueHead": {
+      "message": "Vaš račun je zapadel"
+   },
+   "subsPastDueMsg": {
+      "message": "Vaš račun je zapadel. Posodobite svoje plačilno sredstvo."
+   },
+   "subsPausedHead": {
+      "message": "Vaša naročnina je začasno ustavljena"
+   },
+   "subsPausedMsg": {
+      "message": "Vaša naročnina je začasno ustavljena. Lahko jo kadar koli nadaljujete ali prekličete."
+   },
+   "subsUnpaidHead": {
+      "message": "Vaš račun ni plačan"
+   },
+   "subsUnpaidMsg": {
+      "message": "Vaš račun ni plačan. Posodobite svoje plačilno sredstvo."
+   },
+   "subscription": {
+      "message": "Naročnina"
+   },
+   "taskLimitNote": {
+      "message": "Trenutno bo shranjenih samo zadnjih 20 opravil. Prenesite svoje podatke, preden se samodejno izbrišejo."
+   },
+   "ttLinkAlert": {
+      "message": "Podprte so samo video povezave TikTok"
+   },
+   "ttLinkPlaceholder": {
+      "message": "Vnesite povezavo do videa TikTok"
+   },
+   "type": {
+      "message": "Vrsta"
+   },
+   "undoCancel": {
+      "message": "Razveljavi preklic"
+   },
+   "unexpectedError": {
+      "message": "Prišlo je do nepričakovane napake. Prosimo, poskusite znova ali pa se obrnite na nas za pomoč."
+   },
+   "unlimited": {
+      "message": "Neomejeno"
+   },
+   "unpaid": {
+      "message": "Neplačano"
+   },
+   "updatePayment": {
+      "message": "Posodobi plačilo"
+   },
+   "userHomepage": {
+      "message": "Domača stran uporabnika"
+   },
+   "userID": {
+      "message": "Uporabniško ime"
+   },
+   "username": {
+      "message": "Uporabniško ime"
+   },
+   "videoID": {
+      "message": "Video ID"
+   },
+   "videoNotExist": {
+      "message": "Video ne obstaja."
+   },
+   "viewDetailedPricing": {
+      "message": "Ogled podrobnih funkcij in cen"
+   },
+   "yearly": {
+      "message": "Letno"
+   },
+   "yearlyDesc": {
+      "message": "{{1}} zaračunano letno, prihranite {{2}}"
+   },
+   "yes": {
+      "message": "ja"
+   }
+}
