@@ -1,33 +1,32 @@
 import { useState, useEffect } from "react";
 import styles from "./styles/Home.module.css";
+import Dashboard from "./Dashboard";
 
 export default function App() {
   const [mounted, setMounted] = useState(false);
+  const [isAuthenticated, setIsAuthenticated] = useState(false);
+  const [tokenType, setTokenType] = useState<string | undefined>(undefined);
 
   useEffect(() => {
     setMounted(true);
     document.title = "StoryHub — Centralisez vos Storytimes";
+
+    // Check if redirected with success from backend
+    const params = new URLSearchParams(window.location.search);
+    if (params.get('auth') === 'success') {
+      setIsAuthenticated(true);
+      setTokenType(params.get('token_type') || undefined);
+    }
   }, []);
 
   const handleLogin = () => {
-    // Dans Vite, on redirigera vers le backend Express
-    // qui s'occupe de la redirection TikTok
-    window.location.href = "http://localhost:3000/api/auth/tiktok";
+    window.location.href = "http://localhost:3001/api/auth/tiktok";
   };
 
-  if (!mounted) {
-    return (
-      <div style={{ 
-        display: 'flex', 
-        justifyContent: 'center', 
-        alignItems: 'center', 
-        height: '100vh', 
-        fontFamily: 'sans-serif',
-        background: '#f8fafc'
-      }}>
-        <p>Chargement de StoryHub...</p>
-      </div>
-    );
+  if (!mounted) return null;
+
+  if (isAuthenticated) {
+    return <Dashboard tokenType={tokenType} />;
   }
 
   return (

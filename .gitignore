@@ -16,7 +16,9 @@
 # next.js
 /.next/
 /out/
-
+temp_profile
+chrome_session
+extention-copier
 # production
 /build
 

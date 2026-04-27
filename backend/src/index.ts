@@ -1,12 +1,21 @@
-import express, { Request, Response } from 'express';
+import express from 'express';
+import type { Request, Response } from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import { fileURLToPath } from 'url';
 import path from 'path';
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 dotenv.config({ path: path.resolve(__dirname, '../../.env.local') });
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 3001;
+
+// Simple in-memory token storage (for POC)
+const tokenStore = new Map<string, any>();
+let lastToken: string | null = null;
 
 app.use(cors());
 app.use(express.json());
@@ -19,8 +28,8 @@ app.use((req, _res, next) => {
 
 // TikTok OAuth Redirect
 app.get('/api/auth/tiktok', (req, res) => {
-  const clientId = process.env.NEXT_PUBLIC_TIKTOK_CLIENT_ID;
-  const redirectUri = encodeURIComponent(process.env.TIKTOK_REDIRECT_URI || 'http://localhost:3000/api/auth/callback');
+  const clientId = process.env.TIKTOK_CLIENT_ID;
+  const redirectUri = encodeURIComponent(process.env.TIKTOK_REDIRECT_URI || 'http://localhost:3001/api/auth/callback');
   const scope = 'user.info.basic,video.list,comment.list';
   const state = Math.random().toString(36).substring(7);
 
@@ -42,7 +51,7 @@ app.get('/api/auth/callback', async (req: Request, res: Response) => {
   }
 
   try {
-    const clientId = process.env.NEXT_PUBLIC_TIKTOK_CLIENT_ID;
+    const clientId = process.env.TIKTOK_CLIENT_ID;
     const clientSecret = process.env.TIKTOK_CLIENT_SECRET;
 
     const response = await fetch('https://open.tiktokapis.com/v2/oauth/token/', {
@@ -67,10 +76,59 @@ app.get('/api/auth/callback', async (req: Request, res: Response) => {
 
     // Ici on stockerait le token dans une DB
     // Pour l'instant on redirige vers le frontend avec un succès
-    res.redirect(`http://localhost:3001/?auth=success&token_type=${data.token_type}`);
+    // Stockage du token
+    lastToken = data.access_token;
+    tokenStore.set('current', data);
+
+    res.redirect(`http://localhost:3000/?auth=success&token_type=${data.token_type}`);
   } catch (err) {
     console.error('Callback error:', err);
     res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
+// Fetch videos list
+app.get('/api/tiktok/videos', async (req, res) => {
+  if (!lastToken) return res.status(401).json({ error: 'Not authenticated' });
+
+  try {
+    const response = await fetch('https://open.tiktokapis.com/v2/video/list/', {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${lastToken}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        max_count: 10
+      })
+    });
+    const data = await response.json();
+    res.json(data);
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to fetch videos' });
+  }
+});
+
+// Fetch comments for a specific video
+app.get('/api/tiktok/comments/:video_id', async (req, res) => {
+  const { video_id } = req.params;
+  if (!lastToken) return res.status(401).json({ error: 'Not authenticated' });
+
+  try {
+    const response = await fetch(`https://open.tiktokapis.com/v2/comment/list/?video_id=${video_id}`, {
+      method: 'POST',
+      headers: {
+        'Authorization': `Bearer ${lastToken}`,
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        max_count: 20
+      })
+    });
+    const data = await response.json();
+    res.json(data);
+  } catch (err) {
+    res.status(500).json({ error: 'Failed to fetch comments' });
   }
 });
 

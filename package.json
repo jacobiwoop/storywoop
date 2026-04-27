@@ -5,11 +5,14 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "concurrently \"cd frontend && npm run dev\" \"cd backend && npm run dev\"",
     "lint": "eslint"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
+    "fs-extra": "^11.3.4",
     "next": "16.2.4",
+    "playwright": "^1.59.1",
     "puppeteer": "^24.42.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
@@ -20,6 +23,7 @@
     "@types/node": "^25.6.0",
     "@types/react": "^19.2.14",
     "@types/react-dom": "^19.2.3",
+    "concurrently": "^9.2.1",
     "eslint": "^9",
     "eslint-config-next": "16.2.4",
     "typescript": "^6.0.3"
